@@ -105,12 +105,24 @@ We face three converging crises that demand revolutionary response:
 | Competency-Based Credentials | `HUMAN_CAPITAL_POLICY.md` | Complete |
 | Lifelong Learning Accounts | `HUMAN_CAPITAL_POLICY.md` | Complete |
 
-### PILLAR VI: Additional Policy Areas
+### PILLAR VI: Climate & Energy
+*The abundant energy future*
+
+| Policy | Document | Status |
+|--------|----------|--------|
+| Renewable Energy Acceleration | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Nuclear Fission Renaissance (SMRs) | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Nuclear Fusion Investment | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| AI Grid Optimization | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Carbon Fee and Dividend | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Transportation Electrification | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Climate Adaptation & Resilience | `CLIMATE_ENERGY_POLICY.md` | Complete |
+
+### PILLAR VII: Additional Policy Areas
 *To be developed*
 
 | Policy Area | Status |
 |-------------|--------|
-| Climate & Environment | Planned |
 | Criminal Justice Reform | Planned |
 | Housing | Planned |
 | Immigration | Planned |
@@ -129,6 +141,8 @@ We face three converging crises that demand revolutionary response:
 │   ├── ECONOMIC_JUSTICE.md      # Robot Tax, Data Tax, UBI
 │   ├── AI_GOVERNANCE.md         # Algorithmic Republic
 │   ├── BLOCKCHAIN_POLICY.md     # Sound Money, Truth Infrastructure
+│   ├── HUMAN_CAPITAL_POLICY.md  # Healthcare, Education
+│   ├── CLIMATE_ENERGY_POLICY.md # Climate, Renewables, Nuclear
 │   └── [future policies]
 │
 ├── /research                    # Supporting research and data
@@ -229,6 +243,8 @@ This worldview will generate:
 - [x] Economic Justice Framework (Robot Tax, Data Tax, UBI)
 - [x] AI Governance Framework (Algorithmic Republic)
 - [x] Blockchain Policy (Sound Money, Truth Infrastructure)
+- [x] Human Capital Framework (Healthcare, Education)
+- [x] Climate & Energy Framework (Renewables, Nuclear, Carbon Pricing)
 - [x] Research compilation with sources
 - [x] Book framework outline
 
@@ -237,9 +253,6 @@ This worldview will generate:
 - [ ] Manifesto draft
 
 ### Planned
-- [ ] Healthcare policy framework
-- [ ] Education policy framework
-- [ ] Climate policy framework
 - [ ] Criminal justice framework
 - [ ] Housing policy framework
 - [ ] Immigration framework
@@ -279,6 +292,7 @@ This worldview will generate:
 | `BLOCKCHAIN_POLICY.md` | Sound money & truth infrastructure | 700+ |
 | `AI_GOVERNANCE.md` | The Algorithmic Republic | 800+ |
 | `HUMAN_CAPITAL_POLICY.md` | Healthcare & Education framework | 700+ |
+| `CLIMATE_ENERGY_POLICY.md` | Climate, Renewables, Nuclear, Carbon Pricing | 800+ |
 | `RESEARCH_NOTES.md` | Current data with sources | 300+ |
 | `BOOK_FRAMEWORK.md` | 26-chapter book outline | 500+ |
 
