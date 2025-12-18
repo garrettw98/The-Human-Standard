@@ -123,15 +123,65 @@ We face three converging crises that demand revolutionary response:
 | Autonomous Vehicle Infrastructure | `CLIMATE_ENERGY_POLICY.md` | Complete |
 | Climate Adaptation & Resilience | `CLIMATE_ENERGY_POLICY.md` | Complete |
 
-### PILLAR VII: Additional Policy Areas
-*To be developed*
+### PILLAR VII: Criminal Justice Reform
+*Evidence-based justice for the 21st century*
 
-| Policy Area | Status |
-|-------------|--------|
-| Criminal Justice Reform | Planned |
-| Housing | Planned |
-| Immigration | Planned |
-| Defense & Foreign Policy | Planned |
+| Policy | Document | Status |
+|--------|----------|--------|
+| Mass Incarceration Reform | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| Cash Bail Elimination | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| Drug Policy Reform (Portugal Model) | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| Police Reform & Accountability | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| Sentencing Reform | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| Prison Conditions & Rehabilitation | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| Reentry & Second Chance | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| Restorative Justice | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| Juvenile Justice Reform | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+| AI in Criminal Justice | `CRIMINAL_JUSTICE_POLICY.md` | Complete |
+
+### PILLAR VIII: Housing Policy
+*Housing abundance and homelessness elimination*
+
+| Policy | Document | Status |
+|--------|----------|--------|
+| YIMBY Zoning Reform | `HOUSING_POLICY.md` | Complete |
+| Affordable Housing Expansion | `HOUSING_POLICY.md` | Complete |
+| Rent Stabilization | `HOUSING_POLICY.md` | Complete |
+| Homeownership Promotion | `HOUSING_POLICY.md` | Complete |
+| Housing First (Homelessness) | `HOUSING_POLICY.md` | Complete |
+| Construction Innovation | `HOUSING_POLICY.md` | Complete |
+| Public Housing Modernization | `HOUSING_POLICY.md` | Complete |
+| AI Housing Administration | `HOUSING_POLICY.md` | Complete |
+
+### PILLAR IX: Immigration Policy
+*Merit, humanity, and economic growth*
+
+| Policy | Document | Status |
+|--------|----------|--------|
+| High-Skilled Immigration (H-1B Reform) | `IMMIGRATION_POLICY.md` | Complete |
+| Essential Worker Programs | `IMMIGRATION_POLICY.md` | Complete |
+| Family Immigration Reform | `IMMIGRATION_POLICY.md` | Complete |
+| Asylum & Refugee Policy | `IMMIGRATION_POLICY.md` | Complete |
+| Border Security & Technology | `IMMIGRATION_POLICY.md` | Complete |
+| Undocumented Population (Earned Legalization) | `IMMIGRATION_POLICY.md` | Complete |
+| E-Verify & Employment | `IMMIGRATION_POLICY.md` | Complete |
+| Integration & Citizenship | `IMMIGRATION_POLICY.md` | Complete |
+| AI Immigration Processing | `IMMIGRATION_POLICY.md` | Complete |
+
+### PILLAR X: Defense & Foreign Policy
+*American leadership in the age of autonomous systems*
+
+| Policy | Document | Status |
+|--------|----------|--------|
+| Autonomous Weapons Policy | `DEFENSE_FOREIGN_POLICY.md` | Complete |
+| Cyber Warfare & Defense | `DEFENSE_FOREIGN_POLICY.md` | Complete |
+| Space Security | `DEFENSE_FOREIGN_POLICY.md` | Complete |
+| Great Power Competition (China) | `DEFENSE_FOREIGN_POLICY.md` | Complete |
+| Alliance Modernization | `DEFENSE_FOREIGN_POLICY.md` | Complete |
+| Nuclear Policy | `DEFENSE_FOREIGN_POLICY.md` | Complete |
+| Climate Security | `DEFENSE_FOREIGN_POLICY.md` | Complete |
+| Defense Industrial Base | `DEFENSE_FOREIGN_POLICY.md` | Complete |
+| AI Military Ethics | `DEFENSE_FOREIGN_POLICY.md` | Complete |
 
 ---
 
@@ -148,7 +198,10 @@ We face three converging crises that demand revolutionary response:
 │   ├── BLOCKCHAIN_POLICY.md     # Sound Money, Truth Infrastructure
 │   ├── HUMAN_CAPITAL_POLICY.md  # Healthcare, Education
 │   ├── CLIMATE_ENERGY_POLICY.md # Climate, Renewables, Nuclear
-│   └── [future policies]
+│   ├── CRIMINAL_JUSTICE_POLICY.md # Justice Reform, Policing, Reentry
+│   ├── HOUSING_POLICY.md        # Housing Abundance, Homelessness
+│   ├── IMMIGRATION_POLICY.md    # Immigration Reform, Border Security
+│   └── DEFENSE_FOREIGN_POLICY.md # Defense, China, Alliances
 │
 ├── /research                    # Supporting research and data
 │   └── RESEARCH_NOTES.md        # Current statistics and sources
@@ -249,7 +302,11 @@ This worldview will generate:
 - [x] AI Governance Framework (Algorithmic Republic)
 - [x] Blockchain Policy (Sound Money, Truth Infrastructure)
 - [x] Human Capital Framework (Healthcare, Education)
-- [x] Climate & Energy Framework (Renewables, Nuclear, Carbon Pricing)
+- [x] Climate & Energy Framework (Renewables, Nuclear, Carbon Pricing, Transportation)
+- [x] Criminal Justice Framework (Mass Incarceration, Drug Policy, Police Reform)
+- [x] Housing Policy Framework (YIMBY, Housing First, Affordability)
+- [x] Immigration Framework (High-Skilled, Asylum, Legalization)
+- [x] Defense & Foreign Policy Framework (Autonomous Weapons, China, Alliances)
 - [x] Research compilation with sources
 - [x] Book framework outline
 
@@ -258,12 +315,9 @@ This worldview will generate:
 - [ ] Manifesto draft
 
 ### Planned
-- [ ] Criminal justice framework
-- [ ] Housing policy framework
-- [ ] Immigration framework
-- [ ] Defense/foreign policy framework
 - [ ] Social media content templates
 - [ ] Model legislation drafts
+- [ ] Campaign materials
 
 ---
 
@@ -298,6 +352,10 @@ This worldview will generate:
 | `AI_GOVERNANCE.md` | The Algorithmic Republic | 800+ |
 | `HUMAN_CAPITAL_POLICY.md` | Healthcare & Education framework | 700+ |
 | `CLIMATE_ENERGY_POLICY.md` | Climate, Renewables, Nuclear, Transportation, Pricing | 1200+ |
+| `CRIMINAL_JUSTICE_POLICY.md` | Justice reform, policing, drug policy, reentry | 800+ |
+| `HOUSING_POLICY.md` | Housing abundance, homelessness, affordability | 800+ |
+| `IMMIGRATION_POLICY.md` | Immigration reform, asylum, border security | 800+ |
+| `DEFENSE_FOREIGN_POLICY.md` | Defense transformation, China strategy, alliances | 800+ |
 | `RESEARCH_NOTES.md` | Current data with sources | 300+ |
 | `BOOK_FRAMEWORK.md` | 26-chapter book outline | 500+ |
 
