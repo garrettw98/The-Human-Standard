@@ -94,7 +94,7 @@ We face three converging crises that demand revolutionary response:
 | Anti-Deepfake Legislation | `BLOCKCHAIN_POLICY.md` | Complete |
 
 ### PILLAR V: Human Capital
-*Healthcare and education for the automation age*
+*Healthcare, education, and care infrastructure for the automation age*
 
 | Policy | Document | Status |
 |--------|----------|--------|
@@ -104,6 +104,15 @@ We face three converging crises that demand revolutionary response:
 | AI Tutoring Access | `HUMAN_CAPITAL_POLICY.md` | Complete |
 | Competency-Based Credentials | `HUMAN_CAPITAL_POLICY.md` | Complete |
 | Lifelong Learning Accounts | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Mental Health Parity & Access | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| 988 Crisis System Expansion | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Universal Childcare & Pre-K | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Paid Family Leave | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Elder Care & Aging in Place | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Long-Term Care Reform | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Automation Early Warning System | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| AI Literacy for All | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Workforce Transition Support | `HUMAN_CAPITAL_POLICY.md` | Complete |
 
 ### PILLAR VI: Climate & Energy
 *The abundant energy future*
@@ -350,7 +359,7 @@ This worldview will generate:
 | `POLICY_DEEP_DIVE.md` | Robot Tax & Data Tax framework | 600+ |
 | `BLOCKCHAIN_POLICY.md` | Sound money & truth infrastructure | 700+ |
 | `AI_GOVERNANCE.md` | The Algorithmic Republic | 800+ |
-| `HUMAN_CAPITAL_POLICY.md` | Healthcare & Education framework | 700+ |
+| `HUMAN_CAPITAL_POLICY.md` | Healthcare, Education, Childcare, Elder Care, Workforce | 1500+ |
 | `CLIMATE_ENERGY_POLICY.md` | Climate, Renewables, Nuclear, Transportation, Pricing | 1200+ |
 | `CRIMINAL_JUSTICE_POLICY.md` | Justice reform, policing, drug policy, reentry | 800+ |
 | `HOUSING_POLICY.md` | Housing abundance, homelessness, affordability | 800+ |
