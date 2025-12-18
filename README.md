@@ -330,6 +330,8 @@ This worldview will generate:
 - [x] Historical foundation document
 - [ ] Book chapters (prose)
 - [x] Stories and case studies
+- [x] Messaging and communications guide
+- [x] Action guide for supporters
 - [ ] Social media content templates
 - [ ] Model legislation drafts
 - [ ] Campaign materials
