@@ -93,13 +93,23 @@ We face three converging crises that demand revolutionary response:
 | Self-Sovereign Identity | `BLOCKCHAIN_POLICY.md` | Complete |
 | Anti-Deepfake Legislation | `BLOCKCHAIN_POLICY.md` | Complete |
 
-### PILLAR V: Additional Policy Areas
+### PILLAR V: Human Capital
+*Healthcare and education for the automation age*
+
+| Policy | Document | Status |
+|--------|----------|--------|
+| Healthcare Administrative Automation | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Universal Health Access | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| AI Diagnostic Assistance | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| AI Tutoring Access | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Competency-Based Credentials | `HUMAN_CAPITAL_POLICY.md` | Complete |
+| Lifelong Learning Accounts | `HUMAN_CAPITAL_POLICY.md` | Complete |
+
+### PILLAR VI: Additional Policy Areas
 *To be developed*
 
 | Policy Area | Status |
 |-------------|--------|
-| Healthcare | Planned |
-| Education | Planned |
 | Climate & Environment | Planned |
 | Criminal Justice Reform | Planned |
 | Housing | Planned |
@@ -268,6 +278,7 @@ This worldview will generate:
 | `POLICY_DEEP_DIVE.md` | Robot Tax & Data Tax framework | 600+ |
 | `BLOCKCHAIN_POLICY.md` | Sound money & truth infrastructure | 700+ |
 | `AI_GOVERNANCE.md` | The Algorithmic Republic | 800+ |
+| `HUMAN_CAPITAL_POLICY.md` | Healthcare & Education framework | 700+ |
 | `RESEARCH_NOTES.md` | Current data with sources | 300+ |
 | `BOOK_FRAMEWORK.md` | 26-chapter book outline | 500+ |
 
