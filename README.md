@@ -318,12 +318,12 @@ This worldview will generate:
 - [x] Book framework outline
 - [x] Manifesto (The Human Standard)
 - [x] Constitution (Declaration of Principles)
+- [x] FAQ (Objections and Rebuttals)
 
 ### In Progress
 - [x] Repository restructuring
 
 ### Planned
-- [ ] FAQ document (objections and rebuttals)
 - [ ] Transition roadmap document
 - [ ] Meaning & purpose document (post-automation flourishing)
 - [ ] Opposition analysis document
@@ -365,6 +365,7 @@ This worldview will generate:
 |----------|-------------|-------|
 | [`MANIFESTO.md`](MANIFESTO.md) | The Human Standard - Core philosophy and vision | 500+ |
 | [`CONSTITUTION.md`](CONSTITUTION.md) | Declaration of Principles - The Five Laws, The Pledge | 350+ |
+| [`FAQ.md`](FAQ.md) | Objections and Rebuttals - Arms supporters with answers | 500+ |
 | [`BOOK_FRAMEWORK.md`](BOOK_FRAMEWORK.md) | The Automation Reckoning - 26-chapter book outline | 500+ |
 | [`RESEARCH_NOTES.md`](RESEARCH_NOTES.md) | Current statistics and sources | 300+ |
 
