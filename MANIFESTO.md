@@ -1,5 +1,6 @@
-# THE ZENO MANIFESTO
-## A Political Philosophy for the Age of Intelligent Machines
+# THE HUMAN STANDARD
+## A Manifesto for the Age of Intelligent Machines
+### By Zeno
 
 ---
 
@@ -19,7 +20,7 @@ We need a new political philosophy. Not a minor adjustment to existing ideologie
 
 This manifesto presents that philosophy.
 
-We call it Zeno.
+We call it **The Human Standard**.
 
 ---
 
@@ -489,7 +490,9 @@ Every level matters. Not everyone will run for office or start companies. But ev
 
 ---
 
-**Zeno**
-*A Political Philosophy for the Age of Intelligent Machines*
+**The Human Standard**
+*By Zeno*
+
+*Technology serves humanity. Not the other way around.*
 
 *Last updated: December 2025*

@@ -1,11 +1,16 @@
-# ZENO
+# THE HUMAN STANDARD
 ## A Political Worldview for the Age of Intelligent Machines
+### By Zeno
+
+---
+
+> *Technology serves humanity. Not the other way around.*
 
 ---
 
 ## What Is This?
 
-This repository contains the complete political philosophy, policy frameworks, and strategic vision of **Zeno**—a revolutionary platform for governance in the automation age.
+This repository contains **The Human Standard**—a complete political philosophy, policy framework, and strategic vision for governance in the automation age. Created by **Zeno**.
 
 This is not just a book. This is:
 - A comprehensive political worldview
@@ -36,7 +41,7 @@ We face three converging crises that demand revolutionary response:
    - Central banks serve elites, not citizens
    - The dollar's 96% purchasing power decline since 1913
 
-### The Zeno Solution
+### The Solution: The Human Standard
 
 **Human-Centered Capitalism** governed by **Open Source AI** funded by **Sound Money**.
 
@@ -219,7 +224,7 @@ We face three converging crises that demand revolutionary response:
 
 ## The Five Laws
 
-All Zeno policies are constrained by five inviolable principles:
+All Human Standard policies are constrained by five inviolable principles:
 
 1. **Do No Harm** - No policy may directly cause physical harm or deprive basic necessities
 2. **Maximize Flourishing** - Optimize for human wellbeing, not GDP or corporate profit
@@ -233,7 +238,7 @@ All Zeno policies are constrained by five inviolable principles:
 
 Traditional metrics (GDP, stock market, unemployment rate) are rejected as primary measures.
 
-**Zeno optimizes for:**
+**The Human Standard optimizes for:**
 
 | Category | Metrics |
 |----------|---------|
@@ -248,9 +253,9 @@ Traditional metrics (GDP, stock market, unemployment rate) are rejected as prima
 
 ## Political Positioning
 
-Zeno transcends traditional left-right divisions:
+The Human Standard transcends traditional left-right divisions:
 
-| Issue | Zeno Position | Traditional Left | Traditional Right |
+| Issue | Human Standard Position | Traditional Left | Traditional Right |
 |-------|---------------|------------------|-------------------|
 | UBI | Yes (fund via automation) | Sometimes | Rarely |
 | Open Borders for Capital | Taxed (Data Tax, Robot Tax) | Tax | Free flow |
@@ -350,7 +355,7 @@ This worldview will generate:
 ### Foundation
 | Document | Description | Lines |
 |----------|-------------|-------|
-| [`MANIFESTO.md`](MANIFESTO.md) | The Zeno Manifesto - Core philosophy and vision | 500+ |
+| [`MANIFESTO.md`](MANIFESTO.md) | The Human Standard - Core philosophy and vision | 500+ |
 | [`BOOK_FRAMEWORK.md`](BOOK_FRAMEWORK.md) | The Automation Reckoning - 26-chapter book outline | 500+ |
 | [`RESEARCH_NOTES.md`](RESEARCH_NOTES.md) | Current statistics and sources | 300+ |
 
@@ -378,10 +383,10 @@ This worldview will generate:
 > — Andrew Yang
 
 > *"The corrupt human must be removed from the equation—not through tyranny, but through technology."*
-> — Zeno
+> — Zeno, *The Human Standard*
 
 > *"We build the systems that build the world. Let us build them to serve all humanity."*
-> — Zeno
+> — Zeno, *The Human Standard*
 
 ---
 
