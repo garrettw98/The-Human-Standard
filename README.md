@@ -1,415 +1,206 @@
 # THE HUMAN STANDARD
-## A Political Worldview for the Age of Intelligent Machines
+## A Complete Political Philosophy for the Automation Age
 ### By Zeno
 
 ---
 
-> *Technology serves humanity. Not the other way around.*
+**Technology should serve humanity. Not the other way around.**
 
 ---
 
 ## What Is This?
 
-This repository contains **The Human Standard**—a complete political philosophy, policy framework, and strategic vision for governance in the automation age. Created by **Zeno**.
+**The Human Standard** is a complete political philosophy, policy framework, and movement infrastructure for governance in the age of AI and automation.
 
-This is not just a book. This is:
-- A comprehensive political worldview
-- Detailed policy frameworks ready for legislation
-- The foundation for books, campaigns, social media, and movements
-- A blueprint for human-centered governance in the 21st century
+**87 documents. 53,000+ lines. Everything you need to understand, advocate for, and implement human-centered policies for the 21st century.**
 
----
-
-## Core Philosophy
-
-### The Three Crises
-
-We face three converging crises that demand revolutionary response:
-
-1. **The Automation Crisis**
-   - AI and robotics will displace hundreds of millions of jobs
-   - The timeline is compressed—years, not decades
-   - Current institutions are unprepared
-
-2. **The Trust Crisis**
-   - Deepfakes make truth unverifiable
-   - Corruption pervades human institutions
-   - Citizens have lost faith in government
-
-3. **The Monetary Crisis**
-   - Fiat currency debases savings through inflation
-   - Central banks serve elites, not citizens
-   - The dollar's 96% purchasing power decline since 1913
-
-### The Solution: The Human Standard
-
-**Human-Centered Capitalism** governed by **Open Source AI** funded by **Sound Money**.
-
-| Pillar | Principle |
-|--------|-----------|
-| **Economic** | Automation should benefit all, not just capital owners |
-| **Governance** | AI can administer without corruption; humans set policy |
-| **Monetary** | Citizens deserve money that cannot be debased |
-| **Truth** | Blockchain provides verification in a post-truth world |
-| **Global** | Shared challenges require coordinated solutions |
+This repository contains:
+- A complete **26-chapter book**
+- **Manifesto and Constitution**
+- **10 comprehensive policy frameworks**
+- **6 pieces of model legislation**
+- **Implementation guides and technical specs**
+- **Messaging and communications strategy**
+- **Political strategy and coalition building**
+- **Economic analysis and research**
+- **Movement building infrastructure**
 
 ---
 
-## Policy Framework
+## Quick Start
 
-### PILLAR I: Economic Justice
-*Ensuring automation benefits everyone*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| Robot Tax (Automation Productivity Tax) | `policy/ECONOMIC_POLICY.md` | Complete |
-| Data Dividend Tax | `policy/ECONOMIC_POLICY.md` | Complete |
-| Universal Basic Income | `policy/ECONOMIC_POLICY.md` | Complete |
-| AI Training Data Royalties | `policy/ECONOMIC_POLICY.md` | Complete |
-
-### PILLAR II: Governance Revolution
-*Replacing corrupt human administration with transparent AI*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| Open Source AI Mandate | `policy/AI_GOVERNANCE.md` | Complete |
-| Human-Centered Capitalism Framework | `policy/AI_GOVERNANCE.md` | Complete |
-| Algorithmic Government | `policy/AI_GOVERNANCE.md` | Complete |
-| AI Policy Council | `policy/AI_GOVERNANCE.md` | Complete |
-| Global Convergence Framework | `policy/AI_GOVERNANCE.md` | Complete |
-
-### PILLAR III: Monetary Freedom
-*Sound money and blockchain infrastructure*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| Sound Money Transition | `policy/BLOCKCHAIN_POLICY.md` | Complete |
-| Strategic Bitcoin Reserve Expansion | `policy/BLOCKCHAIN_POLICY.md` | Complete |
-| Stablecoin Standards | `policy/BLOCKCHAIN_POLICY.md` | Complete |
-| Anti-CBDC Position | `policy/BLOCKCHAIN_POLICY.md` | Complete |
-
-### PILLAR IV: Truth Infrastructure
-*Verification in the age of deepfakes*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| National Authenticity Infrastructure | `policy/BLOCKCHAIN_POLICY.md` | Complete |
-| Blockchain Voting | `policy/BLOCKCHAIN_POLICY.md` | Complete |
-| Self-Sovereign Identity | `policy/BLOCKCHAIN_POLICY.md` | Complete |
-| Anti-Deepfake Legislation | `policy/BLOCKCHAIN_POLICY.md` | Complete |
-
-### PILLAR V: Human Capital
-*Healthcare, education, and care infrastructure for the automation age*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| Healthcare Administrative Automation | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Universal Health Access | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| AI Diagnostic Assistance | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| AI Tutoring Access | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Competency-Based Credentials | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Lifelong Learning Accounts | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Mental Health Parity & Access | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| 988 Crisis System Expansion | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Universal Childcare & Pre-K | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Paid Family Leave | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Elder Care & Aging in Place | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Long-Term Care Reform | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Automation Early Warning System | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| AI Literacy for All | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-| Workforce Transition Support | `policy/HUMAN_CAPITAL_POLICY.md` | Complete |
-
-### PILLAR VI: Climate & Energy
-*The abundant energy future*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| Renewable Energy Acceleration | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Geothermal (Enhanced Geothermal Systems) | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Nuclear Fission Renaissance (SMRs) | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Nuclear Fusion Investment | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Hydrogen Economy | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| AI Grid Optimization | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Data Center Energy Policy | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Carbon Fee and Dividend | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Energy Consumption & Pricing | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| EV Policy & Incentives | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Autonomous Vehicle Infrastructure | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-| Climate Adaptation & Resilience | `policy/CLIMATE_ENERGY_POLICY.md` | Complete |
-
-### PILLAR VII: Criminal Justice Reform
-*Evidence-based justice for the 21st century*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| Mass Incarceration Reform | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| Cash Bail Elimination | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| Drug Policy Reform (Portugal Model) | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| Police Reform & Accountability | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| Sentencing Reform | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| Prison Conditions & Rehabilitation | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| Reentry & Second Chance | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| Restorative Justice | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| Juvenile Justice Reform | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-| AI in Criminal Justice | `policy/CRIMINAL_JUSTICE_POLICY.md` | Complete |
-
-### PILLAR VIII: Housing Policy
-*Housing abundance and homelessness elimination*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| YIMBY Zoning Reform | `policy/HOUSING_POLICY.md` | Complete |
-| Affordable Housing Expansion | `policy/HOUSING_POLICY.md` | Complete |
-| Rent Stabilization | `policy/HOUSING_POLICY.md` | Complete |
-| Homeownership Promotion | `policy/HOUSING_POLICY.md` | Complete |
-| Housing First (Homelessness) | `policy/HOUSING_POLICY.md` | Complete |
-| Construction Innovation | `policy/HOUSING_POLICY.md` | Complete |
-| Public Housing Modernization | `policy/HOUSING_POLICY.md` | Complete |
-| AI Housing Administration | `policy/HOUSING_POLICY.md` | Complete |
-
-### PILLAR IX: Immigration Policy
-*Merit, humanity, and economic growth*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| High-Skilled Immigration (H-1B Reform) | `policy/IMMIGRATION_POLICY.md` | Complete |
-| Essential Worker Programs | `policy/IMMIGRATION_POLICY.md` | Complete |
-| Family Immigration Reform | `policy/IMMIGRATION_POLICY.md` | Complete |
-| Asylum & Refugee Policy | `policy/IMMIGRATION_POLICY.md` | Complete |
-| Border Security & Technology | `policy/IMMIGRATION_POLICY.md` | Complete |
-| Undocumented Population (Earned Legalization) | `policy/IMMIGRATION_POLICY.md` | Complete |
-| E-Verify & Employment | `policy/IMMIGRATION_POLICY.md` | Complete |
-| Integration & Citizenship | `policy/IMMIGRATION_POLICY.md` | Complete |
-| AI Immigration Processing | `policy/IMMIGRATION_POLICY.md` | Complete |
-
-### PILLAR X: Defense & Foreign Policy
-*American leadership in the age of autonomous systems*
-
-| Policy | Document | Status |
-|--------|----------|--------|
-| Autonomous Weapons Policy | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
-| Cyber Warfare & Defense | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
-| Space Security | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
-| Great Power Competition (China) | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
-| Alliance Modernization | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
-| Nuclear Policy | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
-| Climate Security | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
-| Defense Industrial Base | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
-| AI Military Ethics | `policy/DEFENSE_FOREIGN_POLICY.md` | Complete |
+| If You Want To... | Start Here |
+|-------------------|------------|
+| Understand the philosophy | MANIFESTO.md |
+| Read the book | book/CHAPTER_01.md |
+| See specific policies | policy/ folder |
+| Answer objections | FAQ.md |
+| Start organizing | movement_building/ORGANIZING_GUIDE.md |
+| See political strategy | political_strategy/ folder |
 
 ---
 
-## Repository Structure
+## The Three Crises
 
-```
-/Zeno
-├── README.md                        # Platform overview and navigation
-├── MANIFESTO.md                     # Core philosophy - The Zeno Manifesto
-├── BOOK_FRAMEWORK.md                # Book outline - The Automation Reckoning
-├── RESEARCH_NOTES.md                # Current statistics and sources
-│
-└── /policy                          # All policy frameworks
-    ├── ECONOMIC_POLICY.md           # Robot Tax, Data Tax, UBI
-    ├── AI_GOVERNANCE.md             # Algorithmic Republic
-    ├── BLOCKCHAIN_POLICY.md         # Sound Money, Truth Infrastructure
-    ├── HUMAN_CAPITAL_POLICY.md      # Healthcare, Education, Workforce
-    ├── CLIMATE_ENERGY_POLICY.md     # Climate, Renewables, Nuclear
-    ├── CRIMINAL_JUSTICE_POLICY.md   # Justice Reform, Drug Policy
-    ├── HOUSING_POLICY.md            # Housing Abundance, Homelessness
-    ├── IMMIGRATION_POLICY.md        # Immigration Reform, Border Security
-    └── DEFENSE_FOREIGN_POLICY.md    # Defense, China, Alliances
-```
+### 1. The Automation Crisis
+AI and robotics will transform the economy within years, not decades. Current institutions are unprepared.
+
+### 2. The Trust Crisis  
+Deepfakes make truth unverifiable. Corruption pervades human institutions. Citizens have lost faith.
+
+### 3. The Monetary Crisis
+Fiat currency has lost 96% of purchasing power since 1913. Central banks serve elites, not citizens.
+
+---
+
+## The Solution: The Human Standard
+
+**Human-Centered Capitalism** governed by **Open Source AI** funded by **Sound Money**
+
+| Pillar | Principle | Key Policy |
+|--------|-----------|------------|
+| Economic | Automation benefits all | UBI + Automation Tax |
+| Governance | AI administers, humans decide | Open Source AI Mandate |
+| Monetary | Money citizens control | Strategic Bitcoin Reserve |
+| Truth | Verification for all | Blockchain Infrastructure |
 
 ---
 
 ## The Five Laws
 
-All Human Standard policies are constrained by five inviolable principles:
-
-1. **Do No Harm** - No policy may directly cause physical harm or deprive basic necessities
-2. **Maximize Flourishing** - Optimize for human wellbeing, not GDP or corporate profit
-3. **Preserve Agency** - Humans retain ultimate control; override always possible
-4. **Maintain Transparency** - All systems publicly auditable; no black boxes
-5. **Serve All Equally** - No discrimination; no special treatment for wealthy or connected
+1. **Do No Harm** - No policy may directly cause physical harm
+2. **Maximize Flourishing** - Optimize for human wellbeing, not GDP
+3. **Preserve Agency** - Humans retain ultimate control
+4. **Maintain Transparency** - All systems publicly auditable
+5. **Serve All Equally** - No discrimination or special treatment
 
 ---
 
-## Human-Centered Metrics
+## The 10 Policy Pillars
 
-Traditional metrics (GDP, stock market, unemployment rate) are rejected as primary measures.
+| Pillar | Key Policies | Document |
+|--------|--------------|----------|
+| Economic Justice | UBI, Automation Tax, Data Tax | policy/ECONOMIC_POLICY.md |
+| AI Governance | Open Source Mandate, NAICO | policy/AI_GOVERNANCE.md |
+| Sound Money | Bitcoin Reserve, Stablecoins | policy/BLOCKCHAIN_POLICY.md |
+| Human Capital | Healthcare, Education, Care | policy/HUMAN_CAPITAL_POLICY.md |
+| Climate and Energy | Renewables, Nuclear, Carbon Tax | policy/CLIMATE_ENERGY_POLICY.md |
+| Criminal Justice | End Mass Incarceration | policy/CRIMINAL_JUSTICE_POLICY.md |
+| Housing | YIMBY, Housing First, LVT | policy/HOUSING_POLICY.md |
+| Immigration | Merit + Humanity | policy/IMMIGRATION_POLICY.md |
+| Defense | AI Weapons Ethics | policy/DEFENSE_FOREIGN_POLICY.md |
+| Truth Infrastructure | Blockchain Verification | policy/BLOCKCHAIN_POLICY.md |
 
-**The Human Standard optimizes for:**
+---
 
-| Category | Metrics |
+## Model Legislation (6 Bills)
+
+| Bill | Purpose |
+|------|---------|
+| Universal Basic Income Act | 2000/month to all adults |
+| Open Source AI Governance Act | Transparency for government AI |
+| Digital Asset Freedom Act | Crypto-friendly framework |
+| Carbon Fee and Dividend Act | 30-200/ton with dividends |
+| Land Value Tax Act | 2% tax on land value |
+| National AI Oversight Act | Establish NAICO |
+
+All bills in: policy/model_legislation/
+
+---
+
+## Key Technical Documents
+
+| Document | Purpose |
 |----------|---------|
-| Health | Life expectancy, mental health, childhood health, preventable deaths |
-| Economic Security | Median income, poverty rate, housing affordability, debt levels |
-| Freedom | Civil liberties, democratic participation, mobility, entrepreneurship |
-| Environment | Air/water quality, biodiversity, sustainability, climate resilience |
-| Social Cohesion | Trust, community engagement, family stability, safety |
-| Opportunity | Educational attainment, income mobility, innovation |
+| policy/FISCAL_ARCHITECTURE.md | How taxation works with sound money |
+| policy/AI_SECURITY_FRAMEWORK.md | Open source + security resolved |
+| policy/UBI_FUNDING_RESILIENCE.md | Diversified funding model |
+| policy/CONTINGENCY_PLANNING.md | Failure modes and backups |
+| policy/LABOR_ECONOMICS.md | Work in automation age |
+| policy/DISTRIBUTIONAL_ANALYSIS.md | Gender, geography, equity |
+
+---
+
+## Political Strategy Documents
+
+| Document | Purpose |
+|----------|---------|
+| political_strategy/ELECTORAL_ROADMAP.md | How to win elections |
+| political_strategy/100_DAY_PLAN.md | First 100 days agenda |
+| political_strategy/IMPLEMENTATION_MECHANICS.md | How laws get passed |
+| political_strategy/POLICY_SEQUENCING.md | Order of operations |
+| political_strategy/INTERNATIONAL_COORDINATION.md | Global strategy |
+| political_strategy/POWER_ANALYSIS.md | Coalition and opposition |
 
 ---
 
 ## Political Positioning
 
-The Human Standard transcends traditional left-right divisions:
+The Human Standard transcends left-right divisions:
 
-| Issue | Human Standard Position | Traditional Left | Traditional Right |
-|-------|---------------|------------------|-------------------|
-| UBI | Yes (fund via automation) | Sometimes | Rarely |
-| Open Borders for Capital | Taxed (Data Tax, Robot Tax) | Tax | Free flow |
-| Cryptocurrency | Yes (sound money) | Skeptical | Mixed |
-| AI Regulation | Open source mandate | Heavy regulation | Light touch |
-| Government Size | AI-administered (smaller human bureaucracy) | Larger | Smaller |
-| Global Governance | Federated coordination | International institutions | National sovereignty |
-
-**The Coalition:**
-- Libertarians: Sound money, reduced bureaucracy, individual freedom
-- Progressives: UBI, worker protection, anti-corruption
-- Populists: Anti-elite, anti-big-tech exploitation, citizen empowerment
-- Technologists: AI governance, blockchain infrastructure, open source
-
----
-
-## Outputs & Applications
-
-This worldview will generate:
-
-### Books
-- **The Automation Reckoning** - Main manifesto (framework complete)
-- **The Algorithmic Republic** - AI governance deep dive
-- **Sound Money for the Digital Age** - Monetary policy
-- **The Data Dividend** - Economic justice framework
-
-### Campaigns
-- Social media content strategy
-- Policy one-pagers for legislators
-- Grassroots organizing materials
-- Debate preparation
-
-### Legislative Templates
-- Model legislation for each policy
-- Regulatory framework proposals
-- Executive order templates
-- International treaty frameworks
-
-### Educational Content
-- Explainer videos and graphics
-- Podcast episode outlines
-- University course materials
-- Public speaking frameworks
-
----
-
-## Current Status
-
-### Completed
-- [x] Economic Justice Framework (Robot Tax, Data Tax, UBI)
-- [x] AI Governance Framework (Algorithmic Republic)
-- [x] Blockchain Policy (Sound Money, Truth Infrastructure)
-- [x] Human Capital Framework (Healthcare, Education)
-- [x] Climate & Energy Framework (Renewables, Nuclear, Carbon Pricing, Transportation)
-- [x] Criminal Justice Framework (Mass Incarceration, Drug Policy, Police Reform)
-- [x] Housing Policy Framework (YIMBY, Housing First, Affordability)
-- [x] Immigration Framework (High-Skilled, Asylum, Legalization)
-- [x] Defense & Foreign Policy Framework (Autonomous Weapons, China, Alliances)
-- [x] Research compilation with sources
-- [x] Book framework outline
-- [x] Manifesto (The Human Standard)
-- [x] Constitution (Declaration of Principles)
-- [x] FAQ (Objections and Rebuttals)
-- [x] Transition Roadmap (2025-2055)
-
-### In Progress
-- [x] Repository restructuring
-
-### Planned
-- [x] Meaning & purpose document (post-automation flourishing)
-- [x] Opposition analysis document
-- [x] Historical foundation document
-- [ ] Book chapters (prose)
-- [x] Stories and case studies
-- [x] Messaging and communications guide
-- [x] Action guide for supporters
-- [ ] Social media content templates
-- [ ] Model legislation drafts
-- [ ] Campaign materials
+| Constituency | What We Offer |
+|--------------|---------------|
+| Libertarians | Sound money, reduced bureaucracy |
+| Progressives | UBI, worker protection |
+| Populists | Anti-elite, anti-corruption |
+| Technologists | AI governance, open source |
+| Conservatives | Family support, strong defense |
+| Moderates | Pragmatic, evidence-based |
 
 ---
 
 ## The Vision
 
-**By 2030:**
-- Automation taxes funding universal basic income pilots
-- Blockchain verification standard for government communications
-- Open source AI in federal procurement and benefits administration
+### By 2030
+- Automation taxes funding UBI pilots
+- Open source AI in federal systems
+- NAICO fully operational
 
-**By 2040:**
-- Full UBI funded by automation dividend
-- Algorithmic government administration without corruption
-- Sound money option available for all citizens
-- International AI governance coordination
+### By 2040
+- Full UBI at 2000/month
+- AI governance preventing corruption
+- International coordination established
 
-**By 2050:**
+### By 2050
 - Human-centered capitalism as global standard
-- Federated world governance for shared challenges
 - Work as choice, not requirement
-- Corruption eliminated from automated functions
 - Truth verifiable through universal infrastructure
 
 ---
 
-## Core Documents
+## Document Statistics
 
-### Foundation
-| Document | Description | Lines |
-|----------|-------------|-------|
-| [`MANIFESTO.md`](MANIFESTO.md) | The Human Standard - Core philosophy and vision | 500+ |
-| [`CONSTITUTION.md`](CONSTITUTION.md) | Declaration of Principles - The Five Laws, The Pledge | 350+ |
-| [`FAQ.md`](FAQ.md) | Objections and Rebuttals - Arms supporters with answers | 500+ |
-| [`TRANSITION.md`](TRANSITION.md) | Roadmap from 2025-2055 - Phase by phase plan | 600+ |
-| [`MEANING.md`](MEANING.md) | Purpose and Flourishing Beyond Work | 450+ |
-| [`BOOK_FRAMEWORK.md`](BOOK_FRAMEWORK.md) | The Automation Reckoning - 26-chapter book outline | 500+ |
-| [`RESEARCH_NOTES.md`](RESEARCH_NOTES.md) | Current statistics and sources | 300+ |
-
-### Policy Frameworks
-| Document | Description | Lines |
-|----------|-------------|-------|
-| [`policy/ECONOMIC_POLICY.md`](policy/ECONOMIC_POLICY.md) | Robot Tax, Data Tax, UBI | 600+ |
-| [`policy/AI_GOVERNANCE.md`](policy/AI_GOVERNANCE.md) | The Algorithmic Republic | 800+ |
-| [`policy/BLOCKCHAIN_POLICY.md`](policy/BLOCKCHAIN_POLICY.md) | Sound Money, Truth Infrastructure | 700+ |
-| [`policy/HUMAN_CAPITAL_POLICY.md`](policy/HUMAN_CAPITAL_POLICY.md) | Healthcare, Education, Workforce | 1500+ |
-| [`policy/CLIMATE_ENERGY_POLICY.md`](policy/CLIMATE_ENERGY_POLICY.md) | Climate, Energy, Transportation | 1200+ |
-| [`policy/CRIMINAL_JUSTICE_POLICY.md`](policy/CRIMINAL_JUSTICE_POLICY.md) | Justice Reform, Drug Policy | 800+ |
-| [`policy/HOUSING_POLICY.md`](policy/HOUSING_POLICY.md) | Housing Abundance, Homelessness | 800+ |
-| [`policy/IMMIGRATION_POLICY.md`](policy/IMMIGRATION_POLICY.md) | Immigration Reform, Border Security | 800+ |
-| [`policy/DEFENSE_FOREIGN_POLICY.md`](policy/DEFENSE_FOREIGN_POLICY.md) | Defense, China Strategy, Alliances | 800+ |
+| Category | Count | Lines |
+|----------|-------|-------|
+| Book Chapters | 26 | 7000 |
+| Policy Documents | 18 | 15000 |
+| Model Legislation | 6 | 4000 |
+| Strategy Documents | 7 | 6000 |
+| Messaging | 8 | 5000 |
+| Technical/Research | 10 | 10000 |
+| Foundation | 12 | 6000 |
+| TOTAL | 87 | 53000 |
 
 ---
 
-## Guiding Quotes
+## How to Get Involved
 
-> *"The future is already here—it's just not evenly distributed."*
-> — William Gibson
-
-> *"Humans are more important than money. Markets exist to serve our common goals and values."*
-> — Andrew Yang
-
-> *"The corrupt human must be removed from the equation—not through tyranny, but through technology."*
-> — Zeno, *The Human Standard*
-
-> *"We build the systems that build the world. Let us build them to serve all humanity."*
-> — Zeno, *The Human Standard*
+1. Read - Start with MANIFESTO.md
+2. Share - Use materials from messaging/
+3. Organize - Follow movement_building/ORGANIZING_GUIDE.md
+4. Donate - Support the movement
+5. Run - Use our frameworks for your campaign
 
 ---
 
-## Contributing
+## License
 
-This is an open worldview. Ideas, critiques, and contributions welcome.
+This work is dedicated to the public domain for the benefit of humanity.
 
-The goal: Build a political philosophy worthy of the challenges we face.
+Use it. Adapt it. Improve it. Build the future.
 
 ---
 
-*Last updated: December 2025*
+**The Human Standard** - Not left. Not right. Forward.
+
+Last updated: December 2025
