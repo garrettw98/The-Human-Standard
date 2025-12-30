@@ -308,11 +308,11 @@ UBI funding does NOT depend on tracking individual crypto transactions:
    - Crypto (even "private" crypto) leaves more traces
    - Underground economy shrinks
 
-### 4.2 The Strategic Bitcoin Reserve and Taxation
+### 4.2 The Diversified Strategic Reserve and Taxation
 
 **The Reserve Does NOT Conflict with Taxation:**
 
-The Strategic Bitcoin Reserve is a national savings vehicle, not a replacement for taxation.
+The Diversified Strategic Reserve is a national savings vehicle, not a replacement for taxation.
 
 **Analogy:** The U.S. holds gold reserves (~$500B). This doesn't mean gold ownership eliminates tax obligations.
 
@@ -443,7 +443,7 @@ The Strategic Bitcoin Reserve is a national savings vehicle, not a replacement f
 - Luxury surcharges add progressivity
 
 **Math:**
-- $2,000/month UBI = $24,000/year
+- Citizen's Royalty NIT floor = $24,000/year
 - 15% consumption tax on $50,000 spending = $7,500/year
 - Net benefit to median household: +$16,500/year
 - Wealthy household spending $500,000/year: pays $75,000+ in consumption tax

@@ -524,7 +524,7 @@ Default shifts to USDC unless citizen opts for dollars.
 - Congressional approval required for QE above threshold
 - Gold reserve verification and publication
 
-**3.3 Strategic Bitcoin Reserve Expansion:**
+**3.3 Diversified Strategic Reserve Management:**
 
 - Annual Bitcoin purchases using portion of:
   - Automation tax revenue
