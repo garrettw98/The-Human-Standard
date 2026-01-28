@@ -23,14 +23,35 @@
 
 ---
 
-## What Is This?
+## The Library
 
-**The Human Standard** is a foundational text and comprehensive political philosophy for the age of AI and automation. It is designed to serve as the intellectual bedrock for future movements, policy-making, and societal evolution.
+**The Human Standard** is organized as a modular system of thought.
 
-This repository contains:
-- **Philosophical Concepts**: Deep dives on legitimacy, agency, and cognitive sovereignty.
-- **Implementation Models**: Reference architectures for political strategy and movement building.
-- **Economic analysis and research**: Data backing the proposals.
+### I. The Canon
+*The core declarations of value and law.*
+- `MANIFESTO.md`: The ethical foundation.
+- `CONSTITUTION.md`: The legal framework.
+
+### II. The Book
+*The comprehensive narrative.*
+- `book/`: A 26-chapter exploration of the automation age.
+
+### III. The Philosophy
+*Deep dives into the concepts.*
+- `philosophy/`: Essays on Meaning, History, Transition, and Epistemic Humility.
+
+### IV. The Policy
+*The operating system for the future.*
+- `policy/`: 10 pillars of governance, economic models, and legal theories.
+
+### V. The Research
+*The evidence base.*
+- `research/`: Data on automation timelines, economic impact, and historical precedents.
+
+### VI. The Practice
+*Applying the philosophy.*
+- `GUIDANCE.md`: Frameworks for individual and community application.
+- `implementation_models/`: Reference architectures for political strategy and movement building.
 
 ---
 
@@ -38,11 +59,11 @@ This repository contains:
 
 | If You Want To... | Start Here |
 |-------------------|------------|
-| Understand the philosophy | MANIFESTO.md |
-| Read the book | book/CHAPTER_01.md |
-| See specific policies | policy/ folder |
-| Start organizing | implementation_models/movement_building/ORGANIZING_GUIDE.md |
-| See political strategy | implementation_models/political_strategy/ |
+| Understand the ethics | MANIFESTO.md |
+| Read the narrative | book/00_FRAMEWORK.md |
+| Explore the laws | CONSTITUTION.md |
+| See the data | research/RESEARCH_NOTES.md |
+| Apply the ideas | GUIDANCE.md |
 
 ---
 
@@ -116,14 +137,7 @@ All bills in: policy/model_legislation/
 | policy/LABOR_ECONOMICS.md | Work in automation age |
 | policy/DISTRIBUTIONAL_ANALYSIS.md | Gender, geography, equity |
 
----
 
-## Implementation Models
-
-*Reference architectures for applying this philosophy in political contexts.*
-
-- `implementation_models/political_strategy/`: Electoral roadmaps, 100-day plans, and engagement strategies.
-- `implementation_models/movement_building/`: Guides for organizing chapters and building coalitions.
 
 ---
 
