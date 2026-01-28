@@ -211,7 +211,7 @@ Full policy frameworks are maintained in the repository and updated as condition
 
 ---
 
-## Article VI: The Nature of This Movement
+## Article VI: The Nature of This Philosophy
 
 **Section 1: Open Source Philosophy**
 
@@ -235,9 +235,9 @@ The Human Standard is a living framework, not a frozen doctrine. The Five Laws a
 
 Disagreement is welcome. Debate improves ideas. No one speaks with final authority on what The Human Standard requires in any specific situation. The principles guide; human judgment applies them.
 
-**Section 3: Movement Before Politics**
+**Section 3: Principles Before Politics**
 
-The Human Standard is first a set of ideas, second a cultural movement, and only eventually a political force.
+The Human Standard is first a set of ideas, second a cultural framework, and only eventually a political force.
 
 Ideas must spread before votes can be won. Culture must shift before legislation can pass. Understanding must deepen before coalitions can form.
 
@@ -328,7 +328,7 @@ The future is not fixed. It is built by choices made by people who decide to mak
 
 We choose to build a future worthy of human beings.
 
-Join us—not by signing a form or paying dues, but by adopting these principles, spreading these ideas, and holding every system to The Human Standard.
+Join the cause—not by signing a form or paying dues, but by adopting these principles, spreading these ideas, and holding every system to The Human Standard.
 
 Technology serves humanity.
 

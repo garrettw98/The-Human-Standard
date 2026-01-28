@@ -380,7 +380,7 @@ This transition preserves innovation incentives while sharing gains. Companies s
 
 ---
 
-## Part VI: The Algorithmic Republic
+## Article VI: The Nature of This Philosophy
 
 We propose a transformation in how government operates.
 
@@ -624,7 +624,7 @@ Join us.
 - Write letters to editors and post on social media
 - Support organizations working on these issues
 
-### Level 3: Action
+### Level 3: Civic Engagement
 - Vote for candidates who understand these challenges
 - Run for office on these principles
 - Organize local groups to discuss and advocate

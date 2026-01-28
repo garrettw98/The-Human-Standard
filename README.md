@@ -28,10 +28,9 @@
 **The Human Standard** is a foundational text and comprehensive political philosophy for the age of AI and automation. It is designed to serve as the intellectual bedrock for future movements, policy-making, and societal evolution.
 
 This repository contains:
-- A complete **26-chapter book** exploring the philosophical and practical implications of the automation age.
-- **Manifesto and Constitution**: The core values and legal principles.
-- **10 Comprehensive Policy Frameworks**: Detailed blueprints for economic, social, and technological governance.
-- **Implementation Models**: Reference architectures for political strategy and movement building (see `implementation_models/`).
+- **Philosophical Concepts**: Deep dives on legitimacy, agency, and cognitive sovereignty.
+- **Implementation Models**: Reference architectures for political strategy and movement building.
+- **Economic analysis and research**: Data backing the proposals.
 
 ---
 
@@ -42,7 +41,8 @@ This repository contains:
 | Understand the philosophy | MANIFESTO.md |
 | Read the book | book/CHAPTER_01.md |
 | See specific policies | policy/ folder |
-| Explore implementation examples | implementation_models/ folder |
+| Start organizing | implementation_models/movement_building/ORGANIZING_GUIDE.md |
+| See political strategy | implementation_models/political_strategy/ |
 
 ---
 
