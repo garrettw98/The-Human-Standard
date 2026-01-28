@@ -8,11 +8,17 @@
 ### Agency-Centered Capitalism
 An economic system that maintains market mechanisms (private property, price signals) but optimizes for the flourishing of beings with **Structural Agency** rather than abstract metrics like GDP. It asserts that the economy exists to serve agents, not agents to serve the economy.
 
+### Breakout Threshold, The
+The point at which a single AI system becomes sufficiently capable to recursively improve itself at a rate no human or second-place AI can match. Crossing this threshold creates a permanent "First Mover Advantage," driving the geopolitical arms race.
+
 ### Cognitive Sovereignty
 The right of biological beings to form beliefs, make decisions, and direct attention without being subject to optimization algorithms designed to manipulate psychological vulnerabilities. It includes protection from "hyper-optimized persuasion."
 
 ### Epistemic Humility
 The philosophical stance that acknowledges the limits of human knowledge, especially regarding complex systems and future timelines (e.g., AGI). It requires policies to be robust against uncertainty, avoiding "fragile optimization."
+
+### Intelligence Primacy
+The strategic condition of having the most capable AI system in existence. In a "Winner-Take-All" scenario, Intelligence Primacy confers dominance over cyber, economic, and military domains.
 
 ### Human Standard, The
 The core axiom that technology must serve humanity, not the reverse. It functions as a meta-ethical constraint on all technological and political systems.

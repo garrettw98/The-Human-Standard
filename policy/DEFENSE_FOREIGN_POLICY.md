@@ -904,7 +904,54 @@ Climate change is a national security threat—not in the future, but now.
 
 ---
 
-## Part XII: AI Governance in Defense
+## Part XVI: The AGI Arms Race & Resource Security
+
+### The Winner-Take-All Dynamic
+
+We are not merely in a competition for military dominance; we are in a race for **Intelligence Primacy**.
+
+**The Breakout Thesis:**
+Unlike nuclear weapons, where a second-strike capability ensures stability (MAD), AGI potentially offers a **First Mover Advantage** so decisive it cannot be bridged. An entity that achieves superintelligence first can:
+1.  Accelerate its own R&D at digital speeds (weeks of progress in seconds).
+2.  Dominate cyber domains instantly (cracking all legacy encryption).
+3.  Control the information environment globally.
+
+**The "Breakout Threshold":**
+The gap between the first AGI and the second AGI might be only months in time, but centuries in capability. This creates extreme instability: nations race to be first, fearing that being second means permanent subordination.
+
+### The Material Basis of Intelligence
+
+Intelligence is not abstract; it requires **Energy** and **Matter**.
+
+**1. The Energy Nexus (Venezuela Context)**
+- **Requirement**: AGI data centers will consume gigawatts of power.
+- **Strategic Reality**: The U.S. pivot toward Venezuelan heavy crude is not merely about gas prices; it is about securing the *dense energy baseload* required for massive compute infrastructure while domestic renewables scale. Energy security is compute security.
+
+**2. The Mineral Stack (Greenland Context)**
+- **Requirement**: Advanced chips and robotics require Rare Earth Elements (REEs).
+- **Strategic Reality**: Greenland holds one of the world's largest undeveloped deposits of REEs. Securing access to these resources is not "imperialism" in the 19th-century sense, but "supply chain sovereignty" for the 21st-century intelligence stack.
+- **The China Monopoly**: China currently processes ~85% of global rare earths. Breaking this monopoly is a precondition for AGI security.
+
+### Policy Framework: Securing the Compute Supply Chain
+
+**Pillar 1: Energy Sovereignty for Compute**
+- Designate Hyperscale Data Centers as "National Critical Infrastructure."
+- Prioritize energy grid expansion specifically for AI training clusters.
+- Secure diverse energy imports (including Venezuela) as a bridge to fusion/advanced nuclear.
+
+**Pillar 2: Mineral Independence**
+- Accelerate partnerships with Greenland, Canada, and Australia for REE extraction.
+- Create a "Strategic Mineral Reserve" paralleling the Petroleum Reserve.
+- Invest in REE recycling technology to close the loop.
+
+**Pillar 3: The "Breakout" Containment Treaty**
+- Acknowledge the arms race reality.
+- Propose an international framework to manage the "Breakout" phase.
+- Goal: Prevent a reckless race to the bottom on safety in pursuit of speed.
+
+---
+
+## Part XVII: AI Governance in Defense
 
 ### Connecting to Human Standard AI Principles
 
@@ -936,7 +983,7 @@ Military AI must be governed by principles consistent with the broader Human Sta
 
 ---
 
-## Part XIII: Integration with The Human Standard Framework
+## Part XVIII: Integration with The Human Standard Framework
 
 ### Connection to Core Pillars
 
@@ -1115,4 +1162,3 @@ The EU Carbon Border Adjustment Mechanism (CBAM) for steel, cement, and electric
 - Support developing nations in clean compute infrastructure
 - Avoid neo-colonial dynamics through capacity building
 - Goal: Global adoption, not permanent tariff regime
-

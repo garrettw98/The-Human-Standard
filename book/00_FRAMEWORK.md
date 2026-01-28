@@ -442,7 +442,16 @@ This book argues that:
 - **The escalation framework**: When AI must defer to human judgment
 - **The transition**: Augmentation → Automation with oversight → Full administration
 
-### Chapter 22: Global Convergence
+### Chapter 22: The Geopolitics of Intelligence
+*The arms race for AGI breakout*
+
+- **The Winner-Take-All dynamic**: Why second place in AGI is existential risk
+- **The Breakout Threshold**: The unbridgeable gap between superintelligence and everything else
+- **Material preconditions**: The race for energy (Venezuelan heavy crude) and minerals (Greenland rare earths)
+- **Nationalism as survival**: Why nations are securing supply chains under patriotic covers
+- **The Trap**: Why safety is sacrificed for speed in a prisoner's dilemma
+
+### Chapter 23: Global Convergence
 *From national to international to federated global governance*
 
 - **Shared challenges require shared solutions**: Climate, pandemic, AI safety, nuclear
@@ -457,7 +466,7 @@ This book argues that:
 ## PART SEVEN: THE PATH FORWARD
 ### Making This Happen
 
-### Chapter 23: The Political Strategy
+### Chapter 24: The Political Strategy
 *Building a coalition for change*
 
 - Why automation should be a winning political issue
@@ -468,7 +477,7 @@ This book argues that:
 - Engaging labor unions, business leaders, and technologists
 - The 2028 and 2032 electoral opportunities
 
-### Chapter 24: The Economic Arguments
+### Chapter 25: The Economic Arguments
 *Convincing skeptics*
 
 - Addressing the inflation concern
@@ -478,7 +487,7 @@ This book argues that:
 - The investment case: How proactive policy creates better outcomes
 - International competitiveness: How other nations are preparing
 
-### Chapter 25: The Moral Case
+### Chapter 26: The Moral Case
 *Why this matters beyond economics*
 
 - Human dignity in the age of machines
@@ -488,7 +497,7 @@ This book argues that:
 - The global perspective: Developed vs. developing nation impacts
 - Our responsibility to future generations
 
-### Chapter 26: A Vision for 2050
+### Chapter 27: A Vision for 2050
 *The future we could build*
 
 **The Optimistic Scenario:**
