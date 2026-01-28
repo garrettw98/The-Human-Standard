@@ -143,6 +143,18 @@ The platforms call you a "user." You are not a user. You are an **unpaid data wo
 
 The Citizen's Royalty is not merely a redistribution program. It is, in part, **back wages** for the data labor every citizen has already performed.
 
+### The Sovereignty Crisis (The Arms Race)
+
+There is a fifth crisis: **The Geopolitical Breakout.**
+
+The world is currently locked in an arms race for Artificial General Intelligence (AGI). This is not a commercial competition; it is a struggle for planetary sovereignty. The first entity to achieve superintelligence will cross a "Breakout Threshold"—a technological gap so large it cannot be bridged.
+
+This creates a "Winner-Take-All" dynamic where second place means permanent subordination. Nations are already securing the material preconditions—energy grids, rare earth minerals, compute clusters—under the guise of nationalism.
+
+This race creates a deadly incentive: **Speed over Safety.**
+
+The Human Standard asserts that **Intelligence Primacy** must not be achieved by sacrificing human control. A superintelligence built without the Five Laws is not a national asset; it is a planetary liability. We must win the race for capability *without* losing the race for humanity.
+
 
 ---
 
