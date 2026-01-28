@@ -9,7 +9,7 @@ The Human Standard cannot be implemented without political power. This roadmap o
 
 ### Theory of Change
 
-**Phase 1: Ideas** → **Phase 2: Candidates** → **Phase 3: Caucus** → **Phase 4: Majority** → **Phase 5: Governance**
+**Phase 1: Ideas** (Completed 2024-2025) → **Phase 2: Candidates** (Current: 2026-2027) → **Phase 3: Caucus** → **Phase 4: Majority** → **Phase 5: Governance**
 
 The Human Standard succeeds by:
 1. Shifting the Overton window on automation, Citizen's Royalty, and AI governance
@@ -20,7 +20,7 @@ The Human Standard succeeds by:
 
 ---
 
-## Phase 1: Movement Building (Years 1-2)
+## Phase 1: Movement Building (Completed: 2024-2025)
 
 ### Objectives
 - Establish The Human Standard as a recognized political philosophy
@@ -63,7 +63,7 @@ The Human Standard succeeds by:
 
 ---
 
-## Phase 2: Electoral Beachhead (Years 2-4)
+## Phase 2: Electoral Beachhead (Current: 2026-2027)
 
 ### Objectives
 - Elect first Human Standard candidates to office
@@ -71,7 +71,7 @@ The Human Standard succeeds by:
 - Build campaign infrastructure
 - Develop winning message and tactics
 
-### Target Races: Year 2 Midterms
+### Target Races: 2026 Midterms
 
 **Tier 1: High-Priority Targets**
 These races combine winnable dynamics with optimal messaging environments.
@@ -196,7 +196,7 @@ These races combine winnable dynamics with optimal messaging environments.
 | Technology | CRM, voter contact tools, websites |
 | Surrogate Speakers | High-profile endorsers and advocates |
 
-### Metrics for Success (Year 2)
+### Metrics for Success (2026)
 - 50+ endorsed candidates on ballots
 - 20+ candidates win elections
 - 5+ state legislators elected
@@ -599,7 +599,7 @@ The future is being built now. The question is whether the people will have a sa
 ## Document Control
 
 **Version**: 0.9.1
-**Last Updated**: 2025
+**Last Updated**: January 2026
 **Classification**: Internal Strategy
 **Owner**: The Human Standard Political Committee
 

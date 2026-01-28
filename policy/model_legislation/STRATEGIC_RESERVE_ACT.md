@@ -128,7 +128,7 @@ Congress finds the following:
 
 (3) **BITCOIN'S PROPERTIES**—Bitcoin, created in 2009, offers properties superior to fiat currency for certain monetary functions, including absolute scarcity (21 million maximum supply), decentralization, censorship resistance, and programmability.
 
-(4) **STRATEGIC IMPORTANCE**—The United States has established a Diversified Strategic Reserve, recognizing Bitcoin's value as a strategic asset and store of value.
+(4) **STRATEGIC IMPORTANCE**—The United States has established a Diversified Strategic Reserve via executive action; this Act codifies that reserve as a permanent national asset.
 
 (5) **DEEPFAKE CRISIS**—The proliferation of AI-generated deepfakes threatens the integrity of public discourse, with 133 documented disinformation campaigns using synthetic media in 2024 alone, affecting elections in over 30 countries.
 
