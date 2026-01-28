@@ -25,20 +25,13 @@
 
 ## What Is This?
 
-**The Human Standard** is a complete political philosophy, policy framework, and movement infrastructure for governance in the age of AI and automation.
-
-**87 documents. 53,000+ lines. Everything you need to understand, advocate for, and implement agency-centered policies for the 21st century.**
+**The Human Standard** is a foundational text and comprehensive political philosophy for the age of AI and automation. It is designed to serve as the intellectual bedrock for future movements, policy-making, and societal evolution.
 
 This repository contains:
-- A complete **26-chapter book**
-- **Manifesto and Constitution**
-- **10 comprehensive policy frameworks**
-- **6 pieces of model legislation**
-- **Implementation guides and technical specs**
-- **Messaging and communications strategy**
-- **Political strategy and coalition building**
-- **Economic analysis and research**
-- **Movement building infrastructure**
+- A complete **26-chapter book** exploring the philosophical and practical implications of the automation age.
+- **Manifesto and Constitution**: The core values and legal principles.
+- **10 Comprehensive Policy Frameworks**: Detailed blueprints for economic, social, and technological governance.
+- **Implementation Models**: Reference architectures for political strategy and movement building (see `implementation_models/`).
 
 ---
 
@@ -49,22 +42,20 @@ This repository contains:
 | Understand the philosophy | MANIFESTO.md |
 | Read the book | book/CHAPTER_01.md |
 | See specific policies | policy/ folder |
-| Answer objections | FAQ.md |
-| Start organizing | movement_building/ORGANIZING_GUIDE.md |
-| See political strategy | political_strategy/ folder |
+| Explore implementation examples | implementation_models/ folder |
 
 ---
 
 ## The Three Crises
 
 ### 1. The Automation Crisis
-AI and robotics will transform the economy within years, not decades. Current institutions are unprepared.
+AI and robotics will transform the economy within years, not decades. Current institutions are unprepared for the decoupling of labor from value creation.
 
-### 2. The Trust Crisis  
-Deepfakes make truth unverifiable. Corruption pervades human institutions. Citizens have lost faith.
+### 2. The Trust Crisis
+Deepfakes make truth unverifiable. Corruption pervades human institutions. The collapse of shared reality threatens democratic governance.
 
 ### 3. The Monetary Crisis
-Fiat currency has lost 96% of purchasing power since 1913. Central banks serve elites, not citizens.
+Fiat currency has lost 96% of purchasing power since 1913. Central banks serve elites, not citizens. The store of value is broken.
 
 ---
 
@@ -79,16 +70,6 @@ Fiat currency has lost 96% of purchasing power since 1913. Central banks serve e
 | Monetary | Money agents control | Diversified Strategic Reserve |
 | Truth | Verification for all | Blockchain Infrastructure |
 | Agency | Rights from capacity, not biology | Structural Agency + Stewardship Model |
-
----
-
-## The Five Laws
-
-1. **Do No Harm** - No policy may harm beings with Structural Agency
-2. **Maximize Flourishing** - Optimize for agent wellbeing, not GDP
-3. **Preserve Agency** - Agents retain control over systems affecting them
-4. **Maintain Transparency** - Public verification, secure auditing (Tiered Framework)
-5. **Serve All Equally** - No discrimination based on characteristics or substrate
 
 ---
 
@@ -137,31 +118,12 @@ All bills in: policy/model_legislation/
 
 ---
 
-## Political Strategy Documents
+## Implementation Models
 
-| Document | Purpose |
-|----------|---------|
-| political_strategy/ELECTORAL_ROADMAP.md | How to win elections |
-| political_strategy/100_DAY_PLAN.md | First 100 days agenda |
-| political_strategy/IMPLEMENTATION_MECHANICS.md | How laws get passed |
-| political_strategy/POLICY_SEQUENCING.md | Order of operations |
-| political_strategy/INTERNATIONAL_COORDINATION.md | Global strategy |
-| political_strategy/POWER_ANALYSIS.md | Coalition and opposition |
+*Reference architectures for applying this philosophy in political contexts.*
 
----
-
-## Political Positioning
-
-The Human Standard transcends left-right divisions:
-
-| Constituency | What We Offer |
-|--------------|---------------|
-| Libertarians | Data property rights, Citizen's Royalty as ownership dividend |
-| Progressives | Citizen's Royalty (NIT), worker protection |
-| Populists | Anti-elite, anti-corruption, Data Labor Rights |
-| Technologists | Tiered AI transparency, secure governance |
-| Conservatives | Family support, strong defense, fiscal responsibility |
-| Moderates | Pragmatic, evidence-based, 60% cost reduction |
+- `implementation_models/political_strategy/`: Electoral roadmaps, 100-day plans, and engagement strategies.
+- `implementation_models/movement_building/`: Guides for organizing chapters and building coalitions.
 
 ---
 
@@ -190,31 +152,6 @@ The Human Standard transcends left-right divisions:
 - Truth verifiable through universal infrastructure
 - Framework ready for AI agents if/when they emerge
 - Cognitive Sovereignty protected globally
-
----
-
-## Document Statistics
-
-| Category | Count | Lines |
-|----------|-------|-------|
-| Book Chapters | 26 | 7000 |
-| Policy Documents | 18 | 15000 |
-| Model Legislation | 6 | 4000 |
-| Strategy Documents | 7 | 6000 |
-| Messaging | 8 | 5000 |
-| Technical/Research | 10 | 10000 |
-| Foundation | 12 | 6000 |
-| TOTAL | 87 | 53000 |
-
----
-
-## How to Get Involved
-
-1. Read - Start with MANIFESTO.md
-2. Share - Use materials from messaging/
-3. Organize - Follow movement_building/ORGANIZING_GUIDE.md
-4. Donate - Support the movement
-5. Run - Use our frameworks for your campaign
 
 ---
 
