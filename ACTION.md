@@ -541,30 +541,13 @@ What will you do?
 
 ---
 
-## Appendix: Resource Links
+### Resources
 
-*[To be populated as movement infrastructure develops]*
+All resources are available in the repository:
 
-### Official Channels
-- Website: [TBD]
-- Repository: [Current GitHub link]
-- Social Media: [TBD]
-- Newsletter: [TBD]
-
-### Educational Resources
-- Core Documents: This repository
-- Book: The Automation Reckoning [When published]
-- Videos: [TBD]
-- Podcasts: [TBD]
-
-### Tools for Organizers
-- Messaging Guide: MESSAGING.md
-- One-Pagers: [TBD]
-- Slide Decks: [TBD]
-- Event Guides: [TBD]
-
-### Partners and Allies
-- [To be developed as coalition builds]
+- **One-Pagers**: See `outreach/one_pagers/`
+- **Social Media**: See `outreach/social_media/`
+- **Press Kit**: See `outreach/press_kit/`
 
 ---
 

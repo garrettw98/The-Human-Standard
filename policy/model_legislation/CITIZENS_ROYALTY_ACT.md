@@ -1272,14 +1272,8 @@ Amounts appropriated under this section shall remain available until expended.
 
 ## LEGISLATIVE HISTORY
 
-### Committee Reports
-[To be added upon committee action]
-
-### Floor Debate
-[To be added upon floor consideration]
-
-### Amendments Adopted
-[To be added]
+### Status
+Draft legislation prepared for introduction in the 119th Congress.
 
 ---
 
@@ -1307,7 +1301,6 @@ See: policy/stakeholder_analysis/Citizen's Royalty_STAKEHOLDERS.md
 ---
 
 *Prepared by the Office of [Sponsoring Member]*
-*Staff Contact: [Name], [Phone], [Email]*
 
 ---
 

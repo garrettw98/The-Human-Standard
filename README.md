@@ -130,7 +130,7 @@ All bills in: policy/model_legislation/
 |----------|---------|
 | policy/FISCAL_ARCHITECTURE.md | How taxation works with purchasing power stability |
 | policy/AI_SECURITY_FRAMEWORK.md | Tiered transparency + Glass Break Protocol |
-| policy/UBI_FUNDING_RESILIENCE.md | Diversified funding model |
+| policy/CITIZENS_ROYALTY_FUNDING_RESILIENCE.md | Diversified funding model |
 | policy/CONTINGENCY_PLANNING.md | Failure modes and backups |
 | policy/LABOR_ECONOMICS.md | Work in automation age |
 | policy/DISTRIBUTIONAL_ANALYSIS.md | Gender, geography, equity |

@@ -116,9 +116,9 @@ This document provides transparency about the methodology, evidence bases, and c
 
 | Phase | Estimate | Confidence | Notes |
 |-------|----------|------------|-------|
-| Foundation (Year 1-2) | 2025-2027 | MEDIUM | Depends on election outcomes |
-| Expansion (Year 3-4) | 2027-2029 | LOW-MEDIUM | Depends on political success |
-| Full Implementation (Year 5-7) | 2029-2032 | LOW | Many variables |
+| Foundation (Year 1-2) | 2026-2028 | MEDIUM | Depends on election outcomes |
+| Expansion (Year 3-4) | 2028-2030 | LOW-MEDIUM | Depends on political success |
+| Full Implementation (Year 5-7) | 2030-2033 | LOW | Many variables |
 
 ### 3.3 Methodology for Political Claims
 
@@ -231,7 +231,6 @@ Throughout The Human Standard materials, claims should be understood as follows:
 
 **For researchers:**
 1. We welcome verification attempts
-2. Contact information for inquiries: [To be added]
 3. Data sources shared upon request
 4. Methodology documentation available
 
