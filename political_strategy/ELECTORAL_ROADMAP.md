@@ -9,7 +9,7 @@ The Human Standard cannot be implemented without political power. This roadmap o
 
 ### Theory of Change
 
-**Phase 1: Ideas** (Completed 2024-2025) → **Phase 2: Candidates** (Current: 2026-2027) → **Phase 3: Caucus** → **Phase 4: Majority** → **Phase 5: Governance**
+**Phase 1: Ideas & Movement** (Current: 2026-2027) → **Phase 2: Candidates** (2028-2029) → **Phase 3: Caucus** (2030-2032) → **Phase 4: Majority** (2032-2034) → **Phase 5: Governance** (2034+)
 
 The Human Standard succeeds by:
 1. Shifting the Overton window on automation, Citizen's Royalty, and AI governance
@@ -20,7 +20,7 @@ The Human Standard succeeds by:
 
 ---
 
-## Phase 1: Movement Building (Completed: 2024-2025)
+## Phase 1: Movement Building (Current: 2026-2027)
 
 ### Objectives
 - Establish The Human Standard as a recognized political philosophy
@@ -63,7 +63,7 @@ The Human Standard succeeds by:
 
 ---
 
-## Phase 2: Electoral Beachhead (Current: 2026-2027)
+## Phase 2: Electoral Beachhead (Target: 2028-2029)
 
 ### Objectives
 - Elect first Human Standard candidates to office
@@ -71,7 +71,7 @@ The Human Standard succeeds by:
 - Build campaign infrastructure
 - Develop winning message and tactics
 
-### Target Races: 2026 Midterms
+### Target Races: 2028 Elections
 
 **Tier 1: High-Priority Targets**
 These races combine winnable dynamics with optimal messaging environments.
@@ -196,7 +196,7 @@ These races combine winnable dynamics with optimal messaging environments.
 | Technology | CRM, voter contact tools, websites |
 | Surrogate Speakers | High-profile endorsers and advocates |
 
-### Metrics for Success (2026)
+### Metrics for Success (2028)
 - 50+ endorsed candidates on ballots
 - 20+ candidates win elections
 - 5+ state legislators elected
@@ -205,7 +205,7 @@ These races combine winnable dynamics with optimal messaging environments.
 
 ---
 
-## Phase 3: Congressional Caucus (Years 4-6)
+## Phase 3: Congressional Caucus (Target: 2030-2032)
 
 ### Objectives
 - Elect Human Standard champions to U.S. Congress
@@ -303,7 +303,7 @@ With 15+ U.S. House members, form the **Congressional Human Standard Caucus**:
 
 ---
 
-## Phase 4: Governing Coalition (Years 6-8)
+## Phase 4: Governing Coalition (2032-2034)
 
 ### Objectives
 - Achieve legislative majority capable of passing Human Standard agenda
@@ -400,7 +400,7 @@ If major parties resist:
 
 ---
 
-## Phase 5: Implementation and Consolidation (Years 8-12)
+## Phase 5: Implementation and Consolidation (2034+)
 
 ### Objectives
 - Full implementation of Human Standard agenda

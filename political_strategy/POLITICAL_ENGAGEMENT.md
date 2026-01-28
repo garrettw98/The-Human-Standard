@@ -230,7 +230,7 @@ Ideas without power are impotent. This document presents a concrete political en
 **Target**: Study Commission on Automation and Work
 
 **Timeline**:
-- 2025 interim: Draft legislation
+- 2026 interim: Draft legislation
 - January 2026: Introduction
 - March 2026: Passage
 - 2026-2027: Commission work
@@ -348,10 +348,10 @@ Ideas without power are impotent. This document presents a concrete political en
 
 | Year | Budget | Use |
 |------|--------|-----|
-| 2025 | $2M | Founding staff, basic operations |
-| 2026 | $5M | State campaigns, elections |
-| 2027 | $8M | Expansion, federal |
-| 2028 | $15M | Presidential cycle |
+| 2026 | $2M | Founding staff, basic operations |
+| 2027 | $5M | State campaigns, elections |
+| 2028 | $8M | Expansion, federal |
+| 2030 | $15M | Presidential cycle |
 
 ### Donor Segments
 
@@ -381,7 +381,7 @@ Ideas without power are impotent. This document presents a concrete political en
 
 ## Part X: Success Metrics
 
-### 2025 Metrics
+### 2026 Metrics
 
 | Metric | Target | Measurement |
 |--------|--------|-------------|
@@ -392,11 +392,7 @@ Ideas without power are impotent. This document presents a concrete political en
 | Email list | 10,000 | Subscribers |
 | Social followers | 25,000 | Combined |
 
-### 2026 Metrics
-
-| Metric | Target | Measurement |
-|--------|--------|-------------|
-| State bills introduced | 5 | Bill tracking |
+### 2027 Metrics
 | State bills passed | 2 | Bill tracking |
 | Candidates endorsed | 10 | Endorsements |
 | Candidates elected | 5+ | Results |
@@ -405,7 +401,7 @@ Ideas without power are impotent. This document presents a concrete political en
 | Email list | 50,000 | Subscribers |
 | Budget raised | $5M | Donations |
 
-### 2028 Metrics
+### 2029 Metrics
 
 | Metric | Target | Measurement |
 |--------|--------|-------------|
@@ -472,6 +468,6 @@ Ideas are necessary but not sufficient. We must translate vision into votes.
 
 **Next Action**: Incorporate 501(c)(4), recruit founding board, hire Executive Director.
 
-**Timeline**: Q1 2025
+**Timeline**: Q1 2026
 
 **Responsible**: Founder(s)
