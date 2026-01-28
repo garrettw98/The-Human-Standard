@@ -73,7 +73,7 @@ Every human system creates opportunities for corruption:
 
 | Human Administrator | AI Administrator |
 |---------------------|------------------|
-| Can be bribed | Cannot be bribed |
+| Can be bribed | Immune to financial bribery (but requires cybersecurity defense) |
 | Has personal interests | Has no personal interests |
 | Makes inconsistent decisions | Makes perfectly consistent decisions |
 | Hides reasoning | Shows all reasoning (if open source) |
@@ -85,7 +85,7 @@ Every human system creates opportunities for corruption:
 
 **The Key Insight:**
 
-Albania appointed an AI chatbot named "Diella" as Minister for Public Procurements in September 2025, claiming it would make "100% of public tenders free of corruption."
+Albania appointed an AI chatbot named "Diella" as Minister for Public Procurements in September 2025. While describing it as "incorruptible" is marketing, the core promise is valid: automating discretion eliminates the *human* vector of corruption, replacing it with a *technical* vector (security) that is easier to audit.
 
 This is not science fiction. This is happening now.
 

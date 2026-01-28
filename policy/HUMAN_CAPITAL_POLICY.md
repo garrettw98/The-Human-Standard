@@ -196,6 +196,7 @@ The goal is not government-run healthcare vs. market healthcare. The goal is **h
 **Components:**
 - AI handles all routine administrative functions:
   - Claims processing (instant)
+  - Real-time fraud detection (pre-payment)
   - Prior authorization (automatic for standard care)
   - Eligibility verification (real-time)
   - Billing and coding (automated from clinical notes)
