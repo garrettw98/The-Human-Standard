@@ -1,6 +1,6 @@
 # THE AUTOMATION DIVIDEND
 ## Executive Summary: A Framework for Shared Prosperity in the Age of AI
-### By The Human Standard Project
+### By Zeno
 
 ---
 
@@ -224,7 +224,8 @@ The machines will work. The question is: who gets paid?
 
 ---
 
-**The Human Standard Project**
+**The Human Standard**
+*By Zeno*
 
 *Technology serves humanity. Not the other way around.*
 

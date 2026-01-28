@@ -507,7 +507,7 @@ The clock starts on Inauguration Day.
 **Last Updated**: January 2026
 **Target Implementation**: 2029 Inauguration
 **Classification**: Internal Strategy
-**Owner**: Transition Planning Team
+**Owner**: Zeno
 
 ---
 

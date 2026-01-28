@@ -384,5 +384,4 @@ For more information, contact [EMAIL] or visit [WEBSITE].
 
 ---
 
-*Guide version 1.0 - December 2024*
-*For updates, check thehumanstandard.org/chapters*
+

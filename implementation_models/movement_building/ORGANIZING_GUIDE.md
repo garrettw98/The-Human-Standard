@@ -734,12 +734,8 @@ The automation economy is coming whether we organize or not. The question is whe
 
 ---
 
-## Document Control
-
-**Version**: 0.9.1
-**Last Updated**: 2025
-**Classification**: Internal Strategy
-**Owner**: Organizing Department
+*By Zeno*
+*Last updated: January 2026*
 
 ---
 
