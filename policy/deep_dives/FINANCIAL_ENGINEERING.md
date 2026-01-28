@@ -1,6 +1,6 @@
 # FINANCIAL ENGINEERING: The Automation Dividend Bond
 ## Bridging the Gap: Securitizing the Future to Fund the Transition
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

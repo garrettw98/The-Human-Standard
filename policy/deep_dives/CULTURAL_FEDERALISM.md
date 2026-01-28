@@ -1,6 +1,6 @@
 # CULTURAL SPEC: The Cultural Federalist Protocol
 ## Protecting Human Diversity from Algorithmic Homogenization
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

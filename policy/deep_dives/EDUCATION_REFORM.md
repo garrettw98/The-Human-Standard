@@ -1,6 +1,6 @@
 # STRATEGIC SPEC: The Socratic Turn
 ## Education for the Age of Volitional Cognition
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

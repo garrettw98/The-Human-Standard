@@ -1,6 +1,6 @@
 # TECHNICAL SPEC: Cognitive Defense Infrastructure
 ## Implementing the Right to Cognitive Sovereignty
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

@@ -245,7 +245,7 @@ The next five years will determine the answer.
 
 ---
 
-### The Entrepreneurial Society: Beyond Welfare (VERSION 0.9.1)
+### The Entrepreneurial Society: Beyond Welfare
 
 The policies described in this book—Citizen's Royalty, automation taxes, human service rights—might suggest a vision of passive dependence. Citizens receiving checks. Government managing decline. A welfare state writ large.
 

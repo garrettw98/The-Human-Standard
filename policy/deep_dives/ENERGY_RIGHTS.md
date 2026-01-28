@@ -1,6 +1,6 @@
 # PHILOSOPHICAL DEEP DIVE: The Thermodynamic Hierarchy
 ## Resolving the Energy Conflict Between Humans and AI
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

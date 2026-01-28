@@ -22,7 +22,7 @@ This document proposes a bold but graduated transition:
 
 ---
 
-> **VERSION 0.9.1 UPDATE - DIVERSIFIED STRATEGIC RESERVE**: This document has been updated to replace the original "100% Bitcoin backing" approach with a **Diversified Strategic Reserve** model that reduces volatility risk while maintaining the benefits of sound money. The goal has shifted from "deflationary sound money" to **"Purchasing Power Stability"** to prevent deflationary spirals that could harm consumption and economic growth.
+
 
 ---
 
@@ -316,9 +316,9 @@ Centralized money enables government overreach:
 
 **The Trump Administration's Approach:**
 
-**VERSION 0.9.1: Diversified Strategic Reserve (Replaces "Strategic Bitcoin Reserve"):**
+**Diversified Strategic Reserve (Replaces "Strategic Bitcoin Reserve"):**
 
-The original Strategic Bitcoin Reserve (March 2025) created dangerous volatility exposure for government finances. Version 0.9.1 implements a **Diversified Strategic Reserve** that provides stability while capturing the benefits of multiple asset classes.
+The original Strategic Bitcoin Reserve (March 2025) created dangerous volatility exposure for government finances. This framework implements a **Diversified Strategic Reserve** that provides stability while capturing the benefits of multiple asset classes.
 
 **Reserve Composition:**
 | Asset Class | Allocation | Rationale |
@@ -338,7 +338,7 @@ The original Strategic Bitcoin Reserve (March 2025) created dangerous volatility
 - Additional cryptocurrencies: ETH, XRP, SOL, ADA
 - Capitalized with assets from criminal/civil forfeitures
 - Positions U.S. as leader in government digital asset strategy
-- **Version 0.9.1 Addition**: Maximum 10% of reserve in volatile altcoins
+- Maximum 10% of reserve in volatile altcoins
 
 **GENIUS Act (July 2025):**
 - Federal regulatory framework for stablecoins
@@ -384,11 +384,11 @@ El Salvador made Bitcoin legal tender in September 2021—the first country to d
 5. **International pressure**: IMF/World Bank can force reversals
 6. **Gradual transition**: Overnight change is destabilizing
 
-### 3.5 Algorithmic Central Banking (VERSION 0.9.1)
+### 3.5 Algorithmic Central Banking
 
 **The New Goal: Purchasing Power Stability**
 
-Version 0.9.1 shifts the monetary policy goal from "deflationary sound money" to **"Purchasing Power Stability"**. Pure deflation creates problems:
+This framework shifts the monetary policy goal from "deflationary sound money" to **"Purchasing Power Stability"**. Pure deflation creates problems:
 
 | Deflationary Problem | Impact |
 |---------------------|--------|
@@ -879,14 +879,14 @@ The monetary system should serve the people, not the people serve the monetary s
 
 ---
 
-## PART VI: ZERO-KNOWLEDGE PROOF OF HUMANITY (VERSION 0.9.1)
+## PART VI: ZERO-KNOWLEDGE PROOF OF HUMANITY
 ### Privacy-Preserving Eligibility Verification
 
 ### 6.1 The Surveillance Risk
 
 **The Problem:**
 
-The Metabolic Distinction (Version 0.9.1) requires verifying that Citizen's Royalty recipients are biological humans. Without careful implementation, this creates a surveillance nightmare:
+The Metabolic Distinction requires verifying that Citizen's Royalty recipients are biological humans. Without careful implementation, this creates a surveillance nightmare:
 
 - Central biometric databases become targets for identity theft
 - Governments gain unprecedented power to track citizens

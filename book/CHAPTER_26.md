@@ -69,7 +69,7 @@ But the direction was set in the 2020s, when the vision was articulated and the 
 
 ---
 
-### The Vocational Economy (VERSION 0.9.1 ADDITION)
+### The Vocational Economy
 
 The historians of 2050 call it **The Vocational Economy**, and they mark its emergence as the crucial insight that saved the automation transition from despair.
 

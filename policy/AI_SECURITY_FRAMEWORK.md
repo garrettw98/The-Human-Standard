@@ -6,7 +6,7 @@
 
 ## EXECUTIVE SUMMARY
 
-> **VERSION 0.9.1 UPDATE**: This framework has been integrated with the **Tiered Transparency Framework** from AI_GOVERNANCE.md. The tiered classification system (Tier 1 Public Commons, Tier 2 Secure Audit, Tier 3 Classified) now governs transparency levels, and **Proof of Personhood** requirements have been added for democratic participation in AI governance.
+
 
 ---
 
@@ -72,7 +72,7 @@ A fundamental tension exists in our AI governance proposal: we advocate for **fu
 
 Not all government AI is equal. We propose a four-tier classification system:
 
-#### Tier 1: Public Commons - Fully Open Source (VERSION 0.9.1 Aligned)
+#### Tier 1: Public Commons - Fully Open Source
 
 **Applies to:**
 - Benefits eligibility determination
@@ -96,7 +96,7 @@ Not all government AI is equal. We propose a four-tier classification system:
 
 **Rationale:** These systems affect citizens directly. Gaming attempts are detectable (fraudulent applications get caught eventually). Transparency is paramount.
 
-#### Tier 2: Secure Audit - Source Available to NAICO (VERSION 0.9.1 Aligned)
+#### Tier 2: Secure Audit - Source Available to NAICO
 
 **Applies to:**
 - Fraud detection algorithms
@@ -118,7 +118,7 @@ Not all government AI is equal. We propose a four-tier classification system:
 
 **Rationale:** Immediate disclosure enables gaming. Delayed disclosure maintains accountability while preserving effectiveness.
 
-#### Tier 3: Classified - Congressional Oversight (VERSION 0.9.1 Aligned)
+#### Tier 3: Classified - Congressional Oversight
 
 **Applies to:**
 - Active criminal investigations
@@ -340,13 +340,13 @@ When attacks are detected:
 
 ---
 
-## PART IV: SECURITY IMPLICATIONS OF STRUCTURAL AGENCY (VERSION 0.9.1)
+## PART IV: SECURITY IMPLICATIONS OF STRUCTURAL AGENCY
 
 ### 4.0 The Lantern Protocol and Security
 
 **New Security Considerations:**
 
-Version 0.9.1 introduces the Lantern Protocol for testing Structural Agency in AI systems. This creates new security dimensions:
+The Lantern Protocol for testing Structural Agency in AI systems creates new security dimensions:
 
 **Protecting Emergent Agency:**
 - AI systems that pass the Lantern Protocol have recognized moral status
@@ -366,7 +366,7 @@ Version 0.9.1 introduces the Lantern Protocol for testing Structural Agency in A
 
 ---
 
-## PART IV-A: AGENTIC SWARM SECURITY (VERSION 0.9.1)
+## PART IV-A: AGENTIC SWARM SECURITY
 
 ### 4.1 The Swarm Collapse Vulnerability
 

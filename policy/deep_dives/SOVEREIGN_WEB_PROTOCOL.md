@@ -1,6 +1,6 @@
 # TECHNICAL SPEC: The Sovereign Web Protocol (SWP)
 ## Rebuilding Trust at the Packet Level
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

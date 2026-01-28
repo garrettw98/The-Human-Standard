@@ -1231,7 +1231,7 @@ The Human Standard energy platform is pro-growth, pro-technology, and pro-human.
 
 ---
 
-## PART VII: THERMODYNAMIC GOVERNANCE (VERSION 0.9.1)
+## PART VII: THERMODYNAMIC GOVERNANCE
 ### AI Compute and Ecological Limits
 
 ### 7.1 The Energy Crisis AI Creates
@@ -1321,7 +1321,7 @@ LEVEL 4 (CRITICAL): Rolling blackouts imminent
 
 The First Law states: "No policy may directly cause physical harm."
 
-Version 0.9.1 expands this to include ecological harm:
+This expands the definition of harm to include ecological harm:
 
 > **"Ecological destruction is a form of harm to all beings with Structural Agency who depend on stable ecosystems for survival. AI systems that destabilize climate, deplete resources, or degrade environments violate the First Law. Thermodynamic limits are not restrictions on innovation—they are applications of Do No Harm."**
 
@@ -1336,7 +1336,7 @@ AI developers accept these constraints in exchange for:
 
 ---
 
-## PART VII-A: COMPUTE BORDER ADJUSTMENT INTEGRATION (VERSION 0.9.1.1)
+## PART VII-A: COMPUTE BORDER ADJUSTMENT INTEGRATION
 
 ### Preventing Runaway Compute Through Trade Policy
 

@@ -1067,7 +1067,7 @@ Leadership isn't just about power. It's about what you do with it.
 
 ---
 
-## PART VII: COMPUTE BORDER ADJUSTMENT (VERSION 0.9.1)
+## PART VII: COMPUTE BORDER ADJUSTMENT
 ### Preventing "Runaway Compute" Through Trade Mechanisms
 
 ### 7.1 The Offshoring Risk

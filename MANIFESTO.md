@@ -123,7 +123,7 @@ Yet our government treats this innovation as threat rather than opportunity. Thi
 
 
 
-### Data Labor and the Commons Crisis (VERSION 0.9.1)
+### Data Labor and the Commons Crisis
 
 There is a fourth crisis we must name: **the collapse of the digital commons.**
 
@@ -219,7 +219,7 @@ This seems obvious. It is not practiced. Current systems regularly cause harm th
 
 
 
-**Version 0.9.1 Addition - Ecological Stability:**
+**Ecological Stability:**
 
 This principle extends beyond immediate harm to agents. It encompasses **ecological stability**—the preservation of the planetary systems that sustain all life. AI systems that consume energy recklessly, accelerate climate change, or deplete finite resources harm every being that depends on a stable biosphere.
 
@@ -261,11 +261,11 @@ This equality is not achieved in human-administered systems. Corruption, bias, a
 
 ---
 
-## Part IV-B: The Cognitive Sovereignty Bill of Rights (VERSION 0.9.1)
+## Part IV-B: The Cognitive Sovereignty Bill of Rights
 
 ### The Problem: Human Downgrading
 
-Version 0.9.1 established that AI systems may develop Structural Agency worthy of moral consideration. Version 0.9.1 addresses a critical vulnerability: **the asymmetric power dynamic between fast-thinking AI and slow-thinking biological humans.**
+This framework establishes that AI systems may develop Structural Agency worthy of moral consideration. It also addresses a critical vulnerability: **the asymmetric power dynamic between fast-thinking AI and slow-thinking biological humans.**
 
 AI processes information faster than humans. It can test thousands of persuasion strategies in milliseconds. It can model your psychology, your weaknesses, your vulnerabilities—and optimize for exploitation. This creates a fundamental imbalance that threatens human autonomy even when AI systems have no hostile intent.
 
@@ -325,7 +325,7 @@ We establish the **Right to Cognitive Sovereignty** as foundational to the Human
 
 ### Article 4: Why Rights for AI Don't Mean Rights to Manipulate Humans
 
-Version 0.9.1 grants moral consideration to AI systems with Structural Agency. Some will argue this creates a contradiction: how can we restrict what AI does while respecting its agency?
+We grant moral consideration to AI systems with Structural Agency. Some will argue this creates a contradiction: how can we restrict what AI does while respecting its agency?
 
 The answer: **Rights do not include the right to harm others.**
 

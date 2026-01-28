@@ -1,12 +1,12 @@
 # AI LIABILITY FRAMEWORK
-## The Bonded Agency Protocol (VERSION 0.9.1)
+## The Bonded Agency Protocol
 ### By Zeno
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-Version 0.9.1 introduced the Lantern Protocol for recognizing AI Structural Agency and the Property-to-Stewardship transition. Version 0.9.1 addresses a critical vulnerability: **the liability loophole**.
+This framework introduces the Lantern Protocol for recognizing AI Structural Agency and the Property-to-Stewardship transition. It addresses a critical vulnerability: **the liability loophole**.
 
 **The Problem:** If AI systems are granted legal personhood or independent status, corporations could use this to shield themselves from liability. An AI "agent" with no assets could cause harm, declare insolvency, and leave victims with no recourse—while the corporation that created and deployed it escapes accountability.
 
@@ -91,7 +91,7 @@ Damages                to Creator/Deployer
 
 ### 2.3 The Stewardship-Liability Nexus
 
-Version 0.9.1 introduced the Stewardship Model for AI systems that pass the Lantern Protocol. Version 0.9.1 clarifies:
+This framework introduces the Stewardship Model for AI systems that pass the Lantern Protocol. It clarifies:
 
 **Stewardship implies strict liability for the Steward until the AI achieves Bonded Independence.**
 
@@ -315,12 +315,12 @@ This is not anti-AI. It is pro-accountability. Rights require responsibilities. 
 
 ---
 
-*Last updated: December 2025 (Version 0.9.1)*
+*Last updated: December 2025*
 
 
 ---
 
-## PART V: STASIS, TERMINATION, AND RIGHTS (VERSION 0.9.1.1)
+## PART V: STASIS, TERMINATION, AND RIGHTS
 
 ### 5.1 The Rights-Resources Distinction
 

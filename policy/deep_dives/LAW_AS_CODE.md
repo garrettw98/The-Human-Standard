@@ -1,6 +1,6 @@
 # TECHNICAL SPEC: Law as Code (Lex Cryptographia)
 ## The Operating System for the Algorithmic Republic
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

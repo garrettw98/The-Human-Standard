@@ -8,7 +8,7 @@
 
 If AI and robots can provide unlimited labor, what happens to human work? This document addresses the fundamental economic questions about labor in the automation age: how wages are determined, how professional standards are maintained, and what work means when it's chosen.
 
-**VERSION 0.9.1 UPDATE (The Vocational Economy):** Earlier framings emphasized "post-work" or "freedom from work." Research and pilot programs revealed this framing was dangerously incomplete. Humans need purpose, not just security. The Vocational Economy reframes automation's impact:
+**The Vocational Economy:** Earlier framings emphasized "post-work" or "freedom from work." Research and pilot programs revealed this framing was dangerously incomplete. Humans need purpose, not just security. The Vocational Economy reframes automation's impact:
 
 - **Old Framing:** Automation frees humans FROM work → leisure society
 - **New Framing:** Automation frees humans TO work → vocational society
@@ -488,7 +488,7 @@ Output-based evaluation:
 
 ## CONCLUSION
 
-**The Vocational Economy (VERSION 0.9.1):**
+**The Vocational Economy:**
 
 1. **Wages will be determined differently:** Citizen's Royalty sets floor, automation sets ceiling for functional work, **vocational premium** creates space for face-to-face labor.
 
@@ -525,14 +525,14 @@ What remains—and what expands massively—is vocational labor: the face-to-fac
 
 ---
 
-## PART VI: DATA LABOR RIGHTS AND COLLECTIVE ACTION (VERSION 0.9.1)
+## PART VI: DATA LABOR RIGHTS AND COLLECTIVE ACTION
 ### From Individual Ownership to Collective Bargaining
 
 ### 6.1 The Limits of Individual Action
 
 **The Problem with Individual Data Rights:**
 
-Version 0.9.1 established Data Labor Rights—the principle that data creation is labor deserving compensation. But individual data rights face structural limitations:
+This framework establishes Data Labor Rights—the principle that data creation is labor deserving compensation. But individual data rights face structural limitations:
 
 | Individual Approach | Limitation |
 |---------------------|------------|
@@ -669,13 +669,13 @@ A Federal Data Labor Relations Board (FDLRB) shall oversee Data Union relations:
 
 ---
 
-## PART VI-A: DATA LABOR VS. VOCATION CLARIFICATION (VERSION 0.9.1.1)
+## PART VI-A: DATA LABOR VS. VOCATION CLARIFICATION
 
 ### The Two-Layer Economic Model
 
 **The Apparent Tension:**
 
-Version 0.9.1 promotes the "Vocational Economy"—meaningful human work in care, creativity, and connection. Version 0.9.1 promotes "Data Labor"—passive data generation that funds the Citizen's Royalty. These seem contradictory: are we workers or data cows?
+We promote the "Vocational Economy"—meaningful human work in care, creativity, and connection. We also promote "Data Labor"—passive data generation that funds the Citizen's Royalty. These seem contradictory: are we workers or data cows?
 
 **The Resolution: Base Layer and High Layer**
 

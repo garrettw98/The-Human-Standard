@@ -1,6 +1,6 @@
 # POLITICAL SPEC: Democratic Sortition
 ## Patching the "Election Vulnerability" in the AI Age
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

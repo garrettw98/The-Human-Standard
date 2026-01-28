@@ -13,7 +13,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 
 ---
 
-> **VERSION 0.9.1 UPDATE - COALITION ALIGNMENT**: This document has been updated to improve political coalition-building. Key changes: (1) "Citizen's Royalty" rebranded as **"Citizen's Royalty"** - framed as a return on public data/infrastructure investment, not welfare; (2) Updated libertarian messaging to emphasize property rights over data; (3) Refined cross-partisan appeal focusing on shared anti-corruption, anti-monopoly values.
+
 
 ---
 
@@ -291,7 +291,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 - Viral content and messaging
 - Demand coverage through action
 
-### 4.4 Reframe the Debate (VERSION 0.9.1)
+### 4.4 Reframe the Debate
 
 **From "Welfare" to "Property Rights" (KEY LIBERTARIAN REFRAME):**
 

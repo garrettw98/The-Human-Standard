@@ -298,7 +298,7 @@ The automation age will not eliminate human activity. It will transform what act
 
 ---
 
-## Part IV-B: The Vocational Economy Mechanism (VERSION 0.9.1)
+## Part IV-B: The Vocational Economy Mechanism
 
 **The Problem:**
 The "Citizen's Royalty" (Citizen's Royalty) provides a floor ($24k/year), but a floor is not a career. If we simply hand out money, we risk creating a two-tier society: a small elite of AI-augmented owners/engineers, and a vast underclass subsisting on the dole. We need a way to value "Human Economy" work (Care, Art, Community) *above* the survival floor.

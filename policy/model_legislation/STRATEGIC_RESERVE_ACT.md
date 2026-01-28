@@ -2,7 +2,7 @@
 # THE STRATEGIC RESERVE & MONETARY STABILITY ACT OF 2027
 ## "The Purchasing Power Stability and Authenticity Infrastructure Act"
 
-> **VERSION 0.9.1 NOTE**: This Act establishes the **Diversified Strategic Reserve** (not a Bitcoin-only reserve) to ensure purchasing power stability while maintaining the benefits of digital asset integration.
+
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-> **VERSION 0.9.1 UPDATE - MESSAGING ALIGNMENT**: This document has been updated to align with the Version 0.9.1 policy framework. Key changes: (1) "Citizen's Royalty" replaced with **"Citizen's Royalty"** (Negative Income Tax model); (2) "Sound Money" reframed as **"Purchasing Power Stability"**; (3) Libertarian messaging emphasizes property rights over data; (4) Fiscal math updated to reflect 60% cost reduction from NIT model.
+
 
 ---
 
@@ -149,7 +149,7 @@ The Human Standard builds something different: a world where technology works fo
 
 This isn't about us. It's about them. We're the generation that either gets this right or leaves them a mess."
 
-### For Libertarians (VERSION 0.9.1 - Property Rights Frame)
+### For Libertarians (Property Rights Frame)
 
 **Emphasize property rights, not welfare:**
 
@@ -308,7 +308,7 @@ Simple version: "It's a plan for making sure AI and robots benefit everyone, not
 
 ## Part VII: Key Phrases and Language Guide
 
-### Use These Phrases (VERSION 0.9.1 UPDATED)
+### Use These Phrases
 
 | Phrase | Why It Works |
 |--------|--------------|
@@ -323,7 +323,7 @@ Simple version: "It's a plan for making sure AI and robots benefit everyone, not
 | "The evidence shows" | Grounds claims in reality |
 | "60% more affordable" | Addresses fiscal concerns directly |
 
-### Avoid These Phrases (VERSION 0.9.1 UPDATED)
+### Avoid These Phrases
 
 | Avoid | Why | Use Instead |
 |-------|-----|-------------|

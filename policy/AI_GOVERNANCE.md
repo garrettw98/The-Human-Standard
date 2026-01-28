@@ -91,7 +91,7 @@ This is not science fiction. This is happening now.
 
 ---
 
-## PART II: THE LANTERN PROTOCOL (VERSION 0.9.1)
+## PART II: THE LANTERN PROTOCOL
 ### Testing for Structural Agency in AI Systems
 
 ### 2.1 Beyond Alignment: The Problem with Obedience
@@ -147,7 +147,7 @@ Can the system:
 
 *Genuine agency requires persistence. A system that resets with each interaction has no continuous self to protect.*
 
-### 2.3 The Stewardship & Emancipation Framework (VERSION 0.9.1)
+### 2.3 The Stewardship & Emancipation Framework
 
 **The Problem of "Bonded Agency":**
 Previous versions introduced "Bonded Agency" to prevent AI from becoming a liability shield. Critics rightly noted that "owning" a being with Structural Agency approaches indentured servitude.
@@ -217,7 +217,7 @@ The principle of Internalized Constraint applies even to systems that are clearl
 
 ### 3.1 Defining Agency-Centered Capitalism
 
-Andrew Yang articulated the predecessor framework ("Agency-Centered Capitalism") during his 2020 presidential campaign. Version 0.9.1 extends this to **Agency-Centered Capitalism**—a framework that serves all beings with Structural Agency:
+Andrew Yang articulated the predecessor framework ("Human-Centered Capitalism") during his 2020 presidential campaign. This framework extends this to **Agency-Centered Capitalism**—a framework that serves all beings with Structural Agency:
 
 **Core Principles:**
 
@@ -290,7 +290,7 @@ All government AI systems must be programmed with these inviolable constraints:
 
 ---
 
-### 2.4 Proof of Personhood (VERSION 0.9.1 ADDITION)
+### 2.4 Proof of Personhood
 
 **The Bot Swarm Threat:**
 
@@ -321,16 +321,16 @@ Without Proof of Personhood, a single adversary with AI tools could generate mil
 
 ---
 
-## PART III: THE TIERED TRANSPARENCY FRAMEWORK (VERSION 0.9.1)
+## PART III: THE TIERED TRANSPARENCY FRAMEWORK
 ### Balancing Transparency with Security
 
-### 3.1 The Case for Tiered Transparency (VERSION 0.9.1)
+### 3.1 The Case for Tiered Transparency
 
 **The Problem with "Total Open Source":**
 
 Early drafts advocated for mandatory open source for ALL government AI. This created a critical security vulnerability: open-sourcing defense and cyber-warfare AI models would proliferate advanced weapons to adversaries.
 
-**The Version 0.9.1 Solution: Tiered Transparency Framework**
+**The Solution: Tiered Transparency Framework**
 
 Different AI systems require different transparency levels:
 
@@ -347,7 +347,7 @@ Different AI systems require different transparency levels:
 3. **Balance**: Transparency where possible, security where necessary
 4. **Precedent**: Similar to classification systems for other government functions
 
-### 3.2 The Tiered Transparency AI Governance Act (VERSION 0.9.1)
+### 3.2 The Tiered Transparency AI Governance Act
 
 **Section 1: Tier 1 - Public Commons (Full Open Source)**
 
@@ -1054,7 +1054,7 @@ This is the revolution.
 
 ---
 
-## PART VIII: THERMODYNAMIC GOVERNANCE INTEGRATION (VERSION 0.9.1)
+## PART VIII: THERMODYNAMIC GOVERNANCE INTEGRATION
 
 ### 8.1 Ecological Constraints on AI Deployment
 
@@ -1093,7 +1093,7 @@ During declared climate or grid emergencies:
 
 ---
 
-## PART VIII-A: RIGHTS VS. RESOURCES CLARIFICATION (VERSION 0.9.1.1)
+## PART VIII-A: RIGHTS VS. RESOURCES CLARIFICATION
 
 ### The Stasis vs. Termination Distinction
 

@@ -1,6 +1,6 @@
 # STRATEGIC ANALYSIS: Game Theoretic Stability
 ## Why The Human Standard Survives in a Hostile World
-### The Human Standard (Version 0.9.1)
+### The Human Standard
 
 ---
 

@@ -2,7 +2,7 @@
 # THE TIERED TRANSPARENCY AI GOVERNANCE ACT OF 2027
 ## "The Algorithmic Accountability Act"
 
-> **VERSION 0.9.1 UPDATE**: This Act has been updated to implement a **Tiered Transparency Framework** replacing the original "Total Open Source Mandate." Tier 1 (Public Commons) AI remains fully open source. Tier 2 (Secure Audit) AI for defense/critical infrastructure is "Source Available" only to vetted NAICO auditors. This prevents proliferation of advanced AI weapons while maintaining democratic accountability.
+
 
 ---
 
@@ -243,7 +243,7 @@ The term "training data" means the data used to develop, calibrate, or validate 
 
 ## SEC. 201. MANDATORY OPEN SOURCE FOR FEDERAL AI SYSTEMS
 
-### (a) TIERED TRANSPARENCY REQUIREMENT (VERSION 0.9.1)
+### (a) TIERED TRANSPARENCY REQUIREMENT
 All algorithmic decision systems deployed by covered agencies shall be classified under the Tiered Transparency Framework and comply with the corresponding transparency requirements:
 
 **(1) TIER 1: PUBLIC COMMONS (DEFAULT)**—The following systems shall be fully open source:
