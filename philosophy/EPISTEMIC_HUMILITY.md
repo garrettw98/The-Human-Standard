@@ -108,7 +108,7 @@ The Human Standard is our best current thinking on governance for the automation
 
 ## Part II: Things We're More Confident About
 
-### The Three Crises Are Real
+### The Five Crises Are Real
 
 We are highly confident that:
 - Automation is accelerating (even if timeline uncertain)

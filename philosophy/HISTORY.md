@@ -287,7 +287,7 @@ Technology that destroyed trust can rebuild it. But only if we choose to build t
 
 ### Why This Moment Is Unique
 
-Three crises are converging simultaneously:
+Five crises are converging simultaneously:
 
 **The Automation Crisis:**
 - AI capabilities advancing exponentially
@@ -317,7 +317,7 @@ These crises reinforce each other. Automation displaces workers, creating anger.
 - AI reached critical capability threshold (2022-2023)
 - Inflation returned after decades (2021-2023)
 - Deepfakes became accessible (2023-2024)
-- All three crises visible simultaneously
+- All five crises visible simultaneously
 - Window for response is narrow
 
 ### Previous Convergence Moments

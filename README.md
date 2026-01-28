@@ -67,7 +67,7 @@
 
 ---
 
-## The Three Crises
+## The Five Crises
 
 ### 1. The Automation Crisis
 AI and robotics will transform the economy within years, not decades. Current institutions are unprepared for the decoupling of labor from value creation.
@@ -77,6 +77,12 @@ Deepfakes make truth unverifiable. Corruption pervades human institutions. The c
 
 ### 3. The Monetary Crisis
 Fiat currency has lost 96% of purchasing power since 1913. Central banks serve elites, not citizens. The store of value is broken.
+
+### 4. The Data Labor Crisis
+Billions of humans perform unpaid digital labor that trains the AI systems replacing them. The digital commons is being enclosed without compensation.
+
+### 5. The Sovereignty Crisis (The Arms Race)
+Nations are racing to the "Breakout Threshold" of AGI. This Winner-Take-All dynamic incentivizes speed over safety, threatening human control over the future.
 
 ---
 

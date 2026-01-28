@@ -149,9 +149,9 @@ A system that fails any of these tests fails The Human Standard. Partial credit 
 
 ---
 
-## Article IV: The Three Crises
+## Article IV: The Five Crises
 
-The Human Standard emerges in response to three converging crises that threaten human welfare and democratic governance.
+The Human Standard emerges in response to five converging crises that threaten human welfare and democratic governance.
 
 **The Automation Crisis**
 
@@ -170,6 +170,18 @@ The Human Standard response: Build truth infrastructure through blockchain verif
 Fiat currency enables hidden taxation through inflation. Since 1913, the dollar has lost 96% of its purchasing power—a slow-motion transfer from savers to debtors, from workers to asset owners. Citizens have no escape from monetary debasement.
 
 The Human Standard response: Provide purchasing power stability options that cannot be inflated away. Give citizens monetary sovereignty through voluntary access to cryptographic currencies with fixed supplies.
+
+**The Data Labor Crisis**
+
+Billions of humans perform unpaid digital labor that trains the AI systems replacing them. Platforms capture 100% of the value from data created by users, treating citizens as "users" rather than workers. The digital commons is being enclosed without compensation.
+
+The Human Standard response: Recognize data creation as labor. Mandate compensation through Data Dividends. Treat the data commons as a public asset, not a corporate resource.
+
+**The Sovereignty Crisis (The Arms Race)**
+
+Nations are racing to the "Breakout Threshold" of AGI. This Winner-Take-All dynamic incentivizes speed over safety, threatening human control over the future. If the first AGI is built without safety constraints, it becomes a planetary liability.
+
+The Human Standard response: Align domestic development with democratic values while pursuing international treaties to manage the Breakout. Win the race for capability without losing the race for humanity.
 
 ---
 
@@ -360,10 +372,12 @@ Not the other way around.
 - **Transparency**: Can this be publicly audited?
 - **Harm**: Does this hurt anyone or deprive basic needs?
 
-### The Three Crises
+### The Five Crises
 1. **Automation**: Jobs disappearing, gains concentrating
 2. **Trust**: Truth unverifiable, deepfakes everywhere
 3. **Monetary**: Currency debased, savings eroded
+4. **Data Labor**: Unpaid digital work fueling AI
+5. **Sovereignty**: The AGI arms race threatening control
 
 ### The Core Declaration
 *Technology serves humanity. Not the other way around.*
