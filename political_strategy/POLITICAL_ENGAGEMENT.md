@@ -74,9 +74,9 @@ Ideas without power are impotent. This document presents a concrete political en
 
 ---
 
-## Part III: 2025-2026 Action Plan
+## Part III: 2026-2027 Action Plan
 
-### Q1 2025: Foundation
+### Q1 2026: Foundation
 
 **Organizational**:
 - [ ] Incorporate 501(c)(4) and 501(c)(3)
@@ -91,7 +91,7 @@ Ideas without power are impotent. This document presents a concrete political en
 - [ ] Assess state legislative calendars
 - [ ] Connect with aligned organizations
 
-### Q2 2025: Build
+### Q2 2026: Build
 
 **Organizational**:
 - [ ] Hire Policy Director and Communications Director
@@ -104,7 +104,7 @@ Ideas without power are impotent. This document presents a concrete political en
 - [ ] State legislature engagement (California, Washington)
 - [ ] Candidate research for 2026
 
-### Q3 2025: Engage
+### Q3 2026: Engage
 
 **Organizational**:
 - [ ] First major report release (State of Automation)
@@ -117,7 +117,7 @@ Ideas without power are impotent. This document presents a concrete political en
 - [ ] Draft state legislation (disclosure)
 - [ ] Identify 2026 endorsement candidates
 
-### Q4 2025: Accelerate
+### Q4 2026: Accelerate
 
 **Organizational**:
 - [ ] Staff expansion (state directors)
@@ -148,7 +148,7 @@ Ideas without power are impotent. This document presents a concrete political en
 
 ## Part IV: Congressional Strategy
 
-### Target Representatives (2025-2026)
+### Target Representatives (2026-2027)
 
 **Tier 1: Likely Champions** (Engage immediately)
 
@@ -170,7 +170,7 @@ Ideas without power are impotent. This document presents a concrete political en
 | Don Bacon | R | NE | Rural, practical |
 | Marie Gluesenkamp Perez | D | WA | Rural, workers |
 
-### Target Senators (2025-2026)
+### Target Senators (2026-2027)
 
 **Priority Engagement**:
 | Senator | Party | State | Approach |
@@ -194,7 +194,7 @@ Ideas without power are impotent. This document presents a concrete political en
 
 ### Priority States
 
-| State | Why | 2025-2026 Goal |
+| State | Why | 2026-2027 Goal |
 |-------|-----|----------------|
 | **California** | Tech center, progressive | Automation disclosure law |
 | **Washington** | Tech + labor unions | Study commission |

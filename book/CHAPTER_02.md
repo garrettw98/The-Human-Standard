@@ -25,7 +25,7 @@ The idealism didn't last. AGI research is obscenely expensive—billions of doll
 
 GPT-4, released in March 2023, was a leap that startled even the optimists. It could pass the bar exam. It could code better than most junior programmers. It could analyze images, generate sophisticated text, and reason through complex problems in ways that felt eerily human.
 
-GPT-5 is coming. So is GPT-6. Each generation is more capable, more general, closer to the goal that once seemed like science fiction. OpenAI's internal timelines suggest AGI—true human-level artificial intelligence—could arrive by the end of this decade. Maybe sooner.
+GPT-5 arrived in 2025. GPT-6 is coming. Each generation is more capable, more general, closer to the goal that once seemed like science fiction. OpenAI's internal timelines suggest AGI—true human-level artificial intelligence—could arrive by the end of this decade. Maybe sooner.
 
 Sam Altman has said, publicly, that he believes AGI will be the most transformative technology in human history. He has also said he's scared of what his company is building. Both statements appear to be genuine.
 

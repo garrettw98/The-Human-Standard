@@ -116,7 +116,7 @@ Rather than committing to fixed timelines, we tie policy activation to observabl
 
 | Indicator | Threshold | Data Source | Current Status |
 |-----------|-----------|-------------|----------------|
-| AI benchmark scores | >90% on AGI evaluations | MLPerf, ARC-AGI | ~70% (Dec 2025) |
+| AI benchmark scores | >90% on AGI evaluations | MLPerf, ARC-AGI | >90% (GPT-5.2, Jan 2026) |
 | Tech sector unemployment | >6% for 3 consecutive months | BLS | ~5% |
 | Productivity-wage divergence | >30% from 2020 baseline | BLS, BEA | ~20% |
 | AI capital investment | >$500B annual (US) | Federal Reserve | ~$200B |
@@ -258,7 +258,7 @@ Given uncertainty, how should we allocate effort and resources?
 
 ## Part VI: What We're Watching
 
-### Near-Term Indicators (2025-2027)
+### Near-Term Indicators (2026-2028)
 
 - **AI capability trajectory**: Do models continue improving or plateau?
 - **Enterprise AI adoption**: Are companies actually deploying at scale?

@@ -69,7 +69,7 @@ The curve was steep because of fundamental economics: each generation was cheape
 
 Humanoid robots are following the same curve, just displaced in time.
 
-The first generation (2024-2025) is expensive and limited—capable of specific tasks in controlled environments but not yet ready for general deployment. Early adopters are large companies with specific use cases and capital to experiment.
+The first generation (2024-2025) was expensive and limited—capable of specific tasks in controlled environments but not yet ready for general deployment. Early adopters are large companies with specific use cases and capital to experiment.
 
 The second generation (2026-2027) will be cheaper and more capable. Manufacturing will scale, reducing unit costs. AI improvements will expand what the robots can do. The early adopters will demonstrate ROI, convincing more conservative buyers to invest.
 
@@ -85,7 +85,7 @@ The smartphone went from zero to five billion users in fifteen years. Humanoid r
 
 Based on current development trajectories and announced plans, here is what to expect:
 
-**2025: First Commercial Deployments**
+**2025: The Year of Deployment**
 
 Humanoid robots enter controlled commercial environments. Tesla deploys Optimus in its own factories for specific tasks. Figure AI robots work in BMW manufacturing facilities. Agility Robotics' Digit operates in Amazon warehouses.
 

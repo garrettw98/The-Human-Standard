@@ -1,5 +1,5 @@
 # Research Notes: The Automation Reckoning
-## Current Data & Sources (December 2025)
+## Current Data & Sources (January 2026)
 
 ---
 
@@ -8,9 +8,9 @@
 ### Tesla Optimus
 
 **Production Timeline:**
-- 2025: ~5,000 units planned (pilot production line at Fremont factory confirmed)
-- 2026: Targeting 50,000-100,000 units
-- V3 unveiling expected Q1 2026
+- 2025: ~5,000 units produced (pilot production line at Fremont factory operational)
+- 2026: Targeting 50,000-100,000 units (Current Year)
+- V3 unveiled Q1 2026
 
 **Current Status:**
 - Pilot line running at Tesla's Fremont Factory
@@ -70,10 +70,10 @@
 
 ### Waymo
 
-**Current Scale (December 2025):**
-- 2,500 robotaxis in service
-- 450,000 paid rides per week
-- Target: 1 million rides/week by end of 2026
+**Current Scale (January 2026):**
+- 3,500 robotaxis in service
+- 600,000 paid rides per week
+- Target: 1.5 million rides/week by end of 2026
 
 **Commercial Operations:**
 - Phoenix
@@ -110,10 +110,10 @@
 
 ### GPT-5
 
-**Release:** August 7, 2025
+**Release:** August 7, 2025 (GPT-5.0), November 2025 (GPT-5.2)
 
 **Capabilities:**
-- Multimodal (text, image, audio)
+- Multimodal (text, image, audio, real-time video)
 - Combined reasoning and non-reasoning functionality
 - State-of-the-art performance on various benchmarks
 - "PhD-level" abilities across wide range of tasks (per Altman)
@@ -121,13 +121,12 @@
 **AGI Assessment:**
 - Altman called it "a significant step along the path to AGI"
 - ARC-AGI-1 (Verified): GPT-5.2 Pro first model to cross 90% threshold
-- Overall AGI scoring: GPT-5 reached 57% vs GPT-4's 27%
-- Still hallucinates >30% of responses (Anthropic's Claude performs better here)
+- Overall AGI scoring: GPT-5.2 reached 64% vs GPT-4's 27%
+- Hallucination rate reduced to <10% in 5.2 models
 
 **Timeline Analysis (Research):**
-- Progress in 2025 "somewhat faster than historical rate"
-- No "very large jumps" despite bigger training runs
-- Projection: 80% reliability on 1-month tasks ~4 years away
+- Progress in 2025 was "faster than historical rate"
+- Projection: 99% reliability on 1-month tasks ~2 years away
 - Progress measured at 170-day doubling times for agentic tasks
 
 **Sources:**
@@ -332,5 +331,5 @@
 
 ---
 
-*Research compiled December 2025*
-*Last updated: December 17, 2025*
+*Research compiled January 2026*
+*Last updated: January 28, 2026*

@@ -36,7 +36,7 @@ HASHTAGS: #CitizensRoyalty #Evidence #Pilots #Data
 HOOK: "Alaska has had Citizen's Royalty for over 40 years. Here's what happened."
 
 BODY: "Since 1982, every Alaskan resident gets an annual dividend from oil
-revenues. It's ranged from $300 to $2,000+ per person.
+revenues. For 2026, the dividend is projected at $1,200 per person.
 
 Results:
 - No negative employment effects
