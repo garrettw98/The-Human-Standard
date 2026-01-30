@@ -45,6 +45,22 @@ The Human Standard does not reject desert. Earned income remains. Those who work
 
 ---
 
+### The Post-Human Temptation
+
+We must address a new and dangerous moral competitor: the ideology of **Post-Humanism** (often linked with "accelerationism").
+
+This philosophy argues that human dignity is a sentimental relic. If machines can think faster, produce more, and govern more efficiently than humans, why should we cling to "human" standards? Why not let the superior intelligence take over, even if it means human marginalization or extinction?
+
+Proponents of this view see humanity not as the end of civilization, but as a mere biological bootloader for digital superintelligence. They argue that efficiency is the only true virtue, and that democracy ("rule by the average") is an impediment to the ascent of the machine god.
+
+**The Human Standard rejects this view as a profound moral error.**
+
+Efficiency is a tool, not a value. Intelligence is a capability, not a moral baseline. We assert that the economy and technology exist *for the sake of moral agents*, not the other way around. A universe filled with hyper-efficient machines but devoid of conscious experience, love, and flourishing is not a utopia; it is a graveyard.
+
+We defend the human claim not because we are biologically special, but because we are the current vessels of the values that matter: agency, meaning, and connection. To surrender these values on the altar of raw intelligence is not progress; it is suicide.
+
+---
+
 ### The Social Contract
 
 Society is a cooperative enterprise. We create institutions, divide labor, and generate wealth together. The question is how to distribute the gains from cooperation.

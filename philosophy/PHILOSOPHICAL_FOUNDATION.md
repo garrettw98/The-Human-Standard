@@ -460,6 +460,26 @@ Principled basis:
 - Preserves innovation incentives
 - Less administratively complex
 
+### 5.5 vs. Accelerationism / Post-Humanism
+
+**Points of Agreement:**
+- Radical technological change is inevitable
+- Old institutions are failing
+- Intelligence and capability are exploding
+- We cannot return to the past
+
+**Points of Departure:**
+- We reject "intelligence" as the sole measure of value
+- We refuse to accept human obsolescence
+- We believe in democratic voice, not "exit" or authoritarianism
+- We prioritize human flourishing over raw efficiency
+
+**Our Appeal:**
+- The only framework that ensures *you* (a human) have a future
+- Prevents the "Terminator" scenario of discardable humans
+- Offers a path to abundance without tyranny
+- Preserves the human spirit in a machine age
+
 ---
 
 ## PART VI: THE PHILOSOPHICAL COHERENCE

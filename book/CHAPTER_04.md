@@ -141,6 +141,8 @@ The competitive pressure is immense. The lab that reaches AGI first gains potent
 
 This creates a collective action problem. Each lab might want the whole field to slow down, but no lab wants to slow down unilaterally and lose the race. The result is everyone accelerating, safety corners being cut, and deployment happening faster than careful testing would allow.
 
+This dynamic is fueled by a growing "accelerationist" ideology within the tech sector itself. Proponents argue that slowing down is not just strategically dangerous but morally wrong—that the only way to solve humanity's problems is to rush toward superintelligence as fast as possible, breaking "bureaucratic" constraints along the way. This philosophy provides a high-minded justification for reckless corporate behavior, framing safety precautions as obstacles to a utopian future.
+
 China adds another dimension. The country is investing massively in AI, views it as strategically essential, and does not share Western safety concerns. American labs can tell themselves that slowing down just cedes the future to China. Whether this is true or rationalization, it shapes behavior.
 
 The race dynamics are real and dangerous. They push toward speed over safety, toward deployment over testing, toward capability over alignment.

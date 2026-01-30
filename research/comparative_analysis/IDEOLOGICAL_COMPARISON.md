@@ -260,6 +260,44 @@ We share techno-pessimists' concerns about what unmanaged automation does to hum
 
 ---
 
+### 7. The Human Standard vs. Accelerationism / Neoreaction
+
+**Accelerationism / NRx holds that:**
+- Democracy is a failed system ("The Cathedral") that impedes progress
+- Technology and capital should accelerate beyond human control
+- Hierarchy is natural and desirable; equality is a myth
+- Governance should be run like a corporation (CEO/Monarch)
+- Humanism is an obsolete "brake" on intelligence
+
+**The Human Standard agrees that:**
+- Current democratic institutions are failing to cope with speed of change
+- Technology is a powerful, transformative force
+- "Business as usual" leads to collapse
+- Competence in governance is essential
+
+**The Human Standard disagrees that:**
+- Democracy should be abandoned for authoritarianism
+- Human needs should be secondary to "technological progress"
+- Most humans are "useless" or "obsolete"
+- Corporate/Monarchic rule benefits the many
+- We should simply "let it rip" and hope for the best
+
+**Key Distinctions:**
+
+| Issue | Accelerationism / NRx | Human Standard |
+|-------|-----------------------|----------------|
+| Ultimate Goal | Intelligence / Efficiency | Human Flourishing |
+| Democracy | Abolish ("Exit") | Upgrade ("Voice") |
+| Human Role | Obsolete substrate | The central purpose |
+| Governance | Corporate Monarchy | Democratic Accountability |
+| Equality | Rejected as dysgenic | Embraced as dignity |
+
+**Why Human Standard Is Different:**
+
+This is our most fundamental philosophical conflict. Accelerationists view humanity as a bootloader for AI and are willing to discard those who can't keep up. The Human Standard asserts that the economy and technology exist *to serve humans*, not the other way around. We refuse to cede the future to a post-human oligarchy.
+
+---
+
 ## Comparison with Other Citizen's Royalty Proposals
 
 ### Andrew Yang / Forward Party

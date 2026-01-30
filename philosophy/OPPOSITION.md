@@ -115,6 +115,7 @@ This document maps the battlefield. The opposition is formidable but not invinci
 
 **Who they are:**
 - Free market fundamentalists (oppose any redistribution)
+- The Neoreactionary / Accelerationist Block (oppose democracy itself)
 - Traditional socialists (oppose market mechanisms)
 - Religious conservatives (oppose technological change)
 - Anti-tech environmentalists (oppose automation expansion)
@@ -125,6 +126,7 @@ This document maps the battlefield. The opposition is formidable but not invinci
 - We do not fit their left-right framework
 - We threaten their identity and worldview
 - We make strange alliances they find confusing
+- (For NRx): We empower the "useless" masses they wish to disenfranchise
 
 **Their resources:**
 - True believers who work for free
