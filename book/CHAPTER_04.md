@@ -143,6 +143,8 @@ This creates a collective action problem. Each lab might want the whole field to
 
 This dynamic is fueled by a growing "accelerationist" ideology within the tech sector itself. Proponents argue that slowing down is not just strategically dangerous but morally wrong—that the only way to solve humanity's problems is to rush toward superintelligence as fast as possible, breaking "bureaucratic" constraints along the way. This philosophy provides a high-minded justification for reckless corporate behavior, framing safety precautions as obstacles to a utopian future.
 
+The only effective brake on this race is **Compute Governance**. While code is easy to copy and hide, the massive physical infrastructure required to train frontier models—tens of thousands of specialized chips, megawatts of power—cannot be hidden. By controlling the physical supply of compute, we can enforce safety standards even on unwilling actors. This is the "uranium enrichment" model of AI safety: track the fuel, not just the software.
+
 China adds another dimension. The country is investing massively in AI, views it as strategically essential, and does not share Western safety concerns. American labs can tell themselves that slowing down just cedes the future to China. Whether this is true or rationalization, it shapes behavior.
 
 The race dynamics are real and dangerous. They push toward speed over safety, toward deployment over testing, toward capability over alignment.

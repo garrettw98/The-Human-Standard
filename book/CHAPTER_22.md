@@ -126,6 +126,13 @@ Certain risks threaten everyone regardless of political system:
 
 On these risks, even rivals have shared interest in coordination. The USSR and USA cooperated on nuclear arms control despite fundamental hostility. China and America can cooperate on AI safety even while competing strategically.
 
+**The Treaty of Compute**:
+
+To prevent a "rogue breakout" where a nation secretly develops dangerous superintelligence, we propose an international monitoring regime similar to the IAEA's nuclear inspections.
+- **Supply Chain Tracking**: Global database of high-end lithography and GPU shipments.
+- **Energy Monitoring**: Satellite surveillance of thermal signatures consistent with massive unregulated data centers.
+- **The "Circuit Breaker" Sharing**: Providing rival nations with the hardware safety technology (kill switches) to ensure they can control their own systems. A rogue AI in China is a threat to the US; helping them install safety brakes is in our national interest.
+
 **Mechanisms**:
 
 - Track 1.5 diplomacy: Informal discussions involving government and experts
