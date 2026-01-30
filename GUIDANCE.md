@@ -43,7 +43,7 @@ Whether you are an individual, a community leader, a policymaker, or a technolog
 **Strategy:** Spread the ideas, not just the organization.
 
 - Share the repository with those capable of understanding it.
-- Discuss the "Five Crises" (Automation, Trust, Monetary, Data Labor, Sovereignty) in your circles.
+- Discuss the "Six Crises" (Automation, Trust, Monetary, Data Labor, Sovereignty, Existential) in your circles.
 - Use the language of The Human Standard ("Agency," "Flourishing," "Citizen's Royalty") to frame debates.
 
 **Why it matters:** Culture shifts when language shifts.
@@ -81,7 +81,7 @@ Whether you are an individual, a community leader, a policymaker, or a technolog
 **Strategy:** Move the Overton Window.
 
 - **Contact Representatives**: Demand clarity on their automation policy. Use the templates in `messaging/`.
-- **Support Aligned Candidates**: Identify candidates who understand the Five Crises, regardless of party.
+- **Support Aligned Candidates**: Identify candidates who understand the Six Crises, regardless of party.
 - **Demand Data**: Push for "Automation Impact Studies" at the state and local level. Transparency precedes regulation.
 
 **Why it matters:** Politics follows culture, but policy solidifies culture.

@@ -67,7 +67,7 @@ The philosophy is simple: technology serves humanity, not the other way around. 
 
 *Use the 2-minute pitch as the opening, then expand with:*
 
-**The Five Crises:**
+**The Six Crises:**
 "We're not facing one crisis—we're facing three at once, and they reinforce each other.
 
 The automation crisis: AI can now do cognitive work, not just physical labor. Lawyers, accountants, writers, customer service, programmers—every white-collar job is affected. This isn't decades away. It's happening now.

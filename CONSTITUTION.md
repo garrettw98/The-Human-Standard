@@ -149,7 +149,7 @@ A system that fails any of these tests fails The Human Standard. Partial credit 
 
 ---
 
-## Article IV: The Five Crises
+## Article IV: The Six Crises
 
 The Human Standard emerges in response to five converging crises that threaten human welfare and democratic governance.
 
@@ -372,7 +372,7 @@ Not the other way around.
 - **Transparency**: Can this be publicly audited?
 - **Harm**: Does this hurt anyone or deprive basic needs?
 
-### The Five Crises
+### The Six Crises
 1. **Automation**: Jobs disappearing, gains concentrating
 2. **Trust**: Truth unverifiable, deepfakes everywhere
 3. **Monetary**: Currency debased, savings eroded

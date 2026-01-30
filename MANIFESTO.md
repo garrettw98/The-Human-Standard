@@ -74,7 +74,7 @@ These questions have answers. But those answers do not come from the ideologies 
 
 ---
 
-## Part II: The Five Crises
+## Part II: The Six Crises
 
 ### The Automation Crisis
 
