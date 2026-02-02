@@ -31,7 +31,11 @@ When they talk about "firing the bureaucrats," they don't mean returning power t
 *   Instead of a government agency watching the border, it will be a billionaire's robot cameras.
 *   Instead of a civil servant handling your Social Security, it will be a billionaire's AI software.
 
-**The Scary Part:** Some of these tech billionaires don't believe in democracy anymore. They openly write that freedom and democracy "don't go together." They want to run America like a corporation, where they are the CEO and you are just an employee who can be fired. They want a King, not a President. And they are using your anger to build their throne.
+**The Scary Part:** Some of these tech billionaires don't just dislike the government—they don't believe in democracy at all.
+
+Peter Thiel, the billionaire who funded many of these politicians, wrote explicitly: **"I no longer believe that freedom and democracy are compatible."**
+
+They aren't trying to fix the republic. They want to replace it with what they call a "CEO-King" or a "Red Caesar"—a dictator who runs America like a startup. They believe you are "obsolete" and shouldn't have a vote. They are using your anger at the system to build a throne for themselves.
 
 ---
 
@@ -46,7 +50,11 @@ When they talk about "safety," they mean *control*. They want a world where they
 *   They want "Digital Dollars" (CBDCs) that they can turn off if you buy the wrong things.
 *   They want "Digital IDs" that you need just to log onto the internet.
 
-**The Scary Part:** They think you are too simple to handle the truth. They view regular people as "outdated" or "problematic." Their goal is a world where you are "safe" the way a pet in a zoo is safe—fed, housed, and completely unable to make your own choices. They are using your fear to build your cage.
+**The Scary Part:** They think you are too simple to handle the truth.
+
+Tech leaders like Marc Andreessen have written manifestos declaring that any attempt to slow down technology for safety is a "moral crime." They view regular humans as "NPCs" (Non-Player Characters) who just get in the way of progress.
+
+Elon Musk has even said that in the future he's building, humans will be like "house cats" to artificial intelligence. They want to build a world where you are "safe" the way a pet in a zoo is safe—fed, housed, and completely unable to make your own choices. They are using your fear to build your cage.
 
 ---
 
@@ -63,6 +71,16 @@ They are spending billions of dollars to build Artificial Intelligence (AI) and 
 **Their Vision:** A world where a few super-rich people own all the robots and all the AI. They live like gods, possibly forever (they are literally investing in immortality technology).
 
 And the rest of us? In their vision, we just… exist. Maybe they give us a few crumbs to keep us quiet. Maybe they plug us into video games so we don't notice we've lost our purpose. Or maybe, eventually, they decide they don't need us at all.
+
+### THE PROOF: IN THEIR OWN WORDS
+
+You don't have to take our word for it. They have said it out loud:
+
+1.  **"I no longer believe that freedom and democracy are compatible."** — Peter Thiel, billionaire donor and architect of the new right.
+2.  **"Humans will be like house cats to AI."** — Elon Musk, explaining the future he is building.
+3.  **"Retire All Government Employees."** — The explicit plan ("RAGE") of Curtis Yarvin, the philosopher behind the "Red Caesar" strategy, who argues for replacing the President with a CEO-King.
+
+They are telling you exactly what they intend to do. We just need to listen.
 
 This is the **"Post-Human"** future. A world built *by* humans, but not *for* humans.
 
