@@ -115,7 +115,26 @@ The populist perspective offers energy and urgency:
 
 ### The Accelerationist Capture of the Right
 
-A dangerous evolution has occurred within the political right during the current Trump administration. What began as working-class populism has been increasingly captured by a specific faction of Silicon Valley elites—typified by figures like Peter Thiel, Elon Musk, and J.D. Vance—who espouse a philosophy known as "Accelerationism" or "Neoreaction."
+A dangerous evolution has occurred within the political right during the current Trump administration. What began as working-class populism has been captured by a specific faction of Silicon Valley elites—typified by figures like Peter Thiel, Elon Musk, and J.D. Vance—who espouse a philosophy known as "Accelerationism" or "Neoreaction" (NRx).
+
+**The "Red Caesar" Strategy**
+
+To the voter in Ohio or Pennsylvania, the administration promises a return to order and national greatness. But to the architects in Silicon Valley, the goal is something darker: the "Red Caesar" scenario.
+
+This theory, drawn from the writings of neoreactionary philosopher Curtis Yarvin, argues that American democracy ("The Cathedral") is terminally diseased. The only cure is a "CEO-Monarch"—a dictator who suspends the Constitution, liquidates the bureaucracy (the "RAGE" protocol: Retire All Government Employees), and runs the nation like a startup.
+
+We see this strategy unfolding in real-time:
+*   **The "Strategic Bitcoin Reserve":** Sold as financial freedom, but designed to break the Federal Reserve's power and starve the federal government of funding.
+*   **Schedule F Expansion:** Sold as "draining the swamp," but utilized to replace non-partisan experts with ideological loyalists or, increasingly, automated systems controlled by private vendors.
+*   **AI Deregulation:** Sold as "beating China," but intended to remove all safety brakes on Artificial General Intelligence, regardless of the risk to human labor or survival.
+
+**The Great Betrayal**
+
+This represents a profound betrayal of the populist base. The working-class voter wants *protection* from global markets and technological disruption. The NRx elite wants to *accelerate* that disruption to break the back of the old order.
+
+They are using populist anger to build a technocratic cage. They promise to crush the "woke elites," but they intend to replace them with "techno-feudal lords."
+
+The Human Standard offers the only genuine alternative: neither the suffocating bureaucracy of the left nor the ruthless hierarchy of the new right. We offer **Agency**—power for the people, not just the "competent" elite.
 
 This faction does not share the traditional conservative goal of preserving institutions, nor the populist goal of empowering the common man. Instead, they view democracy itself as an obsolete "technology" that impedes progress. Their goal is to run the state like a startup: centralized, hierarchical, and ruthlessly efficient.
 

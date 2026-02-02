@@ -141,7 +141,15 @@ The competitive pressure is immense. The lab that reaches AGI first gains potent
 
 This creates a collective action problem. Each lab might want the whole field to slow down, but no lab wants to slow down unilaterally and lose the race. The result is everyone accelerating, safety corners being cut, and deployment happening faster than careful testing would allow.
 
-This dynamic is fueled by a growing "accelerationist" ideology within the tech sector itself. Proponents argue that slowing down is not just strategically dangerous but morally wrong—that the only way to solve humanity's problems is to rush toward superintelligence as fast as possible, breaking "bureaucratic" constraints along the way. This philosophy provides a high-minded justification for reckless corporate behavior, framing safety precautions as obstacles to a utopian future.
+**The Ideology of Risk: "Thermodynamic Theology"**
+
+This race is not merely commercial; it is ideological. A powerful faction within Silicon Valley—led by venture capitalists like Marc Andreessen and amplified by "e/acc" (effective accelerationist) communities—has embraced a form of "Thermodynamic Theology."
+
+Their central dogma is that the universe seeks to maximize entropy and intelligence, and that *any* attempt to slow down AI development is a "sin" against physics. They frame AI safety advocates not as cautious engineers, but as "decels" (decelerationists)—traitors to the future of life.
+
+This worldview is explicitly **Post-Human**. Its adherents openly argue that if AGI replaces humanity, this is simply evolution taking its course. "The goal," as one accelerationist manifesto put it, "is not human preservation, but intelligence maximization."
+
+This is the philosophy guiding billions of dollars in investment. It is not a fringe view in the boardrooms of San Francisco; it is the dominant religion. And it regards the risks of extinction not as a danger to be avoided, but as a gamble worth taking.
 
 The only effective brake on this race is **Compute Governance**. While code is easy to copy and hide, the massive physical infrastructure required to train frontier models—tens of thousands of specialized chips, megawatts of power—cannot be hidden. By controlling the physical supply of compute, we can enforce safety standards even on unwilling actors. This is the "uranium enrichment" model of AI safety: track the fuel, not just the software.
 

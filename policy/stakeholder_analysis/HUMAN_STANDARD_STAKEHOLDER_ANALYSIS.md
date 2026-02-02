@@ -515,46 +515,41 @@ Success of The Human Standard requires building a broad coalition while neutrali
 
 ## 4. OPPOSITION STAKEHOLDERS
 
-### 4.1 Big Tech Leadership (Selective Opposition)
+### 4.1 Big Tech Leadership (The "Post-Human" Faction)
 
 **Profile**:
-- Companies: Google, Meta, Amazon, Apple, Microsoft
-- Leaders: Sundar Pichai, Mark Zuckerberg, Andy Jassy, Tim Cook, Satya Nadella
-- Economic power: $3+ trillion combined market cap
+- **The Architects:** Peter Thiel, Marc Andreessen (Ideological drivers of NRx/Accelerationism)
+- **The Builders:** Elon Musk, Sam Altman (Executing the vision)
+- **The Managers:** Sundar Pichai, Satya Nadella (Corporate stewards, less ideological)
 
-**Position on Human Standard**: **Partial Opposition**
+**Position on Human Standard**: **Hostile (Existential Conflict)**
 
-**What They Oppose**:
-- Data dividend tax (directly reduces profits)
-- AI training compensation (increases costs)
-- Tiered transparency (competitive concerns)
-- Automation tax (long-term)
+**The Core Conflict**:
+This is not just about tax rates. The "Architects" and "Builders" fundamentally reject the Human Standard's premise.
+- **We believe:** Technology serves human agency.
+- **They believe:** Humans are a "bootloader" for digital superintelligence.
+- **We propose:** "Metabolic Distinction" (Citizen's Royalty for humans only).
+- **They propose:** "Machine Rights" or "Universe Basic Compute" (elevating AI above humans).
 
-**What They Might Accept**:
-- Citizen's Royalty (creates consumer demand)
-- Authenticity infrastructure (reduces liability)
-- Clear regulatory framework (reduces uncertainty)
-
-**Opposition Tactics Expected**:
-- Lobbying against data tax
-- Public relations campaigns
-- Threatening to relocate/reduce investment
-- Supporting alternative policies
+**Specific Threats**:
+- **Thiel/Andreessen:** Will fund primary challengers and "Dark MAGA" operatives to crush our regulatory framework.
+- **Musk:** Will use X (Twitter) to amplify "decels vs. accels" narratives, painting Human Standard advocates as "enemies of progress."
+- **Altman:** May attempt to co-opt the movement with a watered-down "Worldcoin" version of UBI that requires biometric surveillance.
 
 **Neutralization Strategy**:
 
 | Approach | Tactic |
 |----------|--------|
-| Split the coalition | Some tech leaders support Citizen's Royalty (Elon Musk, Sam Altman) |
-| Consumer demand argument | "Your customers need income to buy your services" |
-| Regulatory certainty | "Clear rules better than uncertainty" |
-| Competitive framing | "Data tax affects all equally" |
-| Public pressure | Expose lobbying, mobilize tech workers |
+| **Unmasking** | Expose the "Post-Human" agenda. "They don't want to save you; they want to replace you." |
+| **Split the Managers** | Pichai/Nadella care about stability/profits, not "The Singularity." They can be negotiated with. |
+| **Tech Worker Revolt** | Mobilize the 99% of tech workers who do *not* want to build a feudal monarchy. |
+| **Populist Wedge** | Show the Right that Thiel/Musk despise democracy and traditional values. |
+| **Consumer Power** | "Don't feed the beast that eats you." |
 
 **Key Contacts**:
-- Individual tech leaders with Citizen's Royalty sympathy
-- Tech worker advocates
-- Academic critics of tech
+- **Dissident Founders:** Tech leaders who fear the Thiel/Musk monopoly.
+- **AI Safety Whistleblowers:** (e.g., former OpenAI/Anthropic staff).
+- **Tech Unions:** (Alphabet Workers Union, etc).
 
 ---
 
