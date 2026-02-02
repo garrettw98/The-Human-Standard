@@ -25,7 +25,7 @@
 
 ## The Library
 
-**The Human Standard** is organized as a modular system of thought.
+**The Human Standard** is organized as a modular system of thought and action.
 
 ### I. The Canon
 *The core declarations of value and law.*
@@ -36,22 +36,27 @@
 *The comprehensive narrative.*
 - `book/`: A 26-chapter exploration of the automation age.
 
-### III. The Philosophy
-*Deep dives into the concepts.*
-- `philosophy/`: Essays on Meaning, History, Transition, and Epistemic Humility.
-
-### IV. The Policy
+### III. The Framework
 *The operating system for the future.*
-- `policy/`: 10 pillars of governance, economic models, and legal theories.
+- `philosophy/`: Essays on Meaning, History, and Ethics.
+- `policy/`: The 10 pillars of governance and economic models.
+- `legislation/`: Draft bills ready for introduction.
+- `technology/`: Technical specifications for AI and Blockchain systems.
 
-### V. The Research
+### IV. The Strategy
+*How we win.*
+- `strategy/`: Political roadmaps and power analysis.
+- `strategy/intelligence/`: Deep dives on the opposition (NRx/Accelerationism).
+
+### V. The Action
+*Tools for the movement.*
+- `action/messaging/`: Talking points, warnings, and "The Receipts."
+- `action/organizing/`: Guides for local chapters and resistance.
+- `action/outreach/`: Press kits and social media assets.
+
+### VI. The Research
 *The evidence base.*
-- `research/`: Data on automation timelines, economic impact, and historical precedents.
-
-### VI. The Practice
-*Applying the philosophy.*
-- `GUIDANCE.md`: Frameworks for individual and community application.
-- `implementation_models/`: Reference architectures for political strategy and movement building.
+- `research/`: Data, citations, and confidence intervals.
 
 ---
 
@@ -120,7 +125,7 @@
 | Land Value Tax Act | 2% tax on land value |
 | National AI Oversight Act | Establish NAICO |
 
-All bills in: policy/model_legislation/
+All bills in: `legislation/`
 
 ---
 
@@ -128,12 +133,12 @@ All bills in: policy/model_legislation/
 
 | Document | Purpose |
 |----------|---------|
-| policy/FISCAL_ARCHITECTURE.md | How taxation works with purchasing power stability |
-| policy/AI_SECURITY_FRAMEWORK.md | Tiered transparency + Glass Break Protocol |
-| policy/CITIZENS_ROYALTY_FUNDING_RESILIENCE.md | Diversified funding model |
-| policy/CONTINGENCY_PLANNING.md | Failure modes and backups |
-| policy/LABOR_ECONOMICS.md | Work in automation age |
-| policy/DISTRIBUTIONAL_ANALYSIS.md | Gender, geography, equity |
+| `policy/FISCAL_ARCHITECTURE.md` | How taxation works with purchasing power stability |
+| `policy/AI_SECURITY_FRAMEWORK.md` | Tiered transparency + Glass Break Protocol |
+| `policy/CITIZENS_ROYALTY_FUNDING_RESILIENCE.md` | Diversified funding model |
+| `technology/COMPUTE_GOVERNANCE_AND_SAFETY.md` | The "Circuit Breaker" hardware spec |
+| `technology/CITIZENS_ROYALTY_PAYMENT_SYSTEM_ARCHITECTURE.md` | Payment rails spec |
+| `technology/AI_GOVERNANCE_TECHNICAL_ARCHITECTURE.md` | NAICO tech stack |
 
 
 
