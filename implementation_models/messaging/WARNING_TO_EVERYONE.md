@@ -108,4 +108,10 @@ The future isn't written yet. They want you to think it's inevitable. It's not.
 We are human beings. We are not obsolete. And we are not going to let them delete us.
 
 ---
+### NEED PROOF?
+If you think this sounds like a conspiracy theory, look at the evidence. We have compiled their own quotes, their own books, and their own laws into a single document. They admit it when they think you aren't listening.
+
+**[READ THE RECEIPTS: Undeniable Proof of the Agenda](THE_RECEIPTS.md)**
+
+---
 *Pass this on. The conversation starts at the dinner table.*
