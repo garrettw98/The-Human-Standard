@@ -1,4 +1,4 @@
-# THE AUTOMATION DIVIDEND
+# THE CITIZEN'S ROYALTY
 ## Everyone Gets a Share
 
 ---
@@ -9,13 +9,13 @@ AI and robots will do most jobs better and cheaper than humans. This isn't decad
 
 ### The Solution
 
-**The Automation Dividend** ensures everyone benefits from technological progress. We tax machine productivity, invest the revenue in a national wealth fund, and pay dividends to every citizen.
+**The Citizen's Royalty** ensures everyone benefits from technological progress. We tax machine productivity, guarantee every citizen a $24,000/year income floor via Negative Income Tax, and invest surplus in the Sovereign Humanity Fund for long-term sustainability.
 
 ### How It Works
 
-- **Automation Tax**: When machines replace human work, companies contribute to the national wealth fund
-- **Sovereign Wealth Fund**: Revenue is invested (like Alaska's Permanent Fund or Norway's oil fund)
-- **Citizen Dividend**: Every adult receives regular payments from the fund's returns
+- **Automation Tax**: When machines replace human work, companies contribute to the Citizen's Royalty fund
+- **Negative Income Tax**: Everyone is guaranteed a $24,000/year income floor—those earning less receive the difference
+- **Sovereign Humanity Fund**: Surplus revenue is invested (like Alaska's Permanent Fund) for long-term sustainability
 
 ### Why This Is Different
 
@@ -27,9 +27,9 @@ AI and robots will do most jobs better and cheaper than humans. This isn't decad
 
 | Phase | Timeline | Monthly Dividend |
 |-------|----------|------------------|
-| Foundation | Years 1-5 | $200-300 |
-| Growth | Years 5-10 | $400-600 |
-| Maturity | Years 10-20 | $800-1,200+ |
+| Pilot | Years 1-3 | $1,250 ($15K floor) |
+| Expansion | Years 3-7 | $1,500 ($18K floor) |
+| Maturity | Years 7-15 | $2,000 ($24K floor) |
 
 ### The Core Principle
 
@@ -41,4 +41,4 @@ AI and robots will do most jobs better and cheaper than humans. This isn't decad
 
 **Get Involved**: [link]
 
-**The Automation Dividend** — The machines work. You get paid.
+**The Citizen's Royalty** — The machines work. You get paid.

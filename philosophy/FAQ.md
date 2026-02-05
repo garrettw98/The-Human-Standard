@@ -103,9 +103,9 @@ Let us examine the numbers:
 2. **Existing programs that could consolidate**: Social Security (1.2T), Medicare/Medicaid (1.5T), food stamps, housing assistance, unemployment insurance, disability, etc. Not full replacement, but significant offset.
 
 3. **New revenue sources**:
-   - Automation Productivity Tax: 200-500B (scales with automation)
-   - Data Dividend Tax: 100-200B
-   - Carbon tax: 100-200B
+   - Automation Productivity Tax: 200-600B (scales with automation)
+   - Data Dividend Tax: 50-200B
+   - Carbon tax: 200-400B
    - Reduced tax expenditures: 200-400B
    - Financial transaction tax: 50-100B
 

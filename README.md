@@ -34,11 +34,11 @@
 
 ### II. The Book
 *The comprehensive narrative.*
-- `book/`: A 26-chapter exploration of the automation age.
+- `book/`: A 27-chapter exploration of the automation age.
 
 ### III. The Framework
 *The operating system for the future.*
-- `philosophy/`: Essays on Meaning, History, and Ethics.
+- `philosophy/`: Essays on Meaning, History, Ethics, Consciousness, AI Alignment, Global Justice, Enhancement Ethics, and Digital Identity.
 - `policy/`: The 10 pillars of governance and economic models.
 - `legislation/`: Draft bills ready for introduction.
 - `technology/`: Technical specifications for AI and Blockchain systems.
@@ -67,6 +67,11 @@
 | Understand the ethics | MANIFESTO.md |
 | Read the narrative | book/00_FRAMEWORK.md |
 | Explore the laws | CONSTITUTION.md |
+| Understand consciousness & AI minds | philosophy/CONSCIOUSNESS_AND_MIND.md |
+| Grapple with AI existential risk | philosophy/AI_ALIGNMENT_AND_EXISTENTIAL_RISK.md |
+| Consider global justice | philosophy/GLOBAL_JUSTICE.md |
+| Think about human enhancement | philosophy/ETHICS_OF_ENHANCEMENT.md |
+| Examine digital identity | philosophy/DIGITAL_IDENTITY_AND_SELFHOOD.md |
 | See the data | research/RESEARCH_NOTES.md |
 | Apply the ideas | GUIDANCE.md |
 

@@ -39,10 +39,15 @@ What changes is *why* people work and *what jobs* they accept:
 
 The $24,000/year amount is calibrated specifically to provide security without eliminating work incentives. It covers basic needs but doesn't fund a comfortable middle-class lifestyle. Most people will continue working—they'll just have more power to choose good jobs over bad ones.
 
+**A Note on Mixed Evidence:**
+The 2024 OpenResearch study (the largest US basic income experiment, funded by Sam Altman) found a 3.9 percentage point decrease in labor force participation among recipients, along with a 26% increase in hospitalizations (possibly due to increased healthcare access). We acknowledge this honestly. However, the study also showed recipients used time for caregiving, education, and entrepreneurship. The weight of evidence across dozens of studies—including those showing positive or neutral employment effects—still supports the framework, but intellectual honesty requires noting that results are not uniformly positive. (See `research/RESEARCH_NOTES.md` for full analysis.)
+
 **Evidence to Cite:**
 - Marinescu, 2017: Meta-analysis of cash transfer programs
 - Jones & Marinescu, 2018: Alaska Permanent Fund study
 - West et al., 2021: Stockton SEED evaluation
+- OpenResearch, 2024: Largest US basic income study (mixed results—acknowledge honestly)
+- Kangas et al., 2020: Finland basic income experiment
 
 ---
 
@@ -112,7 +117,7 @@ The $24,000/year figure is based on several considerations:
 
 3. **Behavioral Sweet Spot**: High enough to provide security; low enough to maintain work incentives. Research suggests this range optimizes for both.
 
-4. **Fiscal Sustainability**: At full implementation with ~260 million adults, this represents approximately $6.24 trillion annually. With automation tax revenue projecting $500B+ by 2035 and other funding sources, this is achievable as automation proceeds.
+4. **Fiscal Sustainability**: At full implementation with ~260 million adults, this represents approximately $6.24 trillion annually. With automation tax revenue projecting $200-600B by 2035 (scaling with automation pace) and other major funding sources (VAT, land value tax, carbon fee), this is achievable as automation proceeds.
 
 5. **Phase-In Approach**: The program starts at $500/month and scales up over 10 years as funding sources mature:
    - Year 1: $500/month
@@ -549,12 +554,12 @@ The math works because automation creates real wealth:
 **Revenue Sources (Projected 2035):**
 | Source | Annual Revenue |
 |--------|----------------|
-| Automation Productivity Tax | $400-600B |
-| Data Dividend Tax | $80-100B |
-| Carbon Fee Contribution | $100-150B |
+| Automation Productivity Tax (full suite) | $200-600B |
+| Data Dividend Tax | $50-200B |
+| Carbon Fee Contribution | $200-400B |
 | Reduced Program Costs | $300-400B |
 | Economic Growth Effects | $200-400B |
-| **Total** | **$1.1-1.7T** |
+| **Total** | **$1.0-2.0T** |
 
 **Phased Cost:**
 | Year | Monthly Citizen's Royalty | Annual Cost |
@@ -897,7 +902,7 @@ The Human Standard has a plan that's funded by taxing the very automation that c
 ### Q: "Silicon Valley will never go along with this."
 
 **Response:**
-"Some of the loudest voices for Citizen's Royalty come from Silicon Valley. Elon Musk, Sam Altman, and many others have said Citizen's Royalty is inevitable because of automation. They know what's coming. The question is whether we prepare or just let them accumulate everything."
+"Some of the loudest voices saying Citizen's Royalty is inevitable come from Silicon Valley—Sam Altman funded the largest basic income study. Even Elon Musk has said it will be necessary. But here's the critical distinction: Musk envisions a future where humans are 'house cats' to AI—comfortable pets, not agents. The Human Standard says: yes, automation requires income support, but we reject the premise that humans become obsolete. We agree on the policy. We disagree profoundly on the *why*. That's the whole point."
 
 ### Q: "Why should I pay taxes so someone else can sit home?"
 

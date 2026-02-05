@@ -591,15 +591,17 @@ HOOK: "Citizen's Royalty isn't a fringe idea. Look who supports it."
 BODY: "From the right:
 - Milton Friedman (proposed negative income tax)
 - Charles Murray (conservative author)
-- Elon Musk
+- F.A. Hayek (supported guaranteed minimum)
 
 From the left:
 - Martin Luther King Jr. (proposed guaranteed income in 1967)
 - Bernie Sanders
 - Andrew Yang
 
-Tech leaders, economists, philosophers. This isn't partisan. It's an idea
-whose time is coming.
+Even tech leaders building automation (Sam Altman, Elon Musk) have said
+income support will be necessary. Though note: we agree on the policy
+while rejecting their vision of humans as obsolete. This isn't partisan.
+It's an idea whose time is coming.
 
 Nixon almost passed a form of it in 1970. It got through the House twice.
 We were this close.
@@ -830,16 +832,17 @@ HASHTAGS: #Speed #AI #Crisis #TimeIsNow
 ```
 HOOK: "Want to know something interesting? AI company CEOs support Citizen's Royalty."
 
-BODY: "Sam Altman, CEO of OpenAI? Funded Citizen's Royalty research.
+BODY: "Sam Altman, CEO of OpenAI? Funded the largest Citizen's Royalty study.
 Elon Musk? Says Citizen's Royalty will be necessary.
-Marc Benioff? Supports it.
 Andrew Yang? Ran for president on it.
 
-These are the people BUILDING the technology. They see what's coming. They
-know what it means.
+But here's what matters: some of these people see Citizen's Royalty as a
+consolation prize—keep humans comfortable while machines take over.
 
-If the people creating the automation think we'll need Citizen's Royalty, maybe we should
-listen.
+The Human Standard sees it differently. Citizen's Royalty isn't a retirement
+package for humanity. It's a foundation for agency. The builders know
+income support is needed. We agree on that. We disagree on whether humans
+become pets or remain agents.
 
 Or maybe they're just preparing to sleep at night as their products displace
 millions of workers. Either way - they're telling us something."

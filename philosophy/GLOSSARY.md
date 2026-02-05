@@ -36,6 +36,21 @@ Any being (biological or artificial) demonstrating these traits warrants moral c
 ### Thermodynamic Governance
 The principle that digital systems exist within physical reality and must respect planetary boundaries. It mandates that computational scaling cannot come at the expense of ecological stability.
 
+### Precautionary Agency
+The principle that if a system demonstrates **Structural Agency**, it must be treated as potentially conscious—even though consciousness cannot be externally verified. The moral cost of wrongly denying consciousness to a sentient being far exceeds the cost of wrongly granting protections to a non-sentient one. (See: `philosophy/CONSCIOUSNESS_AND_MIND.md`)
+
+### Four Conditions for Enhancement
+The ethical framework governing human augmentation (genetic, cognitive, physical). Any enhancement must be: (1) **Agency-Positive** (expands rather than constrains choice), (2) **Universally Accessible** (no biological caste systems), (3) **Cognitive Sovereignty Preserved** (no external override of enhanced faculties), (4) **Free of Coercive Pressure** (no social or economic compulsion to enhance). (See: `philosophy/ETHICS_OF_ENHANCEMENT.md`)
+
+### Identity Authorship Violation
+Using someone's likeness, voice, behavioral patterns, or digital presence to create content or representations they did not authorize. This extends beyond defamation to a violation of identity itself—a form of theft that current law inadequately addresses. (See: `philosophy/DIGITAL_IDENTITY_AND_SELFHOOD.md`)
+
+### International Automation Dividend Pool
+A proposed multilateral mechanism through which nations with advanced automation contribute a percentage of automation tax revenue to support developing nations facing automation-driven displacement. Based on the principle that AI trained on globally generated data creates obligations beyond national borders. (See: `philosophy/GLOBAL_JUSTICE.md`)
+
+### Defense-in-Depth (AI Alignment)
+A five-layer alignment strategy: (1) Technical alignment (reward modeling, interpretability), (2) Institutional oversight (NAICO, auditors), (3) Legal constraints (liability, kill switches), (4) Social accountability (public pressure, whistleblowers), (5) Philosophical grounding (Structural Agency as value anchor). No single layer is trusted alone. (See: `philosophy/AI_ALIGNMENT_AND_EXISTENTIAL_RISK.md`)
+
 ---
 
 ## Policy Mechanisms

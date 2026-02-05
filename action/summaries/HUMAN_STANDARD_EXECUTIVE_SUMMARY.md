@@ -1,4 +1,4 @@
-# THE AUTOMATION DIVIDEND
+# THE HUMAN STANDARD
 ## Executive Summary: A Framework for Shared Prosperity in the Age of AI
 ### By Zeno
 
@@ -26,50 +26,47 @@ The difference between these scenarios is not technological—it's political. It
 
 ---
 
-## Our Proposal: The Automation Dividend
+## Our Proposal: The Citizen's Royalty
 
-We propose a comprehensive framework to ensure Scenario B becomes reality. The core mechanism is simple:
+We propose a comprehensive framework to ensure Scenario B becomes reality. The core mechanism combines immediate support with long-term wealth building:
 
 1. **Tax automation productivity** (not technology itself, but the economic value it generates)
-2. **Invest revenue in a sovereign wealth fund** (building permanent national wealth)
-3. **Distribute returns as citizen dividends** (everyone gets a share)
+2. **Provide a guaranteed income floor via Negative Income Tax** (the Citizen's Royalty—$24,000/year at full implementation)
+3. **Invest surplus in a Sovereign Humanity Fund** (building permanent national wealth for long-term sustainability)
 
-This is not welfare. It is recognition that technological progress builds on collective infrastructure—education, legal systems, public research, the data we all generate—and the returns should be partially collective.
+This is not welfare. It is recognition that technological progress builds on collective infrastructure—education, legal systems, public research, the data we all generate—and the returns should be partially collective. The Negative Income Tax structure means those earning nothing receive the full amount, with benefits tapering as private income rises—providing a higher floor at lower cost than a flat universal payment.
 
 ---
 
 ## The Funding Architecture
 
-### Revenue Sources (No Federal VAT Required)
+### Revenue Sources
 
 | Source | Mechanism | Annual Revenue |
 |--------|-----------|----------------|
-| Automation Productivity Tax | Tax on productivity gains above industry baseline | $75-200B |
-| Land Value Tax | 2% annual tax on land value | $500-800B |
-| Financial Transaction Tax | 0.1% on securities trades | $150B |
-| Carbon Tax | $50/ton, rising over time | $150B |
-| Data Dividend Tax | Tax on commercial use of citizen data | $50-100B |
-| Inheritance Reform | Close step-up basis loophole | $75B |
-| Corporate Loophole Closure | Eliminate tax expenditures | $300B |
-| **Total Potential** | | **$1.3-1.8T** |
+| Automation Productivity Tax | 15% on productivity gains above industry baseline, phased in over 7 years | $200-600B |
+| Land Value Tax | 2% annual tax on land value | $500B-1T |
+| Carbon Fee and Dividend | $50/ton rising to $150+/ton | $200-400B |
+| Data Dividend Tax | Tax on commercial use of citizen data | $50-200B |
+| Existing Program Consolidation | Streamlining overlapping welfare programs | $200-400B |
+| Payroll Tax Offset | Automation tax replaces payroll taxes as automation proceeds | Revenue-neutral shift |
+| **Total Potential Revenue** | | **$1.2-2.6T** |
 
-### The Sovereign Wealth Fund Model
+### The Dual Model: Immediate Floor + Long-Term Fund
 
-Rather than spending revenue directly, we invest it:
+**Immediate**: The Citizen's Royalty (Negative Income Tax) provides a guaranteed income floor from Year 1, funded by current-year revenue. This ensures displaced workers receive support now, not in 20 years.
 
-- **Year 1**: Seed fund with $200B (automation taxes + existing assets)
-- **Annual additions**: $150-300B from ongoing revenue
-- **Investment returns**: Target 7% average annual return
-- **Distributions**: Dividends from returns, not principal
+**Long-Term**: The Sovereign Humanity Fund invests surplus revenue to build permanent national wealth, ensuring the system becomes self-sustaining as automation deepens.
 
-**Projected Growth**:
-| Year | Fund Size | Annual Dividend (per adult) |
-|------|-----------|----------------------------|
-| 5 | $800B | $200/month |
-| 10 | $2T | $450/month |
-| 20 | $5T+ | $1,000+/month |
+**Implementation Timeline**:
+| Phase | Timeline | Citizen's Royalty Floor | Fund Size |
+|-------|----------|------------------------|-----------|
+| Pilot | Years 1-3 | $15,000/year (targeted regions) | Seed: $200B |
+| Expansion | Years 3-7 | $18,000/year (nationwide) | $500B-1T |
+| Maturity | Years 7-15 | $24,000/year (full implementation) | $2T+ |
+| Steady State | Years 15+ | $24,000-30,000/year (indexed) | $5T+ |
 
-This model is proven. Alaska's Permanent Fund has operated for 40+ years. Norway's sovereign wealth fund exceeds $1.4 trillion.
+The Alaska Permanent Fund (40+ years) and Norway's sovereign wealth fund ($1.4T+) prove the long-term model works. The NIT structure ensures immediate support while the fund builds.
 
 ---
 
@@ -158,7 +155,7 @@ Work provides more than income—it provides structure, connection, and purpose.
 
 ## Political Positioning
 
-The Automation Dividend is not left or right. It draws support from:
+The Human Standard is not left or right. It draws support from:
 
 | Constituency | What We Offer |
 |--------------|---------------|
@@ -218,7 +215,7 @@ The automation transformation is coming. We don't know exactly when or how fast,
 
 We can wait until crisis hits and improvise badly. Or we can build systems now that ensure everyone benefits from technological progress.
 
-The Automation Dividend is our proposal. It's not perfect—we hold it humbly and will improve it based on evidence and critique. But it represents our best current thinking on how to navigate the most significant economic transformation in human history.
+The Human Standard is our proposal. It's not perfect—we hold it humbly and will improve it based on evidence and critique. But it represents our best current thinking on how to navigate the most significant economic transformation in human history.
 
 The machines will work. The question is: who gets paid?
 
@@ -233,8 +230,8 @@ The machines will work. The question is: who gets paid?
 
 ## Quick Reference
 
-**One sentence**: Tax automation, invest the revenue, pay everyone a dividend.
+**One sentence**: Tax automation, guarantee a floor, invest for the future—the Citizen's Royalty is your share of what the machines produce.
 
-**One paragraph**: AI and robots will do most jobs better and cheaper than humans. Without intervention, this concentrates wealth in the hands of machine owners. The Automation Dividend taxes machine productivity, invests revenue in a sovereign wealth fund, and pays every citizen a share of the returns. It's not welfare—it's your stake in the automated economy.
+**One paragraph**: AI and robots will do most jobs better and cheaper than humans. Without intervention, this concentrates wealth in the hands of machine owners. The Human Standard taxes machine productivity, guarantees every citizen a $24,000/year income floor via Negative Income Tax (the Citizen's Royalty), and invests surplus in the Sovereign Humanity Fund. It's not welfare—it's your stake in the automated economy.
 
 **The core principle**: You built this economy. You trained the AI on your data. You deserve a share of what the machines produce.

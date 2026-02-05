@@ -521,13 +521,16 @@ HASHTAGS: #WeekTen #AIGovernance #Recap #HumanStandard
 ```
 HOOK: "Tech leaders support Citizen's Royalty. Ever wonder why?"
 
-BODY: "Sam Altman (OpenAI): Funded Citizen's Royalty research
+BODY: "Sam Altman (OpenAI): Funded the largest Citizen's Royalty study
 Elon Musk (Tesla): Says Citizen's Royalty will be necessary
-Marc Andreessen: Has discussed it positively
 Andrew Yang: Ran for president on it
 
 These are the people BUILDING the automation. They see the future they're
 creating. They know it requires new policy.
+
+But be careful: some see Citizen's Royalty as a pacifier, not a foundation.
+Musk has said humans will be 'house cats' to AI. We agree on the income.
+We reject the worldview. Citizen's Royalty is for agency, not docility.
 
 Maybe they genuinely care. Maybe they want to sleep at night. Maybe they
 want to prevent backlash against their industry.

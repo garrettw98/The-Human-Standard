@@ -315,4 +315,4 @@ Technology serves humanity. Algorithmic government makes that operational.
 
 ---
 
-*Next: Chapter 22 - Global Convergence*
+*Next: Chapter 22 - The Geopolitics of Intelligence*

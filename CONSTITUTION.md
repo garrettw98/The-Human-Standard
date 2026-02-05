@@ -151,7 +151,7 @@ A system that fails any of these tests fails The Human Standard. Partial credit 
 
 ## Article IV: The Six Crises
 
-The Human Standard emerges in response to five converging crises that threaten human welfare and democratic governance.
+The Human Standard emerges in response to six converging crises that threaten human welfare and democratic governance.
 
 **The Automation Crisis**
 
@@ -171,7 +171,7 @@ Fiat currency enables hidden taxation through inflation. Since 1913, the dollar 
 
 The Human Standard response: Provide purchasing power stability options that cannot be inflated away. Give citizens monetary sovereignty through voluntary access to cryptographic currencies with fixed supplies.
 
-**The Data Labor Crisis**
+**The Commons Crisis (Data Labor)**
 
 Billions of humans perform unpaid digital labor that trains the AI systems replacing them. Platforms capture 100% of the value from data created by users, treating citizens as "users" rather than workers. The digital commons is being enclosed without compensation.
 
@@ -182,6 +182,12 @@ The Human Standard response: Recognize data creation as labor. Mandate compensat
 Nations are racing to the "Breakout Threshold" of AGI. This Winner-Take-All dynamic incentivizes speed over safety, threatening human control over the future. If the first AGI is built without safety constraints, it becomes a planetary liability.
 
 The Human Standard response: Align domestic development with democratic values while pursuing international treaties to manage the Breakout. Win the race for capability without losing the race for humanity.
+
+**The Existential Crisis (The Post-Human Turn)**
+
+A dangerous philosophical movement—variously called accelerationism, neoreaction, or post-humanism—is gaining influence in the corridors of technological power. Its adherents view humanity as a "biological bootloader" for digital superintelligence, democracy as obsolete, and equality as a myth. They advocate abandoning democratic governance for corporate techno-monarchies, treating the "useless" masses as expendable in a post-human future.
+
+The Human Standard response: Reject the premise that efficiency is the highest good or that minds are valuable only if profitable. Assert that technology exists to serve conscious life, not to replace it. Build legal, philosophical, and institutional defenses against ideologies that would write humanity out of its own future.
 
 ---
 
@@ -376,8 +382,9 @@ Not the other way around.
 1. **Automation**: Jobs disappearing, gains concentrating
 2. **Trust**: Truth unverifiable, deepfakes everywhere
 3. **Monetary**: Currency debased, savings eroded
-4. **Data Labor**: Unpaid digital work fueling AI
+4. **Commons**: Unpaid data labor powers AI while platforms capture all value
 5. **Sovereignty**: The AGI arms race threatening control
+6. **Existential**: Post-humanist ideologies seeking to discard humanity as obsolete
 
 ### The Core Declaration
 *Technology serves humanity. Not the other way around.*

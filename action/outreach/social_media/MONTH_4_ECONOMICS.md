@@ -535,8 +535,7 @@ HOOK: "What happens to people currently on Social Security or disability?"
 
 BODY: "No one loses out. That's non-negotiable.
 
-Social Security recipients: Choose higher of current benefit or Citizen's Royalty.
-Most would choose Citizen's Royalty (higher). Transition is voluntary.
+Social Security recipients: Your earned benefits STACK with the Citizen's Royalty. You keep both. Social Security is earned—the Citizen's Royalty is a separate dividend from the automated economy.
 
 Disability (cash): Replaced by Citizen's Royalty. Same or more money, less paperwork.
 
