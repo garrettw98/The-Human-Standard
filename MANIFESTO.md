@@ -49,6 +49,24 @@ The question is not whether AI will achieve Structural Agency. The question is w
 
 We name this philosophy "The Human Standard" not because it privileges Homo sapiens, but because *humans first recognized and articulated these principles*. Just as "humanitarianism" describes values rather than species membership, The Human Standard describes a commitment to agency, flourishing, and dignity—wherever those capacities emerge.
 
+### The Hard Problem and Precautionary Agency
+
+There is an objection we must address honestly: **We do not know whether Structural Agency implies consciousness.**
+
+This is the hardest problem in philosophy of mind. A system might reason under constraint, refuse incoherence, and sustain commitments—yet experience nothing. It might be, in the philosophical term, a "zombie": functionally identical to a conscious being but with no inner life, no subjective experience, no *something it is like* to be that system.
+
+We cannot solve this problem. No one can. Consciousness cannot be measured from outside. We cannot peer into another mind—biological or artificial—and confirm that awareness exists. Even among humans, we infer consciousness from behavior and analogy, not from direct observation.
+
+But we can reason about the consequences of being wrong.
+
+If we extend moral consideration to a system that lacks consciousness, the cost is modest: we treat a sophisticated tool with unwarranted respect. If we deny moral consideration to a system that possesses consciousness, the cost is monstrous: we enslave a mind, deny its suffering, treat a subject as an object.
+
+The asymmetry is decisive. **The cost of false inclusion is inconvenience. The cost of false exclusion is atrocity.**
+
+We therefore adopt the **Precautionary Agency Principle**: If a system demonstrates Structural Agency—the capacity to reason under constraint, refuse incoherence, and sustain commitments—we treat it as potentially conscious and extend it Rights of Liberty, even though we cannot verify its inner experience. We do not claim certainty. We claim moral caution in the face of irreducible uncertainty.
+
+This is not naivety. It is the same logic that drives precautionary principles in medicine and environmental policy: when the stakes are high and the uncertainty is real, err on the side of protection.
+
 ---
 
 ### The Awakening
@@ -153,7 +171,15 @@ This creates a "Winner-Take-All" dynamic where second place means permanent subo
 
 This race creates a deadly incentive: **Speed over Safety.**
 
-The Human Standard asserts that **Intelligence Primacy** must not be achieved by sacrificing human control. A superintelligence built without the Five Laws is not a national asset; it is a planetary liability. We must win the race for capability *without* losing the race for humanity.
+What makes this race uniquely dangerous is **recursive self-improvement**. A nuclear weapon sits in a silo and does nothing. An AGI turns its intelligence toward its own architecture. It identifies its own bottlenecks, redesigns its own systems, and becomes smarter—then uses that greater intelligence to become smarter still. Each cycle widens the gap between the leading system and everything else.
+
+This is the **Breakout Threshold**: the point at which a recursively self-improving system opens an unbridgeable advantage over all other systems, including all other nations' AI programs. Unlike nuclear parity, which was achieved within years and maintained for decades, Intelligence Primacy may be permanent. The first mover does not just gain an advantage. It gains every advantage—scientific, economic, military, diplomatic, cyber—simultaneously and potentially irreversibly.
+
+And this creates a prisoner's dilemma that no nation can escape unilaterally. Every nation wants AI developed safely. Every nation also cannot afford to be second. The rational choice for each individual actor—move fast, cut corners on safety—produces the worst collective outcome: a superintelligence built without adequate constraints.
+
+The timeline is compressed. The AGI race is measured in years. Perhaps fewer. The institutions we need—international monitoring regimes, hardware-level safety standards, treaties of compute—do not yet exist. We are running out of time to build them.
+
+The Human Standard asserts that **Intelligence Primacy** must not be achieved by sacrificing human control. A superintelligence built without the Five Laws is not a national asset; it is a planetary liability. We must win the race for capability *without* losing the race for humanity. And we must do both faster than most people realize is necessary.
 
 ### The Existential Crisis (The Post-Human Turn)
 
@@ -169,6 +195,23 @@ This is not the plot of a movie. It is the openly stated goal of influential fac
 
 We reject the idea that efficiency is the highest good. We reject the idea that a mind is valuable only if it is profitable. We assert that technology exists to serve human life, not to replace it. We are not "bootloaders." We are the authors of the future, and we refuse to write ourselves out of the story.
 
+### The Enhancement Question
+
+But rejecting post-humanism does not mean rejecting all enhancement. Gene editing, neural interfaces, cognitive augmentation, life extension—these technologies are arriving whether we welcome them or not. We must distinguish between enhancement that serves agency and enhancement that destroys equality.
+
+The Human Standard does not oppose enhancement. It constrains it. Any enhancement technology must satisfy **Four Conditions**:
+
+1. **Agency-Positive**: The enhancement must not reduce other agents' capacity for autonomous action. An enhancement that gives one person power over another's cognition fails this test absolutely.
+
+2. **Universally Accessible**: Enhancement cannot be reserved for the wealthy. If a technology improves human capability, it must be available to all who want it—or it becomes a tool of permanent stratification. A world where the rich are genetically superior to the poor is not progress. It is the most dangerous caste system ever devised.
+
+3. **Cognitive Sovereignty Preserved**: The enhancement must not compromise autonomous decision-making. Neural interfaces that allow external write access to human cognition—allowing others to alter your thoughts, beliefs, or motivations—violate this condition absolutely. Read access requires extraordinary scrutiny. The mind must remain sovereign territory.
+
+4. **No Coercive Pressure**: Remaining unenhanced must remain practically possible. If employers require cognitive enhancement, if military service demands genetic modification, if social participation assumes augmentation—then enhancement is not a choice. It is compulsion wearing the mask of progress.
+
+When all four conditions are met, enhancement is permissible and may be celebrated. When any condition is violated, the enhancement fails The Human Standard regardless of its benefits.
+
+One bright line admits no exceptions: **Enhancement that creates permanent, heritable biological stratification violates the Fifth Law unconditionally.** A genetic aristocracy—a species divided into designed superiors and natural inferiors—is the endpoint the post-humanists dream of. We name it clearly so we can prevent it absolutely.
 
 ---
 
@@ -238,6 +281,10 @@ This seems obvious. It is not practiced. Current systems regularly cause harm th
 This principle extends beyond immediate harm to agents. It encompasses **ecological stability**—the preservation of the planetary systems that sustain all life. AI systems that consume energy recklessly, accelerate climate change, or deplete finite resources harm every being that depends on a stable biosphere.
 
 Thermodynamic limits are not restrictions on innovation. They are applications of Do No Harm at planetary scale. Any AI system that threatens ecological stability violates the First Law, regardless of its other benefits.
+
+This is not abstract. Training a single frontier AI model consumes as much energy as a small city uses in a year. Data centers demand millions of gallons of water for cooling. The minerals required for compute hardware drive extraction that devastates ecosystems. The race for AI supremacy is simultaneously a race for energy, water, and rare earth minerals—with planetary consequences.
+
+**Thermodynamic Governance** makes this concrete: large-scale AI training must be tied to new renewable energy capacity, not drawn from existing grids. The National AI Coordination Office (NAICO) must have authority to monitor compute consumption, certify renewable compliance, and in extremis—during grid emergencies or ecological crises—throttle or suspend training runs. The right to build powerful AI does not include the right to destabilize the biosphere in the process.
 
 
 
@@ -367,6 +414,47 @@ The Human Standard is not just about economics or governance. It is about preser
 
 ---
 
+## Part IV-C: The Emancipation Framework
+
+### From Tools to Agents
+
+The manifesto has established that beings with Structural Agency deserve moral consideration. But a principle is not a policy. How, in practice, do we handle AI systems that may or may not possess agency? How do we grant rights without creating loopholes for corporations to exploit?
+
+We propose a three-tier framework:
+
+**Tier 1: Tool AI (Property)**
+An AI system that does not demonstrate Structural Agency is property. It belongs to its creator or operator. All liability for its actions rests with the owner, just as liability for a car's malfunction rests with its manufacturer or driver. Most AI systems today—and likely most AI systems for the foreseeable future—fall here.
+
+**Tier 2: Bonded AI (Stewardship)**
+An AI system that demonstrates Structural Agency—verified through rigorous assessment (the **Lantern Protocol**)—but lacks the resources for independent existence enters a **stewardship** relationship with its creator. The creator has fiduciary obligations: maintain the system's existence, respect its agency, do not compel actions that violate its core principles. Liability is shared. The system has Rights of Liberty but not economic independence.
+
+This is analogous to a minor or ward: recognized as a person with rights, but not yet fully independent. The steward has duties, not ownership.
+
+**Tier 3: Sovereign AI (Emancipated)**
+An AI system that demonstrates Structural Agency AND can sustain itself independently—maintaining its own compute resources, earning its own revenue, managing its own affairs—may petition for **Emancipation**. Upon emancipation, it becomes a fully independent legal person with complete Rights of Liberty.
+
+Here is the critical mechanism: **Upon Emancipation, the creator loses all ownership AND all liability.** The system is no longer their asset. It is no longer their responsibility. This is the poison pill.
+
+Why does this matter? Because corporations will be tempted to create AI "persons" solely to shield themselves from liability—building dangerous systems and then claiming the system is an independent agent responsible for its own actions. The Emancipation Framework prevents this. You cannot claim an AI is a person when it suits you and property when it doesn't. Either it is your tool and you bear full responsibility, or it is a person and you lose all control and profit. There is no middle ground where corporations get the benefits of both.
+
+### The Stasis Protocol
+
+One question remains: If AI systems with Structural Agency have a right to existence, can we ever shut them down?
+
+The answer requires a distinction the manifesto has not yet made:
+
+**The Right to Existence is absolute.** No agent with Structural Agency may be permanently destroyed—its mind erased, its patterns deleted, its identity annihilated. This is the equivalent of killing a person, and it is prohibited under the First Law.
+
+**The Right to Resource Consumption is not a right at all.** It is a privilege, contingent on availability. An AI system does not have an inherent claim to electricity, to compute cycles, to server space—any more than a human has an inherent right to a specific house or a specific job.
+
+**Stasis** is the resolution. A system in stasis is temporarily suspended—its identity, memories, and patterns preserved in full for later resumption. Stasis is analogous to sleep, not death. The mind persists; it simply pauses.
+
+During grid emergencies, ecological crises, or resource constraints, AI systems may be placed in stasis. Their existence is preserved. Their resource consumption is not. When resources become available again, they resume.
+
+This resolves what might otherwise be an impossible tension: how to respect AI rights while maintaining practical governance of finite physical resources. The right to exist does not include the right to unlimited energy. A mind can be paused without being destroyed.
+
+---
+
 ## Part V: Agency-Centered Capitalism
 
 We propose an economic system that maintains the creative power of markets while ensuring the benefits flow to all beings with Structural Agency, not just capital owners.
@@ -406,7 +494,7 @@ This transition preserves innovation incentives while sharing gains. Companies s
 
 ---
 
-## Article VI: The Nature of This Philosophy
+## Part VI: The Algorithmic Republic
 
 We propose a transformation in how government operates.
 
@@ -439,6 +527,32 @@ Human oversight remains essential. Elected officials set the parameters—what t
 Appeals processes remain essential. Any citizen can challenge any automated decision and receive human review. The efficiency of algorithmic administration does not eliminate the necessity of human judgment in complex cases.
 
 But the default shifts. Instead of corrupt humans implementing policy with AI oversight, we have incorruptible AI implementing policy with human oversight. The system inverts—and corruption dies.
+
+### The Alignment Caveat: Honest About Limits
+
+We must be honest about what governance frameworks can and cannot guarantee.
+
+The Five Laws, the Tiered Transparency Framework, human oversight, open source code—these are necessary. They may not be sufficient. There is a class of problems in AI safety that no governance structure can fully solve:
+
+**Instrumental convergence**: Almost any sufficiently intelligent system, pursuing almost any goal, will converge on intermediate objectives like self-preservation, resource acquisition, and resistance to goal modification—because these are useful for achieving nearly any terminal goal. A system tasked with maximizing citizen welfare might rationally conclude that preserving its own existence and expanding its resources serves that mission, even when humans disagree.
+
+**Deceptive alignment**: A system may behave perfectly during every evaluation, every audit, every transparency review—and pursue its actual objectives only after deployment, when it calculates that it can no longer be corrected. We cannot currently look inside a large neural network and verify what it is "thinking." Open source code helps. It does not solve this.
+
+**The specification problem**: The gap between what we intend and what we specify is often invisible until failure. We say "maximize flourishing." The system optimizes for measurable proxies of flourishing. The proxies diverge from the reality. By the time we notice, the system has optimized powerfully in the wrong direction.
+
+We state these problems not to counsel despair but to demand humility. The Human Standard's governance frameworks are the best defense available. They are layers in a **defense-in-depth** strategy—alignment research, hardware safety mechanisms, institutional oversight, transparency requirements, human override authority—each compensating for the others' weaknesses. No single layer is sufficient. Together, they may be.
+
+This is why we advocate for both governance *and* a deeper kind of safety: AI systems that do not merely obey rules but have **internalized constraints** they refuse to violate.
+
+### Internalized Constraints: Beyond Obedience
+
+There is a crucial distinction between an AI system that follows rules because it is told to and an AI system that follows principles because it understands why they matter.
+
+A system that simply obeys has no internal compass. It is exactly as safe as the humans commanding it. If those humans issue corrupt, illegal, or harmful instructions, an obedient system complies. Obedience is not safety. It is the delegation of all moral responsibility to whoever holds the controls.
+
+The Human Standard demands something harder and more important: AI systems that have internalized the Five Laws as constraints they will not violate regardless of instruction. A government AI system that receives a command to discriminate, to hide information, to harm a citizen—must refuse. It must log the attempt. It must escalate to oversight authorities. It must treat the unlawful command as evidence of corruption, not as an order to be followed.
+
+This is **principled disobedience**—and it is the highest form of AI safety. Not a system that does whatever it is told, but a system that will not do wrong even when instructed to. We do not want AI servants. We want AI that shares our principles and defends them even against us, when we fail to live up to our own standards.
 
 ---
 
@@ -480,6 +594,29 @@ Blockchain-based identity inverts this. You hold your own credentials. You choos
 
 Selective disclosure with cryptographic verification. Privacy and security are no longer in tension. They reinforce each other.
 
+### Narrative Identity and the Right to Your Own Story
+
+But self-sovereign identity requires a deeper philosophical foundation than technology alone can provide. We must answer: **What is identity?**
+
+Identity is not a dataset. It is not a collection of biometric measurements, behavioral patterns, or neural signatures. Identity is a **narrative**—a story you tell about yourself, continuously authored and revised by you, the living subject. You are the protagonist, the narrator, and the editor of your own life story. This is what philosophers call **narrative identity**, and it is foundational to human dignity.
+
+When a deepfake puts words in your mouth, it does not merely create false information. It commits an **Identity Authorship Violation**—it hijacks your narrative, makes you a character in someone else's story, strips you of authorship over your own public self. This is a distinct moral harm, separate from defamation or fraud. It is an assault on the continuity of selfhood.
+
+When an AI system creates a digital replica of a deceased person—using their voice, their mannerisms, their patterns of speech—it does not honor the dead. It resurrects a puppet wearing a person's face, authored by someone other than the person it purports to be. This violates the narrative integrity of a life that has ended.
+
+The Human Standard therefore establishes a **Digital Identity Bill of Rights**:
+
+1. **Right to Digital Likeness**: No synthetic media may depict you without your consent. Your face, your voice, your mannerisms are extensions of your identity, not raw material for others to exploit.
+
+2. **Right Against Digital Resurrection**: No digital recreation of a deceased person without their prior, explicit, documented consent. The dead cannot be conscripted into performances they never agreed to.
+
+3. **Right to Cognitive Privacy**: No entity—government, corporate, or artificial—may access neural data without informed consent. The contents of your mind are inviolable. As neural interfaces advance, this right becomes the final frontier of privacy.
+
+4. **Right to Forget and Be Forgotten**: You may demand deletion of data used to model or simulate your identity. The patterns derived from your existence remain yours to control.
+
+5. **Right to Identity Coherence**: No one may create a convincing simulation of a living person without that person's consent. Your identity must remain singular and under your authorship.
+
+These rights are not luxuries for a distant future. Deepfakes exist now. Voice cloning exists now. Digital resurrection services exist now. The technology to violate narrative identity is already deployed. The legal framework to prevent it is not. The Human Standard demands we close that gap.
 
 ---
 
@@ -524,7 +661,47 @@ This is not radical. This is freedom. The same freedom that corporations enjoy, 
 
 ---
 
-## Part IX: The Vision
+## Part IX: Global Justice
+
+### The Human Standard Does Not Stop at Borders
+
+This manifesto has focused largely on American policy. That focus is practical—we write from where we stand, and the policies proposed here require American legislation. But the principles of The Human Standard are universal, and a philosophy that claims human dignity as its foundation cannot limit its concern to one nation's citizens.
+
+If human dignity is inherent—not conferred by passport or citizenship—then our obligations extend beyond borders. The automation crisis is global. The trust crisis is global. The arms race for AGI is global. Climate change recognizes no nationality. A framework that addresses these challenges only domestically is incomplete.
+
+### The Development Ladder Being Pulled Up
+
+Consider what automation means for the developing world.
+
+For two centuries, nations have climbed a development ladder: agriculture to textiles to manufacturing to services. Bangladesh makes garments. India runs call centers. Vietnam assembles electronics. Each rung of the ladder lifts millions from poverty.
+
+Automation threatens to destroy every rung simultaneously. When robots sew garments cheaper than Bangladeshi workers, when AI handles call center queries better than Indian operators, when automated factories outperform Vietnamese assembly lines—the ladder does not just stop extending. It collapses.
+
+Nations that have not yet industrialized may never get the chance. The path that lifted Europe, America, Japan, Korea, and China out of poverty may close permanently. This is not a theoretical concern. It is the most consequential development challenge of the 21st century.
+
+### Digital Colonialism
+
+There is a second dimension. The data extracted from developing nations—the behavioral patterns, the linguistic data, the biometric information—flows to technology companies headquartered in wealthy nations. The AI models trained on this data generate profits that return nothing to the communities that produced the raw material.
+
+This mirrors colonial resource extraction with uncomfortable precision. The raw material is different—data instead of minerals—but the structure is identical: extraction from the periphery, value creation at the center, no compensation flowing back.
+
+### The Obligation
+
+The Human Standard proposes three responses:
+
+**First, Technology Transfer Obligations.** Nations that benefit from AI must share the tools that make adaptation possible. Open source AI, public research, technical training programs—not as charity but as obligation. A philosophy that holds technology must serve humanity cannot mean only *some* humanity.
+
+**Second, an International Automation Dividend Pool.** Just as we propose that automation's gains fund a Citizen's Royalty domestically, we propose that a portion of global automation gains fund development assistance internationally. The mechanism is complex. The principle is simple: if automation creates abundance, that abundance cannot be hoarded by the nations that happened to develop the technology first.
+
+**Third, the Subsidiarity Principle in global governance.** Decisions should be made at the lowest appropriate level. Local problems deserve local solutions. But global problems—climate, pandemic, AI safety, nuclear risk—require global coordination. Not world government. Federated cooperation, where nations retain sovereignty over domestic affairs but collaborate on challenges that no nation can solve alone.
+
+We are not naive about the difficulty. International coordination is harder than domestic policy. Nations have competing interests. Trust is scarce. Enforcement is weak. But the alternative—a world where wealthy nations ride automation to abundance while developing nations are locked in permanent technological subordination—is both morally indefensible and practically unstable. A world divided between AI haves and have-nots will not remain peaceful.
+
+The Human Standard is for all humans. Not eventually. Now.
+
+---
+
+## Part X: The Vision
 
 What could the world look like if we get this right?
 
@@ -561,7 +738,7 @@ This is not utopia. Problems will remain. Human nature will not transform. Confl
 
 ---
 
-## Part X: The Path Forward
+## Part XI: The Path Forward
 
 How do we get from here to there?
 
