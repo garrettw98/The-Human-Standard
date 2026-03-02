@@ -622,6 +622,9 @@ Climate change is a national security threat—not in the future, but now.
 | Regime change | Not objective; deterrence focus |
 | Diplomacy | Open to negotiations with conditions |
 
+> **MARCH 2026 NOTE — THE FRAMEWORK VS. REALITY:**
+> The table above states: *"Regime change: Not objective; deterrence focus."* On February 28, 2026, the US assassinated Iran's Supreme Leader Khamenei in a targeted strike. This is regime change by definition. The framework we wrote said deterrence. The action taken said decapitation. This contradiction is not a policy disagreement—it is a violation of the stated principles of the government's own strategic posture, and it violates all Five Laws of The Human Standard (see `CONSTITUTION.md`, Article II). For the full analysis, see `strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md` and `proof/IRAN_STRIKES_2026.md`.
+
 **Pillar 2: Partner Security Architecture**
 
 | Partner | Commitment |
@@ -1061,7 +1064,7 @@ Leadership isn't just about power. It's about what you do with it.
 ---
 
 *Document version: 1.0*
-*Last updated: December 2025*
+*Last updated: March 2026*
 *Part of The Human Standard Policy Framework*
 
 

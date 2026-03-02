@@ -80,5 +80,50 @@ We build a **"Humanist Front"** that unites:
 
 ---
 
-*File Location: `implementation_models/political_strategy/THE_COUNTER_COUP.md`*
+## 6. OPERATIONAL UPDATE: THE IRAN CRISIS (MARCH 2026)
+
+**The battlefield has changed.**
+
+On February 28, 2026, the executive launched military strikes against Iran—including the assassination of Supreme Leader Khamenei—without Congressional authorization. 555+ civilians dead. 153 children killed at a school. Three American servicemembers dead. No vote. No debate.
+
+**This is the Red Caesar model we warned about, operating at full power.**
+
+### 6.1 What the Strikes Mean for the Counter-Coup
+
+Before the strikes, our strategy ("Unmask and Divide") operated against abstract ideological positions. We argued that the NRx faction *wanted* a CEO-Monarch, *wanted* to bypass democracy, *wanted* to profit from conflict.
+
+**After the strikes, we don't need to argue. We can point.**
+
+- The "Feudalism Frame" (Tactic 1) now has a body count: *"They told you they wanted to build a better future. 153 children at a school is what it actually costs."*
+- The "Sovereignty Wedge" (Tactic 2) now has a constitutional crisis: *"Congress didn't vote on this war. If the President can start a war alone, what can't he do alone?"*
+- The "Tech Worker Revolt" (Tactic 3) now has a moral question: *"Your targeting algorithms picked the targets. Your autonomous systems flew the missions. Your satellites carried the commands. Is this what you signed up to build?"*
+
+### 6.2 Strategic Implications
+
+| Factor | Before Strikes | After Strikes |
+|--------|---------------|---------------|
+| Our credibility | "Interesting analysis" | **"They told you so"** — predictions confirmed in real time |
+| Their vulnerability | Abstract ("weird" ideas) | **Concrete** (dead civilians, unauthorized war, visible profit motive) |
+| Coalition potential | Labor left + liberty right + normies (theoretical) | **Add: anti-war movement, constitutional conservatives, military families, Gulf allies** |
+| Urgency | Medium (NRx is a long game) | **Critical** (if this precedent stands, it will be used again) |
+
+### 6.3 Immediate Counter-Strategy
+
+1. **Force the Congressional question.** Every representative must be asked on the record: *"Did you authorize this war? If not, what are you doing about it?"* The Red Caesar model only works if Congress acquiesces. If Congress fights, the precedent is broken.
+
+2. **Follow the money—publicly.** Palantir stock price. Anduril contract awards. SpaceX military revenue. Every data point that traces the circle from political donation to political power to war to profit must be compiled and distributed. See `action/messaging/THE_RECEIPTS.md` (Part IV, Exhibits K-P).
+
+3. **Engage damaged allies.** Gulf partners who were used as staging areas without consultation are potential allies for our framework. European partners disturbed by US unilateralism may be receptive. The message: *"The Human Standard values you as partners, not props."*
+
+4. **Activate the "Humanist Front."** The winning coalition (Section 5) just got larger. Military families whose children are dying in an unauthorized war. Fiscal conservatives who see the cost. Religious communities appalled by dead children. Anti-war progressives. Constitutional originalists. They all share one concern: **nobody voted for this.**
+
+**Cross-references:**
+- Intelligence assessment: `strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md`
+- Prediction tracker: `proof/OVERVIEW.md`
+- Case study: `proof/IRAN_STRIKES_2026.md`
+- Public messaging: `action/messaging/THE_WORLD_RIGHT_NOW.md`
+
+---
+
+*File Location: `strategy/THE_COUNTER_COUP.md`*
 *Status: Strategy Internal / Restricted*

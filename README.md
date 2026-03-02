@@ -58,6 +58,11 @@
 *The evidence base.*
 - `research/`: Data, citations, and confidence intervals.
 
+### VII. The Proof
+*Predictions vs. reality.*
+- `proof/OVERVIEW.md`: Master prediction tracker — every claim we made, scored against what actually happened.
+- `proof/IRAN_STRIKES_2026.md`: Case Study #1 — The 2026 Iran Strikes.
+
 ---
 
 ## Quick Start
@@ -74,6 +79,7 @@
 | Examine digital identity | philosophy/DIGITAL_IDENTITY_AND_SELFHOOD.md |
 | See the data | research/RESEARCH_NOTES.md |
 | Apply the ideas | GUIDANCE.md |
+| See our predictions validated | proof/OVERVIEW.md |
 
 ---
 
@@ -191,4 +197,4 @@ Use it. Adapt it. Improve it. Build the future.
 
 *Freedom from drudgery. Freedom to care. Freedom to create. Freedom to connect.*
 
-Last updated: January 2026
+Last updated: March 2026

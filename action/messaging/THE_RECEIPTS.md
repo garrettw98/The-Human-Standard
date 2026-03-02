@@ -97,13 +97,55 @@ When you share *WARNING_TO_EVERYONE.md* and someone says "That's a conspiracy th
 
 ---
 
+## PART IV: PROOF IN REAL TIME (2026)
+**The Claim:** Everything we documented above isn't theoretical anymore. It is happening *right now.*
+
+### Exhibit K: The 2026 Iran Strikes (Red Caesar War by Decree)
+
+*   **The Event:** On February 28, 2026, the President launched massive military strikes against Iran—including the assassination of Supreme Leader Khamenei—without Congressional authorization.
+*   **The Proof:** There was no vote. No debate. No declaration of war. The Constitution says Congress declares war. Congress was not consulted. This is exactly what we warned about when we said they wanted a "CEO-King" who rules by decree.
+*   **The Connection:** Curtis Yarvin's "Red Caesar" model calls for an executive who bypasses democratic deliberation to impose order. Starting a war without Congress is the most consequential possible expression of that model.
+
+### Exhibit L: The Civilian Cost
+
+*   **The Event:** In the first 48 hours of strikes, at least 555 civilians were killed. A strike on a girls' school in Isfahan killed at least 153 people—predominantly children.
+*   **The Proof:** International media reporting, humanitarian organization estimates, United Nations preliminary statements.
+*   **The Meaning:** This is what "acceleration" costs in human terms. The philosophy of "creative destruction" is not abstract when it hits a school.
+
+### Exhibit M: The Faustian Bargain Pays Out
+
+*   **The Event:** The strikes rely on technology from Palantir (intelligence/targeting), Anduril (autonomous systems), and SpaceX (communications)—companies founded or funded by the same people who financed the political movement that captured the White House.
+*   **The Proof:** Peter Thiel founded Palantir and funded J.D. Vance and the "New Right" infrastructure. The strikes run on Palantir's Gotham platform. The money flows in a circle: political donations → political power → wars → defense contracts → profits → political donations.
+*   **The Meaning:** The Faustian Bargain we described in Exhibit A is no longer a warning. It is a business model, operating in real time.
+
+### Exhibit N: The Alliance Collapse
+
+*   **The Event:** US strikes were launched from bases in Gulf partner nations—Qatar, UAE, and regional facilities—without meaningful allied consultation. These partners are now targets for Iranian retaliation they did not agree to.
+*   **The Proof:** Gulf state diplomatic statements expressing alarm. Pattern of unilateral action without alliance consultation.
+*   **The Meaning:** The Human Standard's defense framework says *"Alliances multiply strength."* The strikes treat allies as staging areas, not partners. You cannot maintain a coalition by turning your allies into targets.
+
+### Exhibit O: The Energy Weapon
+
+*   **The Event:** Oil prices surged immediately after the strikes. Iran controls or threatens the Strait of Hormuz—through which ~20% of global oil flows daily. Closure or disruption would produce a global energy crisis.
+*   **The Proof:** Commodity market data; shipping industry warnings; historical Hormuz contingency analysis.
+*   **The Meaning:** Energy instability is not a side effect—it is a lever. When oil prices spike, ordinary people pay more for gas and groceries while energy traders and defense contractors profit.
+
+### Exhibit P: American Blood
+
+*   **The Event:** Three US servicemembers were killed in retaliatory strikes in the first days of the conflict.
+*   **The Proof:** Department of Defense confirmation.
+*   **The Meaning:** American men and women are dying in a war that Congress never authorized, that the stated policy said wasn't the objective (regime change), and that profits the same defense companies whose founders funded the politicians who ordered it. Follow the logic. Follow the money. Follow the blood.
+
+---
+
 ## SUMMARY OF THE TRAP
 
 1.  **The Red Trap:** They tell you to hate the government so you will let them build a King. (Thiel/Yarvin).
 2.  **The Blue Trap:** They tell you to hate chaos so you will let them build a Cage. (CBDCs/Censorship).
 3.  **The Reality:** Both roads lead to a world where **You** are obsolete and **They** are gods.
+4.  **The Proof:** It is no longer a theory. The 2026 Iran strikes show the Red Caesar model *in action*—war by decree, profits for the architects, and no accountability to the people. See `proof/OVERVIEW.md` for the full prediction tracker.
 
-**Don't listen to what they *say* on TV. Look at what they *build* with their money.**
+**Don't listen to what they *say* on TV. Look at what they *build* with their money. And now—look at what they *bomb* with their power.**
 
 ---
-*File Location: `implementation_models/messaging/THE_RECEIPTS.md`*
+*File Location: `action/messaging/THE_RECEIPTS.md`*

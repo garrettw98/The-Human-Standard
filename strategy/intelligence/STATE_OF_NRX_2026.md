@@ -105,6 +105,48 @@ The Human Standard terrifies the Neoreactionaries because **we steal their thund
 
 ---
 
+## 6.5 REAL-WORLD VALIDATION: THE IRAN STRIKES (MARCH 2026 ADDENDUM)
+
+**Event:** On February 28, 2026, the US launched military strikes against Iran—including the assassination of Supreme Leader Khamenei—without Congressional authorization.
+
+**This section documents how the 2026 Iran strikes validate the analysis in this report.**
+
+### Faction B Validation
+
+This report identified Faction B—the "Red Caesar" Coalition—as seeking to *"seize the state apparatus"* and *"impose order"* through a *"CEO-Monarch"* who bypasses democratic deliberation.
+
+**The Iran strikes are Faction B's proof of concept.** The executive launched a major war—assassination of a head of state, strikes on a sovereign nation of 90 million people—without Congressional authorization. This is not a theoretical "Red Caesar." This is the model operating at its maximum expression: the war power, exercised by decree.
+
+### Accelerationist Logic Confirmed
+
+This report noted that accelerationism had evolved from *"Tech brings abundance!"* to *"Humans are the bootloader"* with *"Monarchist / Corp-Feudalist"* politics (Section 3, Evolution Table).
+
+**The strikes are accelerationism made kinetic.** The decision to assassinate a head of state and shatter the regional status quo reflects the core accelerationist belief that existing systems are unsalvageable and must be destroyed to create conditions for a "new order." This is the philosophy of "creative destruction" with aircraft carriers.
+
+### The Faustian Bargain Deepened
+
+This report identified the defense-tech nexus as a core vulnerability—where the same capital (Thiel, associated VCs) funds both the political movement and the defense companies.
+
+**The circle is now closed.** Palantir (Thiel) provides targeting intelligence for the strikes. Anduril provides autonomous systems. SpaceX provides communications. The people who funded the political capture of the executive are profiting from the wars that executive launches. This is not a conflict of interest. It is a business model.
+
+### Threat Level Elevation
+
+Based on this real-world validation:
+
+| Assessment | Previous | Updated |
+|-----------|----------|---------|
+| Faction B operational capability | Embedded in consultant class | **Active and demonstrated** |
+| Accelerationist ideology → kinetic action | Theoretical risk | **Confirmed** |
+| Defense-tech nexus | Conflict of interest | **Operational war profiteering** |
+| Overall Threat Level | **Elevated** | **Critical** |
+
+**Cross-references:**
+- Full intelligence assessment: `strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md`
+- Public prediction tracker: `proof/OVERVIEW.md`
+- Case study: `proof/IRAN_STRIKES_2026.md`
+
+---
+
 ## 7. CONCLUSION
 
 The battle of the next decade is not Left vs. Right. It is **Humanist vs. Post-Humanist**.
