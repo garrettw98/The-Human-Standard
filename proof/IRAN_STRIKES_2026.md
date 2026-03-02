@@ -185,6 +185,18 @@ The people who funded the political movement that captured the executive are pro
 
 ---
 
+## DEVELOPING
+
+> *This section is a reverse-chronological log of new developments after the initial analysis was published. The static analysis above captures the situation as of initial publication. This log tracks how the situation evolves, which predictions upgrade or downgrade, and any new data points. Each entry is dated.*
+
+| Date | Development | Impact on Predictions | Source |
+|------|------------|----------------------|--------|
+| *Mar 2, 2026* | *Initial publication. Analysis covers Feb 28 – Mar 2.* | *Baseline assessment: 4 Confirmed, 3 Emerging.* | *See Sources above.* |
+
+> *New entries go above the initial publication line, newest first.*
+
+---
+
 *Status: Public / Living Document*
 *Last updated: March 2, 2026*
 *Part of The Human Standard — `proof/IRAN_STRIKES_2026.md`*

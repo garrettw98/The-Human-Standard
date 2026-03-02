@@ -14,15 +14,15 @@ This section is our accountability ledger. Every prediction we made is logged he
 
 ## Master Prediction Table
 
-| # | Prediction | Source Document | Status | Case Study |
-|---|-----------|----------------|--------|------------|
-| 1 | **"Red Caesar" executive overreach**: A captured executive will bypass Congress to wage war by decree, treating constitutional constraints as obstacles. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction B), `action/messaging/WARNING_TO_EVERYONE.md` | **Confirmed** | [Iran Strikes 2026](#case-study-1) |
-| 2 | **Accelerationist escalation**: The "only way out is through" logic will produce kinetic action designed to break existing systems, not preserve them. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Section 3), `strategy/THE_COUNTER_COUP.md` | **Confirmed** | [Iran Strikes 2026](#case-study-1) |
-| 3 | **The Faustian Bargain pays out**: Defense-tech companies (Palantir, Anduril, SpaceX) will profit directly from conflicts enabled by the political figures they funded and advised. | `action/messaging/THE_RECEIPTS.md` (Exhibit A), `strategy/THE_COUNTER_COUP.md` (Section 4) | **Confirmed** | [Iran Strikes 2026](#case-study-1) |
-| 4 | **Alliance fragmentation**: Actions taken by the captured executive will damage or destroy alliances the US needs for great power competition. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part VII, Part XI), `strategy/THE_COUNTER_COUP.md` | **Emerging** | [Iran Strikes 2026](#case-study-1) |
-| 5 | **Energy weaponization**: Conflict in the Middle East will be leveraged to manipulate energy markets, with cascading effects on the global economy. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part XI), `policy/CLIMATE_ENERGY_POLICY.md` | **Emerging** | [Iran Strikes 2026](#case-study-1) |
-| 6 | **De-dollarization acceleration**: Unilateral US military action and sanctions overreach will push nations toward alternative reserve currencies and payment systems. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part XII) | **Emerging** | [Iran Strikes 2026](#case-study-1) |
-| 7 | **China window**: Resources and attention diverted to Middle East conflicts will widen the strategic window for Chinese action in the Indo-Pacific. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part VI) | **Emerging** | [Iran Strikes 2026](#case-study-1) |
+| # | Prediction | Source Document | Status | Last Assessed | Case Study |
+|---|-----------|----------------|--------|---------------|------------|
+| 1 | **"Red Caesar" executive overreach**: A captured executive will bypass Congress to wage war by decree, treating constitutional constraints as obstacles. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction B), `action/messaging/WARNING_TO_EVERYONE.md` | **Confirmed** | Mar 2, 2026 | [Iran Strikes 2026](#case-study-1) |
+| 2 | **Accelerationist escalation**: The "only way out is through" logic will produce kinetic action designed to break existing systems, not preserve them. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Section 3), `strategy/THE_COUNTER_COUP.md` | **Confirmed** | Mar 2, 2026 | [Iran Strikes 2026](#case-study-1) |
+| 3 | **The Faustian Bargain pays out**: Defense-tech companies (Palantir, Anduril, SpaceX) will profit directly from conflicts enabled by the political figures they funded and advised. | `action/messaging/THE_RECEIPTS.md` (Exhibit A), `strategy/THE_COUNTER_COUP.md` (Section 4) | **Confirmed** | Mar 2, 2026 | [Iran Strikes 2026](#case-study-1) |
+| 4 | **Alliance fragmentation**: Actions taken by the captured executive will damage or destroy alliances the US needs for great power competition. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part VII, Part XI), `strategy/THE_COUNTER_COUP.md` | **Emerging** | Mar 2, 2026 | [Iran Strikes 2026](#case-study-1) |
+| 5 | **Energy weaponization**: Conflict in the Middle East will be leveraged to manipulate energy markets, with cascading effects on the global economy. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part XI), `policy/CLIMATE_ENERGY_POLICY.md` | **Emerging** | Mar 2, 2026 | [Iran Strikes 2026](#case-study-1) |
+| 6 | **De-dollarization acceleration**: Unilateral US military action and sanctions overreach will push nations toward alternative reserve currencies and payment systems. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part XII) | **Emerging** | Mar 2, 2026 | [Iran Strikes 2026](#case-study-1) |
+| 7 | **China window**: Resources and attention diverted to Middle East conflicts will widen the strategic window for Chinese action in the Indo-Pacific. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part VI) | **Emerging** | Mar 2, 2026 | [Iran Strikes 2026](#case-study-1) |
 
 ---
 
@@ -75,6 +75,8 @@ Each prediction receives one of three statuses:
 2. **Go to the Case Study** (`proof/IRAN_STRIKES_2026.md`) for the detailed, sourced analysis.
 3. **Go to The Receipts** (`action/messaging/THE_RECEIPTS.md`) for the direct quotes and documents proving the *intent* behind these actions.
 4. **Go to the Intelligence Brief** (`strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md`) for the strategic implications.
+5. **Check the Update Log** (`proof/UPDATE_LOG.md`) to see what changed since your last visit.
+6. **Use the Template** (`proof/TEMPLATE_CASE_STUDY.md`) to create a new case study when the next event hits.
 
 ---
 
