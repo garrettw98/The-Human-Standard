@@ -10,6 +10,38 @@
 
 ## March 2026
 
+### Mar 3, 2026 — Expansion: 3 New Case Studies, 5 New Predictions
+
+- **Created** `proof/DOGE_AND_NRX_CAPTURE_2025.md` — **Case Study #2**: DOGE, Yarvin as architect, Musk's $38B conflict, Schedule F, 300K layoffs, Thiel network, AI deregulation. 19 sourced citations.
+- **Created** `proof/ALLIANCE_EROSION_2025.md` — **Case Study #3**: Greenland threats, 27% tariff rate on allies, Ukraine deal rift, NATO drawdown, Gulf allies struck. 12 sourced citations.
+- **Created** `proof/TECH_OLIGARCHY_2025.md` — **Case Study #4**: The closed loop — $6B+ in contracts to the Musk-Thiel-Andreessen network, Palantir $10B, Anduril $60B, SpaceX $15B, ImmigrationOS surveillance. 20 sourced citations.
+- **Expanded** `proof/OVERVIEW.md` — Master prediction table expanded from 7 to **12 predictions**. 5 new rows added:
+  - #8: NRx institutional capture — **Confirmed**
+  - #9: Tech billionaire political consolidation — **Confirmed**
+  - #10: AI safety deregulation — **Confirmed**
+  - #11: Network State "Exit" strategy — **Confirmed**
+  - #12: Surveillance / "Blue Cage" — **Confirmed**
+- **Updated** `proof/OVERVIEW.md` — Case study index expanded to 4 entries. Existing predictions cross-referenced to new case studies. Scorecard added: 10 Confirmed, 2 Emerging, 0 Contradicted.
+
+**Prediction Status Snapshot (Mar 3, 2026 — Post-Expansion):**
+
+| # | Prediction | Status |
+|---|-----------|--------|
+| 1 | Red Caesar overreach | Confirmed |
+| 2 | Accelerationist escalation | Confirmed |
+| 3 | Faustian Bargain | Confirmed |
+| 4 | Alliance fragmentation | Confirmed |
+| 5 | Energy weaponization | Confirmed |
+| 6 | De-dollarization | Emerging |
+| 7 | China window | Emerging |
+| 8 | NRx institutional capture | **Confirmed (NEW)** |
+| 9 | Tech billionaire consolidation | **Confirmed (NEW)** |
+| 10 | AI safety deregulation | **Confirmed (NEW)** |
+| 11 | Network State exit | **Confirmed (NEW)** |
+| 12 | Surveillance / Blue Cage | **Confirmed (NEW)** |
+
+---
+
 ### Mar 3, 2026 — Major Update: Sourced Reporting & Prediction Upgrades
 
 - **Corrected** `proof/IRAN_STRIKES_2026.md` — School location corrected to **Minab** (Hormozgan province), not Isfahan. School name: **Shajareh Tayyebeh elementary**. Death toll updated to **165–180**. US casualties updated to **6 servicemembers killed**.
