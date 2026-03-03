@@ -6,7 +6,7 @@
 
 **You are watching a war nobody voted for.**
 
-Right now, American bombs are falling on Iran. The Supreme Leader is dead. Hundreds of civilians are dead—including 153 children at a girls' school. Three American servicemembers are dead. Oil prices are spiking. The Middle East is on the edge of a wider war.
+Right now, American bombs are falling on Iran. The Supreme Leader is dead. Hundreds of civilians are dead—including up to 180 children at an elementary school. Six American servicemembers are dead. Oil prices are surging. The Strait of Hormuz is shut down. Iran has struck back across nine countries. The Middle East is at war.
 
 And nobody asked you.
 
@@ -20,12 +20,13 @@ This should terrify you. Not because of Iran. Because of what it means about who
 
 Here is what you need to know, in plain English:
 
-- **On February 28, 2026**, the United States and Israel launched massive military strikes against Iran. They hit nuclear facilities, military bases, and government buildings.
-- **They killed the Supreme Leader of Iran.** This is the equivalent of another country assassinating the President. It is, by definition, regime change.
-- **Hundreds of civilians are dead.** The worst single incident: a strike hit a girls' school in Isfahan, killing at least 153 people—most of them children.
-- **Three American servicemembers have been killed** in retaliatory strikes.
-- **Congress was not consulted.** There was no vote. No debate. No authorization. The President simply ordered it.
-- **Oil prices are surging.** Iran can threaten the Strait of Hormuz—the narrow waterway through which 20% of the world's oil flows. If that closes, gas prices go through the roof and the global economy takes a hit.
+- **On February 28, 2026**, the United States and Israel launched massive military strikes against Iran—codenamed **"Epic Fury"** (US) and **"Roaring Lion"** (Israel). They dropped **over 1,200 munitions across 24 of Iran's 31 provinces**, hitting nuclear facilities, military bases, and government buildings.
+- **They killed the Supreme Leader of Iran.** Trump called Khamenei "one of the most evil people in history" and publicly urged Iranians to *"take over your government."* That is regime change—stated out loud.
+- **Hundreds of civilians are dead.** At least 555 killed across Iran. The worst single incident: a strike hit the **Shajareh Tayyebeh elementary girls' school** in **Minab**, killing between **165 and 180 children and staff**. UNESCO condemned it as a *"grave violation of humanitarian law."*
+- **Six American servicemembers have been killed** in retaliatory strikes. The President has said the operation could last **4 to 5 weeks**.
+- **Iran struck back across nine countries.** Missiles and drones hit targets in Bahrain, Iraq, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, UAE, and Israel. Iranian strikes hit **Dubai International Airport, Kuwait International Airport, the Burj Al Arab hotel**, residential neighborhoods, and US military bases. A UK base in Cyprus was also struck.
+- **Congress was not consulted.** There was no vote. No debate. No authorization. Congress is now preparing a war powers resolution—but the President's party is expected to block it, and he would veto it anyway.
+- **The Strait of Hormuz is shut down.** Shipping has halted. Four vessels have been hit in Gulf waters. Oil prices surged 13%. Saudi Arabia shut its biggest refinery. Qatar stopped all LNG production. Gas prices are going up—and they will keep going up.
 
 That's where we are. Right now. Today.
 

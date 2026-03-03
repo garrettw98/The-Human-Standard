@@ -84,7 +84,7 @@ We build a **"Humanist Front"** that unites:
 
 **The battlefield has changed.**
 
-On February 28, 2026, the executive launched military strikes against Iran—including the assassination of Supreme Leader Khamenei—without Congressional authorization. 555+ civilians dead. 153 children killed at a school. Three American servicemembers dead. No vote. No debate.
+On February 28, 2026, the executive launched Operation "Epic Fury"—coordinated with Israel's "Roaring Lion"—striking Iran with 1,200+ munitions across 24 provinces and assassinating Supreme Leader Khamenei, without Congressional authorization. 555+ Iranian civilians dead. 165–180 children and staff killed at an elementary school in Minab. Six American servicemembers dead. Iran retaliated across nine countries—striking US bases, Gulf airports, civilian targets including Dubai International Airport and the Burj Al Arab. Hormuz shipping halted. Saudi Arabia and Qatar shut down major energy infrastructure. No vote. No debate.
 
 **This is the Red Caesar model we warned about, operating at full power.**
 

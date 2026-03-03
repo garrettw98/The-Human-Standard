@@ -70,17 +70,18 @@ This is not a conspiracy theory. It is a business model.
 
 | Alliance | Damage | Severity |
 |----------|--------|----------|
-| **Gulf Partners (Qatar, UAE, Saudi Arabia)** | US bases on their soil used for offensive strikes without consultation. They are now targets for Iranian retaliation they did not agree to. | **High** |
-| **NATO/European Allies** | Not consulted. Many Europeans oppose the strikes. Reinforces post-Trump pattern of US unilateralism. | **Moderate** |
+| **Gulf Partners (Qatar, UAE, Saudi Arabia, Bahrain, Kuwait)** | US bases on their soil used for offensive strikes without consultation. **Iran retaliated by striking all of them.** Missiles hit Dubai International Airport, Kuwait International Airport, Burj Al Arab, Port of Dubai, residential areas in Bahrain. Saudi Arabia shut its largest refinery. Qatar halted all LNG production. At least 5 killed in Gulf states. Airspace closed across the region. | **Critical** |
+| **NATO/European Allies** | Not consulted. Many Europeans oppose the strikes. UK base in Cyprus struck by Iranian drone. Reinforces post-Trump pattern of US unilateralism. | **High** |
 | **AUKUS/Indo-Pacific Partners** | Resources diverted from China focus. Partners question US strategic discipline. | **Moderate** |
-| **Israel** | Deepened dependency on US military commitment. But: any blowback falls on them too. | **Complex** |
+| **Israel** | Deepened dependency on US military commitment. Iran retaliated with missile strikes; at least 10 killed in Israel including residential areas in Tel Aviv and Beit Shemesh. | **High** |
 
 ### 3.2 Energy Market Disruption
 
-- **Strait of Hormuz**: ~20% of global oil transits daily. Iranian retaliation targeting shipping or infrastructure would produce an immediate supply crisis.
-- **Oil Price Impact**: Prices spiked on strike announcement. Sustained disruption could push prices above $150/barrel.
-- **Cascading Effects**: Energy price shocks → inflation → consumer pain → political instability globally.
-- **Weaponization**: Iran's ability to threaten Hormuz is its primary deterrent. The strikes may have weakened Iran's military, but they have *increased* its incentive to use the energy weapon.
+- **Strait of Hormuz**: ~20% of global oil transits daily. **Shipping traffic has halted.** Four vessels hit in Gulf waters. Shipping companies and insurers refuse to risk passage.
+- **Oil Price Impact**: Brent crude surged 13% to $82.37/barrel; WTI up 5.77% to $70.89. Analysts warn of $100+/barrel if disruption continues.
+- **Infrastructure Damage**: Saudi Arabia shut its largest domestic oil refinery after a drone strike. Qatar halted all LNG production; QatarEnergy preparing force majeure on shipments.
+- **Cascading Effects**: Energy price shocks → inflation → consumer pain → political instability globally. This is no longer a risk scenario; it is underway.
+- **Weaponization**: Iran's ability to threaten Hormuz was its primary deterrent. It has now been deployed. The energy weapon is live.
 
 ### 3.3 Dollar Erosion
 
@@ -109,7 +110,8 @@ The strikes accelerate de-dollarization through multiple channels:
 ### 4.1 Palantir Technologies
 
 - **Role**: Gotham platform provides the intelligence fusion layer for targeting. Every strike package runs through Palantir's analytical infrastructure.
-- **Financial Interest**: War-scale operations mean war-scale contracts. Revenue from defense/intelligence is Palantir's core business.
+- **Financial Interest**: War-scale operations mean war-scale contracts. Revenue from defense/intelligence is Palantir's core business. Palantir holds a $10 billion US Army contract consolidating 75 contracts, plus a $448 million Navy deal. Government contracts represent more than half of domestic revenue, with US government sales growing 66% year-over-year.
+- **Market Validation**: On March 2 (first trading day after strikes), **Palantir surged 6.5% to $143.30—the #1 performer in the entire S&P 500.** The market is explicitly pricing war as a Palantir profit event.
 - **Political Connection**: Founded by Peter Thiel. Thiel is the financial architect of the political movement that captured the executive. The company he built profits from the wars that executive launches.
 
 ### 4.2 Anduril Industries
@@ -140,7 +142,7 @@ When the people who profit from war are also the people who fund the politicians
 
 | Law | Violation | Evidence |
 |-----|----------|----------|
-| **Do No Harm** | 555+ civilians killed, including 153 at a girls' school. 3 US servicemembers killed. Imminent risk to millions from regional escalation. | Casualty reports, humanitarian organization statements |
+| **Do No Harm** | 555+ civilians killed in Iran, including 165–180 at the Minab elementary school. 6 US servicemembers killed. At least 10 killed in Israel, 5 in Gulf states. Imminent risk to millions from regional escalation across 9 countries. | Casualty reports, humanitarian organization statements, UNESCO condemnation |
 | **Maximize Human Flourishing** | Strikes produce the opposite of flourishing: death, fear, displacement, economic disruption, environmental damage. | Regional destabilization, refugee flows, oil market shock |
 | **Preserve Human Agency** | Congress—the people's representatives—was not consulted. American citizens had no voice in the decision to go to war. Iranian civilians had no agency over the destruction of their country. | No AUMF, no declaration of war, no public debate |
 | **Maintain Transparency** | Decision-making process classified. Legal justification undisclosed. Civilian impact assessment not public. | Absence of public documentation |

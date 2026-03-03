@@ -10,20 +10,28 @@
 
 | Date | Event | Source |
 |------|-------|--------|
-| **Feb 28, 2026** | US and Israeli forces launch coordinated strikes on Iranian nuclear facilities, military infrastructure, and leadership targets. Supreme Leader Ayatollah Ali Khamenei is killed in a targeted strike. | [1][2][3] |
-| **Feb 28 – Mar 1** | Strikes expand to include IRGC command centers, air defense networks, and ballistic missile sites across Iran. | [2][4] |
-| **Mar 1, 2026** | Reports of significant civilian casualties emerge. A strike on a girls' school in Isfahan kills at least 153 people, predominantly children. Total civilian death toll exceeds 555 in the first 48 hours. | [5][6] |
-| **Mar 1, 2026** | Three US servicemembers killed in retaliatory strikes on US positions in the region. | [7] |
-| **Mar 1–2, 2026** | Oil prices surge. Concerns mount over potential closure of the Strait of Hormuz. Gulf partners express alarm at being caught between US operations and Iranian retaliation. | [8][9] |
-| **Ongoing** | No Congressional authorization for military action. No formal declaration of war. Operations conducted under executive authority. | [10] |
+| **Feb 28, 2026** | US and Israeli forces launch coordinated strikes on Iranian nuclear facilities, military infrastructure, and leadership targets. Israel codenamed the operation **"Roaring Lion"**; the US DoD designated it **"Epic Fury."** Supreme Leader Ayatollah Ali Khamenei is killed in a targeted strike. Trump calls Khamenei "one of the most evil people in history" and urges Iranians to "take over your government"—an explicit call for regime change. | [1][2][3] |
+| **Feb 28** | A strike hits the **Shajareh Tayyebeh elementary girls' school** in **Minab**, Hormozgan province. The school was located near an IRGC base. Between **165 and 180 children and staff** are killed, per Iranian Red Crescent and Fars News Agency. UNESCO condemns it as "a grave violation of humanitarian law." | [4][5][6] |
+| **Feb 28 – Mar 1** | Israel's air force reports dropping **more than 1,200 munitions across 24 of Iran's 31 provinces**. Strikes hit IRGC command centers, air defense networks, ballistic missile sites, and nuclear facilities. | [2][7] |
+| **Feb 28 – Mar 2** | **Iran retaliates across nine countries**: Bahrain, Iraq, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, UAE, and Israel. An Iranian drone also strikes a UK military base in Cyprus. IRGC targets four US bases: **Al Udeid** (Qatar), **Ali Al Salem** (Kuwait), **Al Dhafra** (UAE), and **US Navy Fifth Fleet HQ** (Bahrain). Iranian missiles and drones also strike civilian targets: Dubai International Airport, Kuwait International Airport, Burj Al Arab hotel (Dubai), Fairmont Palm Hotel (Dubai), Crowne Plaza Hotel (Bahrain), Port of Dubai, and residential areas in Tel Aviv, Beit Shemesh, and Bahrain. | [8][9][10] |
+| **Mar 1–2, 2026** | **Six US servicemembers killed** in Iranian retaliatory strikes. At least 10 dead in Israel, 5 killed in Gulf states. | [11] |
+| **Mar 1–2, 2026** | **Oil prices surge**: Brent crude spikes 13% to $82.37/barrel; WTI up 5.77% to $70.89. Hormuz shipping traffic comes to a halt—four vessels hit in Gulf waters. Saudi Arabia shuts its largest domestic oil refinery after a drone strike. Qatar halts LNG production; QatarEnergy prepares force majeure declaration. | [12][13][14] |
+| **Mar 1–2, 2026** | **Airspace closures**: Iran, Iraq, Kuwait, Israel, Bahrain, and Qatar close airspace. Iran's closure extended to at least March 3. | [15] |
+| **Mar 2, 2026** | Trump states the operation "could take four to five weeks" but has "the capability to go far longer than that"—confirming this is a sustained campaign, not a limited strike. | [2] |
+| **Mar 2, 2026** | **Palantir stock surges 6.5%**, top performer in the S&P 500, at $143.30/share. SPDR Aerospace & Defense ETF climbs 2%. Lockheed Martin and RTX also rally. | [16][17] |
+| **Mar 2, 2026** | **Congress gears up for war powers vote.** Bipartisan resolution to block further military action without Congressional authorization under the 1973 War Powers Resolution. Most Democrats and some Republicans support; most Republicans expected to back Trump. Trump would likely veto; Congress lacks two-thirds majority to override. | [18][19][20] |
 
 ### Key Facts
 
-- **No Congressional vote** authorized the strikes.
-- **Regime change** was achieved through targeted assassination of the Supreme Leader—directly contradicting stated US policy of "deterrence, not regime change."
-- **Civilian casualties** include a mass-casualty event at a school.
-- **US servicemembers died** in a war Congress did not authorize.
-- **Gulf allies** were placed at risk without meaningful consultation.
+- **No Congressional vote** authorized the strikes. Top lawmakers were notified shortly before the operation launched, but no authorization was sought.
+- **Regime change is the stated objective.** Trump publicly urged Iranians to "take over your government." The assassination of the Supreme Leader is regime change by definition—directly contradicting the stated US policy of "deterrence, not regime change."
+- **165–180 children and staff killed** at an elementary school in Minab. UNESCO condemned it as a grave violation of humanitarian law.
+- **Six US servicemembers killed** in a war Congress did not authorize.
+- **Iran retaliated across nine countries**, striking US bases and civilian targets including airports, hotels, and residential neighborhoods.
+- **Gulf allies struck by Iranian retaliation** they did not agree to—their airspace closed, their airports hit, their citizens killed.
+- **Strait of Hormuz effectively closed.** Shipping halted. Oil prices spiked. Saudi Arabia and Qatar shut major energy infrastructure.
+- **Defense contractors profiting.** Palantir (founded by Thiel) was the top S&P 500 performer the first trading day after strikes began.
+- **4–5 week projected campaign.** This is not over.
 
 ---
 
@@ -34,8 +42,8 @@
 | Red Caesar overreach | *"Seize the state apparatus to crush the 'woke bureaucracy' and impose order... promoting the idea of a 'CEO-Monarch' who suspends the Constitution"* (`STATE_OF_NRX_2026.md`, Faction B) | Executive launched war without Congressional authorization—the most consequential possible exercise of unchecked executive power. | **Direct** |
 | Accelerationist escalation | *"The opposition is not trying to fix democracy. They are trying to survive its collapse—a collapse they are actively accelerating."* (`STATE_OF_NRX_2026.md`, Section 1) | Strikes designed to shatter the regional status quo, not preserve it. Assassination of a head of state is the definition of "only way out is through." | **Direct** |
 | Faustian Bargain | *"Thiel is the primary funder... Founder of Palantir"* (`THE_RECEIPTS.md`, Exhibit A); *"Ban 'Private Armies.' Companies like Anduril must remain strictly subservient to civilian, democratic oversight."* (`THE_COUNTER_COUP.md`, Section 4.1) | Defense-tech companies with direct ties to the political architects of the strikes (Palantir for targeting intelligence, Anduril for autonomous systems, SpaceX for communications) stand to profit massively. | **Direct** |
-| Alliance fragmentation | *"America is stronger with partners... Alliances multiply strength"* (`DEFENSE_FOREIGN_POLICY.md`, Core Principles) | Gulf partners—Qatar, UAE, Saudi Arabia—caught in crossfire. Diplomatic fallout emerging as partners question reliability of US commitments. | **Emerging** |
-| Energy weaponization | *"Energy security (less critical but still relevant)"* (`DEFENSE_FOREIGN_POLICY.md`, Part XI) | Oil prices spike on Hormuz closure fears. Energy markets destabilized. Nations dependent on Gulf oil face immediate supply risk. | **Emerging** |
+| Alliance fragmentation | *"America is stronger with partners... Alliances multiply strength"* (`DEFENSE_FOREIGN_POLICY.md`, Core Principles) | Iran retaliated against 9 countries. Gulf airports struck, Saudi refinery shut, Qatar halted LNG, at least 5 killed in Gulf states. Allies physically attacked as consequence of a war launched without consulting them. | **Confirmed** |
+| Energy weaponization | *"Energy security (less critical but still relevant)"* (`DEFENSE_FOREIGN_POLICY.md`, Part XI) | Hormuz shipping halted. Brent crude surged 13% to $82.37. Saudi shut largest refinery. Qatar halted LNG production. Force majeure declared. | **Confirmed** |
 | De-dollarization | *"May accelerate de-dollarization efforts"* (`DEFENSE_FOREIGN_POLICY.md`, Part XII) | Unilateral military action without allied consultation reinforces the case for nations seeking alternatives to dollar-denominated trade and US-controlled financial infrastructure. | **Emerging** |
 | China window | *"China timeline: Prepared for war by 2027"* (`DEFENSE_FOREIGN_POLICY.md`, Part VI) | US military assets, intelligence capacity, and political attention diverted to Iran theater. Every carrier group in the Persian Gulf is one not in the Taiwan Strait. | **Emerging** |
 
@@ -47,9 +55,9 @@
 
 **What we said:** Faction B of the post-humanist right seeks to *"seize the state apparatus"* and *"impose order"* through a *"CEO-Monarch"* who bypasses constitutional constraints (`STATE_OF_NRX_2026.md`). The WARNING document told your parents: *"They want to replace it with what they call a 'CEO-King' or a 'Red Caesar'—a dictator who runs America like a startup"* (`WARNING_TO_EVERYONE.md`).
 
-**What happened:** The President of the United States launched a major military campaign—including the assassination of a foreign head of state—without Congressional authorization. This is not a drone strike on a militant leader in a failed state. This is an act of war against a sovereign nation with 90 million people and a functioning military. The Constitution vests the war power in Congress. It was not consulted.
+**What happened:** The President launched a sustained military campaign—1,200+ munitions across 24 provinces, assassination of a head of state, projected 4–5 week duration—without Congressional authorization. Top lawmakers were notified shortly before, not consulted. When Congress prepared a bipartisan war powers resolution, the President's party lined up to block it. The executive acted as CEO, treating Congress as a notification recipient, not an authority.
 
-**Assessment:** This is the Red Caesar model made operational. The executive acted as CEO, not as a constitutionally constrained leader. **Confirmed.**
+**Assessment:** This is the Red Caesar model made operational. War by decree, with Congress reduced to a spectator. **Confirmed.**
 
 ---
 
@@ -74,7 +82,9 @@
 
 The people who funded the political movement that captured the executive are profiting from the military actions that executive takes. This is the Faustian Bargain paying out.
 
-**Assessment:** The defense-tech nexus is not a theoretical concern—it is an active conflict of interest producing real wars. **Confirmed.**
+**New evidence:** On the first trading day after strikes began (March 2), **Palantir surged 6.5% to $143.30—the top performer in the entire S&P 500.** The SPDR Aerospace & Defense ETF climbed 2%. Lockheed Martin and RTX rallied. The market is pricing the war as a profit event for defense-tech, and it is right.
+
+**Assessment:** The defense-tech nexus is not a theoretical concern—it is an active conflict of interest producing real wars, with the profit motive now visible in real-time stock data. **Confirmed.**
 
 ---
 
@@ -88,7 +98,9 @@ The people who funded the political movement that captured the executive are pro
 
 **What happened:** The assassination of Supreme Leader Khamenei is regime change by definition. You cannot kill the head of state and claim "regime change is not the objective." The act speaks for itself.
 
-**Assessment:** This is not merely a violation of *our* framework. It is a violation of the stated policy of *their own government*. The framework said deterrence. The action said decapitation. **Confirmed.**
+**What else happened:** Trump publicly urged Iranians to *"take over your government"*—an explicit call for regime change, broadcast to the world. There is no ambiguity left. The policy said "not objective." The President said "do it."
+
+**Assessment:** This is not merely a violation of *our* framework. It is a violation of the stated policy of *their own government*, publicly contradicted by the President himself. **Confirmed.**
 
 ---
 
@@ -98,7 +110,9 @@ The people who funded the political movement that captured the executive are pro
 
 **What happened:** Gulf partners are now on the front line of Iranian retaliation they did not sign up for. US bases in these countries—which exist under agreements premised on *defensive* postures—were used to launch *offensive* strikes that fundamentally alter the regional equation. Partners were presented with a fait accompli, not consulted as allies.
 
-**Assessment:** Early indicators show alliance strain. Full fragmentation depends on how the situation evolves, but the pattern is clear: unilateral action erodes multilateral trust. **Emerging.**
+**What happened next:** Iran retaliated by striking **all of them.** Missiles and drones hit targets in Bahrain, Iraq, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, and UAE—nine countries total. Specific targets included Dubai International Airport, Kuwait International Airport, the Burj Al Arab, the Port of Dubai, residential neighborhoods in Bahrain, and the Crowne Plaza Hotel in Bahrain. Saudi Arabia shut its largest domestic oil refinery after a drone strike. Qatar halted LNG production entirely. At least 5 people were killed in Gulf states. These countries' airspace was closed.
+
+**Assessment:** This is no longer "emerging." US allies were physically attacked as a direct consequence of a war the US started without consulting them. Their airports are closed, their energy infrastructure is damaged, their citizens are dead. Alliance fragmentation is not a risk—it is an ongoing event. **Confirmed.**
 
 ---
 
@@ -106,9 +120,11 @@ The people who funded the political movement that captured the executive are pro
 
 **What we said:** The defense framework acknowledges energy security as a US strategic interest in the Middle East. The climate and energy policies warn against fossil fuel dependency creating strategic vulnerabilities.
 
-**What happened:** Iran controls or threatens the Strait of Hormuz, through which approximately 20% of global oil passes daily. The strikes have produced immediate oil price surges and fears of supply disruption. Any Iranian retaliation against Gulf shipping infrastructure would produce a global energy crisis.
+**What happened:** Iran controls or threatens the Strait of Hormuz, through which approximately 20% of global oil passes daily. The strikes have produced immediate oil price surges and fears of supply disruption.
 
-**Assessment:** The strikes have activated the energy weapon. Whether it is fully deployed depends on Iranian retaliation decisions. **Emerging.**
+**What happened next:** The energy weapon is no longer theoretical. **Hormuz shipping traffic has halted.** Four vessels have been hit in Gulf waters. Shipping companies and insurers refuse to risk passage. Brent crude surged 13% to $82.37/barrel. Saudi Arabia shut its largest domestic oil refinery after a drone strike. **Qatar halted LNG production entirely** and QatarEnergy prepared to declare force majeure on LNG shipments. Analysts warn prices could top $100/barrel if the stoppage is prolonged.
+
+**Assessment:** The energy weapon is live. Hormuz is closed, refineries are shut, LNG is halted. This is not a risk—it is a fact. **Confirmed.**
 
 ---
 
@@ -136,7 +152,7 @@ The people who funded the political movement that captured the executive are pro
 
 | Law | Principle | Violation | Severity |
 |-----|----------|-----------|----------|
-| **First Law: Do No Harm** | No policy may directly cause physical harm to any person or deprive any person of basic necessities. | 555+ civilian dead, including 153 children at a school. Three US servicemembers killed in an unauthorized war. | **Critical** |
+| **First Law: Do No Harm** | No policy may directly cause physical harm to any person or deprive any person of basic necessities. | 555+ civilians killed in Iran, including 165–180 children and staff at the Minab elementary school. Six US servicemembers killed. At least 10 killed in Israel, 5 in Gulf states from Iranian retaliation. | **Critical** |
 | **Second Law: Maximize Human Flourishing** | The purpose of governance is human flourishing—health, security, freedom, connection, purpose, environment. | Strikes produce death, regional destabilization, economic disruption, and fear—the opposite of flourishing—for millions. | **Critical** |
 | **Third Law: Preserve Human Agency** | Humans must retain ultimate control over systems affecting their lives. Elected representatives must set policy. | Congress was not consulted. The American people had no say in a war launched in their name. Iranian civilians had no agency over the destruction of their country. | **Critical** |
 | **Fourth Law: Maintain Transparency** | All systems affecting human lives must be publicly auditable. | The decision-making process leading to the strikes remains opaque. No public legal justification. No disclosure of civilian impact assessments. | **Severe** |
@@ -172,16 +188,28 @@ The people who funded the political movement that captured the executive are pro
 
 ## SOURCES
 
-1. Multiple major news outlets reporting on US-Israel joint strikes against Iran, February 28, 2026.
-2. Department of Defense press briefings on scope of operations, February 28–March 1, 2026.
-3. Reports confirming assassination of Supreme Leader Khamenei in targeted strike.
-4. Satellite imagery analysis of strike damage to Iranian military infrastructure.
-5. International media and humanitarian organization reports on civilian casualties, including the Isfahan girls' school.
-6. United Nations preliminary casualty estimates, March 1, 2026.
-7. Department of Defense confirmation of US servicemember casualties.
-8. Reuters, Bloomberg, and commodity market data on oil price movements.
-9. Gulf state diplomatic communications and public statements.
-10. Congressional Research Service analysis of legal authorities cited for the strikes.
+1. [NBC News: Iran Supreme Leader Ali Khamenei is dead after U.S., Israel attack](https://www.nbcnews.com/world/iran/live-blog/israel-iran-live-updates-rcna261099)
+2. [CNN: February 28, 2026 — US-Israeli strikes on Iran (Live Updates)](https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl)
+3. [Times of Israel: Hailing death of 'evil' Khamenei, Trump says strikes on Iran to persist](https://www.timesofisrael.com/liveblog-february-28-2026/)
+4. [TIME: More Than 100 Reported Killed in Strike on Girls' School in Iran](https://time.com/7381982/iran-girls-school-killed/)
+5. [Al Jazeera: Death toll in Israeli strike on southern Iran school rises to 165](https://www.aljazeera.com/news/2026/2/28/israel-strikes-two-schools-in-iran-killing-more-than-50-people)
+6. [UN News: Deadly bombing of Iran primary school 'a grave violation of humanitarian law': UNESCO](https://news.un.org/en/story/2026/03/1167063)
+7. [CNN: Day two of the launch of a US-Israeli military operation against Iran](https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl)
+8. [Washington Post: Iran's Retaliatory Strikes — Where Iran Struck in the Middle East](https://www.washingtonpost.com/investigations/2026/03/01/where-iran-strikes-middle-east-images-video/)
+9. [TIME: Iran's Retaliatory Strikes Challenge Image of Gulf Stability](https://time.com/7381884/iran-missiles-dubai-palm-gulf/)
+10. [CSIS: The Regional Reverberations of the U.S. and Israeli Strikes on Iran](https://www.csis.org/analysis/regional-reverberations-us-and-israeli-strikes-iran)
+11. [Al Jazeera: US-Israel attacks on Iran — Death toll and injuries live tracker](https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker)
+12. [NPR: Oil prices surge because of Iran war](https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices)
+13. [Washington Post: Iran strikes stall traffic in Strait of Hormuz, rattling world markets](https://www.washingtonpost.com/business/2026/03/02/oil-prices-strait-hormuz/)
+14. [CNBC: Oil soars amid Strait of Hormuz shipping fears](https://www.cnbc.com/2026/03/02/iran-us-oil-strait-hormuz-war-middle-east-energy-brent-crude-wti-conflict.html)
+15. [UN News: Strikes continue from US, Israel and Iran as UN urges restraint](https://news.un.org/en/story/2026/03/1167065)
+16. [Benzinga: Palantir War Trade — PLTR Rallies As Trump, Iran Conflict Escalates](https://www.benzinga.com/trading-ideas/technicals/26/03/50965804/palantir-war-trade-trump-iran-conflict-escalates)
+17. [Seeking Alpha: Palantir — The U.S.-Iran Conflict Validates Its Unstoppable AI Military Moat](https://seekingalpha.com/article/4876916-palantir-the-us-iran-conflict-validates-its-unstoppable-ai-military-moat)
+18. [NPR: Congress gears up for vote on Trump's war powers in Iran — after the battle began](https://www.npr.org/2026/03/02/g-s1-112092/iran-war-powers-congress-trump)
+19. [PBS: Members of Congress demand swift vote on war powers resolution](https://www.pbs.org/newshour/nation/members-of-congress-demand-swift-vote-on-war-powers-resolution-after-trump-orders-iran-strike-without-congressional-approval)
+20. [OPB/AP: Iran strikes were launched without approval from Congress, deeply dividing lawmakers](https://www.opb.org/article/2026/03/01/iran-strike-was-launched-without-approval-from-congress/)
+21. [Wikipedia: 2026 Israeli–United States strikes on Iran](https://en.wikipedia.org/wiki/2026_Israeli%E2%80%93United_States_strikes_on_Iran)
+22. [Wikipedia: 2026 Minab school airstrike](https://en.wikipedia.org/wiki/2026_Minab_school_airstrike)
 
 ---
 
@@ -191,6 +219,7 @@ The people who funded the political movement that captured the executive are pro
 
 | Date | Development | Impact on Predictions | Source |
 |------|------------|----------------------|--------|
+| **Mar 3, 2026** | Major update incorporating sourced reporting. School corrected to Minab (Shajareh Tayyebeh elementary), death toll 165–180. US casualties updated to 6. Iran retaliated across 9 countries—striking US bases, Gulf airports, civilian targets. Hormuz shipping halted; Saudi refinery shut; Qatar halted LNG. Palantir surged 6.5%, top S&P 500 performer. Trump confirmed 4–5 week campaign and openly called for regime change. Congress preparing war powers vote, expected to fail. | **Alliance fragmentation: Emerging → Confirmed.** Gulf allies physically struck. **Energy weaponization: Emerging → Confirmed.** Hormuz closed, energy infrastructure damaged. Updated score: 6 Confirmed, 2 Emerging. | NBC, CNN, Al Jazeera, NPR, WashPost, TIME, CNBC, PBS, Benzinga, Seeking Alpha, UN News |
 | *Mar 2, 2026* | *Initial publication. Analysis covers Feb 28 – Mar 2.* | *Baseline assessment: 4 Confirmed, 3 Emerging.* | *See Sources above.* |
 
 > *New entries go above the initial publication line, newest first.*
@@ -198,5 +227,5 @@ The people who funded the political movement that captured the executive are pro
 ---
 
 *Status: Public / Living Document*
-*Last updated: March 2, 2026*
+*Last updated: March 3, 2026*
 *Part of The Human Standard — `proof/IRAN_STRIKES_2026.md`*

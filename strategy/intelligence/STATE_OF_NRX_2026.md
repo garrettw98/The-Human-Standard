@@ -107,7 +107,7 @@ The Human Standard terrifies the Neoreactionaries because **we steal their thund
 
 ## 6.5 REAL-WORLD VALIDATION: THE IRAN STRIKES (MARCH 2026 ADDENDUM)
 
-**Event:** On February 28, 2026, the US launched military strikes against Iran—including the assassination of Supreme Leader Khamenei—without Congressional authorization.
+**Event:** On February 28, 2026, the US launched Operation "Epic Fury"—coordinated strikes with Israel's "Roaring Lion" against Iran, including the assassination of Supreme Leader Khamenei and 1,200+ munitions across 24 provinces—without Congressional authorization. Iran retaliated across nine countries.
 
 **This section documents how the 2026 Iran strikes validate the analysis in this report.**
 

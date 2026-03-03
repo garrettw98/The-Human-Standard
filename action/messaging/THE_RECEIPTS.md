@@ -108,9 +108,9 @@ When you share *WARNING_TO_EVERYONE.md* and someone says "That's a conspiracy th
 
 ### Exhibit L: The Civilian Cost
 
-*   **The Event:** In the first 48 hours of strikes, at least 555 civilians were killed. A strike on a girls' school in Isfahan killed at least 153 people—predominantly children.
-*   **The Proof:** International media reporting, humanitarian organization estimates, United Nations preliminary statements.
-*   **The Meaning:** This is what "acceleration" costs in human terms. The philosophy of "creative destruction" is not abstract when it hits a school.
+*   **The Event:** In the first 48 hours of strikes, at least 555 civilians were killed across Iran. A strike on the **Shajareh Tayyebeh elementary girls' school** in **Minab** (Hormozgan province) killed between **165 and 180 children and staff**. The school was located near an IRGC base. UNESCO condemned it as *"a grave violation of humanitarian law."*
+*   **The Proof:** [Al Jazeera death toll tracker](https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker); [TIME investigation of Minab school](https://time.com/7381982/iran-girls-school-killed/); [UNESCO condemnation](https://news.un.org/en/story/2026/03/1167063).
+*   **The Meaning:** This is what "acceleration" costs in human terms. The philosophy of "creative destruction" is not abstract when it hits an elementary school.
 
 ### Exhibit M: The Faustian Bargain Pays Out
 
@@ -120,21 +120,21 @@ When you share *WARNING_TO_EVERYONE.md* and someone says "That's a conspiracy th
 
 ### Exhibit N: The Alliance Collapse
 
-*   **The Event:** US strikes were launched from bases in Gulf partner nations—Qatar, UAE, and regional facilities—without meaningful allied consultation. These partners are now targets for Iranian retaliation they did not agree to.
-*   **The Proof:** Gulf state diplomatic statements expressing alarm. Pattern of unilateral action without alliance consultation.
-*   **The Meaning:** The Human Standard's defense framework says *"Alliances multiply strength."* The strikes treat allies as staging areas, not partners. You cannot maintain a coalition by turning your allies into targets.
+*   **The Event:** US strikes were launched from bases in Gulf partner nations without meaningful allied consultation. Iran retaliated by striking targets in **nine countries**: Bahrain, Iraq, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, UAE, and Israel—plus a UK base in Cyprus. Iranian missiles hit **Dubai International Airport, Kuwait International Airport, the Burj Al Arab, the Port of Dubai**, and residential areas in Bahrain. At least 5 people were killed in Gulf states. Saudi Arabia shut its largest refinery. Qatar halted all LNG production.
+*   **The Proof:** [Washington Post: Where Iran struck in the Middle East](https://www.washingtonpost.com/investigations/2026/03/01/where-iran-strikes-middle-east-images-video/); [TIME: Iran's Retaliatory Strikes Challenge Image of Gulf Stability](https://time.com/7381884/iran-missiles-dubai-palm-gulf/).
+*   **The Meaning:** The Human Standard's defense framework says *"Alliances multiply strength."* The strikes treated allies as staging areas. Iran treated them as targets. Allies are now paying in blood and infrastructure for a war they did not authorize.
 
 ### Exhibit O: The Energy Weapon
 
-*   **The Event:** Oil prices surged immediately after the strikes. Iran controls or threatens the Strait of Hormuz—through which ~20% of global oil flows daily. Closure or disruption would produce a global energy crisis.
-*   **The Proof:** Commodity market data; shipping industry warnings; historical Hormuz contingency analysis.
-*   **The Meaning:** Energy instability is not a side effect—it is a lever. When oil prices spike, ordinary people pay more for gas and groceries while energy traders and defense contractors profit.
+*   **The Event:** Strait of Hormuz shipping traffic has **halted**. Four vessels hit in Gulf waters. Brent crude surged 13% to $82.37/barrel. Saudi Arabia shut its biggest refinery after a drone strike. Qatar halted all LNG production and declared force majeure on shipments.
+*   **The Proof:** [NPR: Oil prices surge because of Iran war](https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices); [Washington Post: Iran strikes stall traffic in Strait of Hormuz](https://www.washingtonpost.com/business/2026/03/02/oil-prices-strait-hormuz/); [CNBC: Oil soars amid Hormuz shipping fears](https://www.cnbc.com/2026/03/02/iran-us-oil-strait-hormuz-war-middle-east-energy-brent-crude-wti-conflict.html).
+*   **The Meaning:** Energy instability is not a side effect—it is a lever. When oil prices spike, ordinary people pay more for gas and groceries while energy traders and defense contractors profit. The energy weapon is live.
 
 ### Exhibit P: American Blood
 
-*   **The Event:** Three US servicemembers were killed in retaliatory strikes in the first days of the conflict.
-*   **The Proof:** Department of Defense confirmation.
-*   **The Meaning:** American men and women are dying in a war that Congress never authorized, that the stated policy said wasn't the objective (regime change), and that profits the same defense companies whose founders funded the politicians who ordered it. Follow the logic. Follow the money. Follow the blood.
+*   **The Event:** **Six US servicemembers** have been killed in retaliatory strikes. The President has stated the operation could take "four to five weeks"—with "the capability to go far longer."
+*   **The Proof:** Department of Defense confirmation; [CNN live updates](https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl).
+*   **The Meaning:** American men and women are dying in a war that Congress never authorized, that the stated policy said wasn't the objective (regime change), and that profits the same defense companies whose founders funded the politicians who ordered it. And it's projected to last weeks or more. Follow the logic. Follow the money. Follow the blood.
 
 ---
 
