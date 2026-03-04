@@ -19,6 +19,10 @@
 
 - **PART I: THE INTELLECTUAL HISTORY** — How a cluster of 19th-century reactionary ideas, Austrian economics, and French continental philosophy converged in a 1990s British university lab and migrated to Silicon Valley.
 - **PART II: THE NETWORK** — Who they are, what they control, and what they are doing right now, with sourced evidence.
+  - Sections 6–10: Core profiles, political operators, network map
+  - Section 10.5: Extended network — organizations, funding flows, and secondary figures
+  - Section 11: Cultural-informational infrastructure — media, platforms, think tanks, conferences, and the pipeline from 4chan to the boardroom
+  - Section 12: International operations and the military-tech nexus — Palantir's global surveillance, Anduril's weapons systems, SpaceX/Starlink geopolitics, defense contracting, and Network State operations worldwide
 - **PART III: THE EXIT STRATEGY** — How they are building private sovereign structures outside democratic control.
 - **PART IV: CIRCUMVENTING THE CONSTITUTION** — The specific mechanisms, from inside and outside, being used to render the Constitution irrelevant.
 - **PART V: THE EVIDENCE** — What is happening right now, cross-referenced to our case studies.
@@ -267,6 +271,12 @@ The collapse of **Sam Bankman-Fried** (convicted of fraud in 2023), who was EA's
 - **Life extension**: Thiel has invested in parabiosis research, cryonics, and anti-aging biotech — technologies accessible only to the ultra-wealthy. His vision is not merely political; it is biological: a caste system where the elite live indefinitely while the rest age and die.
 - **Exit infrastructure**: New Zealand citizenship and property (a 477-acre estate in Wanaka), providing a physical exit if the systems he is dismantling fail in unpredictable ways.
 
+**Capital Structure:** Thiel operates through an interlocking set of vehicles: **Founders Fund** ($17B AUM), **Thiel Capital** (personal investments), **Mithril Capital** (growth-stage), **Valar Ventures** (international), and **Clarium Capital** (macro hedge fund). Combined, these vehicles give Thiel direct or indirect stakes in hundreds of companies. Palantir alone was worth ~$170B at peak 2025 valuation.
+
+**Thiel Foundation:** Annual grantmaking of $4–8M. Key recipients include **MIRI** (Machine Intelligence Research Institute, $1.6M+), **Mercatus Center** ($250K in 2021, $1M to Emergent Ventures), **Ayn Rand Institute** ($400K+), and **SENS Foundation** (anti-aging research). The Foundation directly funded Yarvin's **Tlon** — $1.1M via Founders Fund and a16z in 2013, plus $100K to Tlon co-founder John Burnham in 2011. [34][35]
+
+**Israel and Girardian Politics:** Thiel told the Cambridge Union in 2024: *"My bias is to defer to Israel."* He visited Netanyahu in 2017 and has described Girardian theory — the idea that societies require a scapegoat to maintain order — as central to his worldview. His September 2025 "Antichrist lectures" — four sold-out private talks at the Commonwealth Club — applied Girardian analysis to contemporary politics, arguing that Western civilization is in a crisis of mimetic violence. [36][37]
+
 ### Curtis Yarvin — The Philosopher-in-Residence
 
 **Profile:** Computer programmer, blogger, founder of Tlon/Urbit (Thiel-funded).
@@ -301,6 +311,21 @@ The collapse of **Sam Bankman-Fried** (convicted of fraud in 2023), who was EA's
 - **Tesla Optimus**: Humanoid robot program designed to replace human labor entirely. Musk has described the resulting economy as "quasi-infinite" — but has not addressed who owns it.
 - **X/Twitter**: Purchased the platform and reinstated NRx-aligned accounts. This is understood within the NRx framework as "breaking the Cathedral's control over information."
 
+**Foreign Leader Relationships:** Musk maintains personal relationships with heads of state that operate outside any democratic accountability or diplomatic framework:
+
+| Leader | Relationship | Significance |
+|--------|-------------|-------------|
+| **Vladimir Putin** | WSJ reported regular private conversations since 2022. Putin allegedly asked Musk not to activate Starlink over Taiwan as favor to Xi. | Private citizen conducting foreign policy with adversary |
+| **Xi Jinping** | Tesla's $7B Shanghai Gigafactory makes Musk economically dependent on China. Praised Chinese workers vs. Americans. | Business interests create alignment with US adversary |
+| **Giorgia Meloni** | EUR 1.5B SpaceX-Italian government deal reportedly under negotiation (2024). Personal relationship widely reported. | Direct commercial diplomacy with NATO ally |
+| **Narendra Modi** | Tesla India expansion discussions. Modi visited Tesla factory. | Market access diplomacy |
+| **Javier Milei** | Endorsed Milei's presidency. Milei cited Musk as inspiration. | Libertarian alliance with elected leader |
+| **Mohammed bin Salman** | Saudi Public Investment Fund invested in Twitter acquisition. xAI partnership discussions. | Financial entanglement with authoritarian regime |
+
+**The Crimea Decision:** In September 2022, Musk refused to activate Starlink within 100km of Crimea, blocking a planned Ukrainian drone boat attack on the Russian fleet at Sevastopol. He subsequently restricted Ukraine from using Starlink for offensive operations (February 2023). Three US senators demanded a Pentagon investigation. This was a private citizen's unilateral veto of a wartime military operation. [38][39]
+
+**Personal Foreign Policy:** Musk joined Trump's calls with both Zelenskyy and Erdogan — a private citizen participating in head-of-state diplomacy with no constitutional authority, accountability, or oversight. [40]
+
 ### Marc Andreessen — The Propagandist
 
 **Profile:** Co-founder of Netscape and Andreessen Horowitz (a16z). Author of the Techno-Optimist Manifesto.
@@ -312,6 +337,10 @@ The collapse of **Sam Bankman-Fried** (convicted of fraud in 2023), who was EA's
 - **a16z "American Dynamism"**: A dedicated portfolio investing in defense technology, autonomous weapons, and national security companies — ensuring that the VC firm profits directly from militarization.
 - **AI deregulation lobbying**: a16z has spent heavily opposing AI safety legislation at both state and federal levels, framing safety regulation as anti-innovation.
 - **"Little Tech" agenda**: Andreessen positions himself as a champion of startups against big government, while his firm manages $35B+ in assets.
+
+**2024 Political Spending:** Andreessen and Ben Horowitz personally donated a combined ~$39M to Republican candidates and PACs in the 2024 cycle. a16z's total political spending across the cycle: **$89 million**. Their **Fairshake** crypto super PAC raised over **$200 million** — the largest corporate super PAC in history — with a16z contributing **$47 million**. Fairshake targeted pro-regulation candidates in both parties. [41][42]
+
+**Downstream Appointments:** a16z managing partner **Scott Kupor** was appointed director of the **Office of Personnel Management (OPM)** — the agency that controls federal hiring, the civil service, and workforce policy. The firm that spent $89M to reshape government now has its partner running the agency that manages the government workforce. [43]
 
 ### Palmer Luckey — The Weapons Maker
 
@@ -358,17 +387,23 @@ The collapse of **Sam Bankman-Fried** (convicted of fraud in 2023), who was EA's
 - As AI czar, oversaw the revocation of Biden's AI safety executive order and the preemption of state AI regulation — policies that directly benefit his portfolio of 449 AI companies. [7][8]
 - Bypassed Senate confirmation — the constitutional mechanism for preventing conflicts of interest in appointed officials.
 
+**Foreign Policy Positioning:** Sacks donated to the **Quincy Institute for Responsible Statecraft** — advocating restraint-oriented foreign policy. In July 2025, he publicly defended the reversal of China chip export controls, arguing that restrictions hurt American companies more than they constrained China. He has described himself as a *"bridge between Silicon Valley and Washington"* — translating tech industry preferences into government policy. [44]
+
 ### Balaji Srinivasan — The Network State Theorist
 
 **Profile:** Former Coinbase CTO, former a16z general partner, author of *The Network State* (2022).
 
 **Role:** Srinivasan provides the theoretical framework for the "Exit" strategy — a detailed, step-by-step program for building new sovereign entities outside existing nation-states. His book is the operational manual for what Praxis, Prospera, and the Freedom Cities EO are implementing. (See Part III.)
 
+**Network State Conference:** Srinivasan organized the first **Network State Conference** on October 30, 2023, in Amsterdam. Over **1,000 attendees** and **40+ speakers** — including charter city operators, crypto founders, and sovereign zone developers. The conference marked the transition of Network State theory from a book to an operational movement with coordinating infrastructure. [45]
+
 ---
 
 ## 9. The Secondary Network
 
-- **Patri Friedman**: Milton Friedman's grandson. Co-founder of Pronomos Capital (with Thiel). Founder of the Seasteading Institute. Has spent two decades working to create private sovereign jurisdictions — first on the ocean, now on land. [14]
+- **Patri Friedman**: Milton Friedman's grandson. Co-founder of Pronomos Capital (with Thiel). Founder of the Seasteading Institute. Has spent two decades working to create private sovereign jurisdictions — first on the ocean, now on land. Quote: democracy is *"ill-suited for a libertarian state."* [14]
+- **Vivek Ramaswamy**: Coined the term **"national libertarianism"** at NatCon 4. Named DOGE co-lead alongside Musk (departed early). Anti-administrative-state positioning from within the political system — Yarvin's ideas rendered in campaign-trail language. [46]
+- **Larry Ellison**: Oracle co-founder, **Stargate co-investor** ($500B AI venture). Deep Trump inner circle — participated in call about challenging 2020 election results. Owns 98% of **Lanai**, Hawaii — a 141-square-mile island run as a private domain. The closest existing approximation of a Network State operated by a single individual. [47]
 - **Blake Masters**: Thiel protégé, co-author of *Zero to One* with Thiel, 2022 Arizona Senate candidate (lost).
 - **Michael Kratsios**: Former US CTO, Thiel-network member.
 - **The consortium**: Palantir + Anduril + SpaceX + OpenAI + Scale AI jointly bidding Pentagon contracts. These five companies represent a **private defense establishment** that is rapidly becoming the primary contractor for US military AI capabilities. [21]
@@ -408,9 +443,284 @@ This is documented by Bloomberg, Washington Post, TechCrunch, NPR, and public co
 
 ---
 
+## 10.5. The Extended Network: Organizations, Funding, and Secondary Figures
+
+The network is wider than the 8 profiles above. Behind the named individuals sits an infrastructure of venture funds, dark-money organizations, and ideological operatives that finances, coordinates, and sustains the movement.
+
+### Patri Friedman — The Exit Engineer
+
+**Profile:** Milton Friedman's grandson. Google software engineer → founder of the **Seasteading Institute** (2008, seeded with Thiel's $500K) → founder of **Pronomos Capital** (2019, $9M seed from Thiel, Andreessen, and Srinivasan).
+
+**Active Projects:** Charter city ventures across the developing world: **Prospera** (Roatán, Honduras), **Itana** (Nigeria), **Vitalia** (Roatán health-freedom zone). Quote: democracy is *"ill-suited for a libertarian state."* Friedman is the operational arm of the movement — the person who translates Exit theory into physical jurisdictions. [14][48]
+
+### The Rockbridge Network
+
+**What it is:** Co-founded by **J.D. Vance and Chris Buskirk** in 2019 — a network of **8 organizations** including 4 dark-money 501(c)(4)s and 2 super PACs. Named donors include Peter Thiel, Rebekah Mercer, and the Winklevoss twins. The network has moved **$100M+** since 2019.
+
+**Significance:** Rockbridge is the financial plumbing connecting the NRx-adjacent intellectual project to electoral politics. It funded the pipeline that placed Vance in the VP slot and advanced "post-liberal" candidates at every level. Vance's role as co-founder means the Vice President personally built the dark-money apparatus that supports the network's political operations. [49][50]
+
+### Founders Fund
+
+**Profile:** Thiel's flagship VC firm. **$17B assets under management.** Portfolio includes Palantir, Anduril ($1B — the largest single investment), SpaceX, and dozens of defense/AI startups.
+
+**Media Operations:** **Mike Solana**, a Founders Fund partner, runs **Pirate Wires** — a Silicon Valley culture publication that systematically normalizes anti-regulatory, anti-institutional, and NRx-adjacent discourse. Pirate Wires functions as the informal media organ of the Thiel network. [51]
+
+**Portfolio Alignment:** Founders Fund's investment thesis is structurally aligned with NRx goals — defense autonomy, AI deregulation, crypto infrastructure, and the dismantling of regulatory barriers. Every policy win for the network directly increases the value of the portfolio.
+
+### a16z American Dynamism
+
+**Profile:** Andreessen Horowitz's **$600M defense and national security fund** (launched 2023). Portfolio includes **Anduril** (autonomous weapons), **Shield AI** (autonomous drones), **Hadrian** (precision manufacturing for defense), and other military-industrial startups.
+
+**Significance:** "American Dynamism" rebrands defense contracting as venture capital. It is the mechanism by which Silicon Valley capital flows into the military-industrial complex — and the mechanism by which military contracts flow back as returns to VC investors. The fund ensures that a16z profits from the same defense buildout its political spending enables. [52]
+
+### Pronomos Capital
+
+**Profile:** Founded by Patri Friedman (2019). **$9M seed round.** Investors include Thiel, Andreessen, Srinivasan, and Roger Ver (Bitcoin evangelist). Portfolio: **Prospera**, **Praxis**, **Itana**, and other charter city ventures.
+
+**Significance:** Pronomos is the operational arm of the Network State movement. While Srinivasan wrote the theory, Pronomos funds the implementation — investing directly in privately governed jurisdictions that operate outside democratic control. [14][48]
+
+### Thiel Foundation and Thiel Fellowship
+
+**Thiel Foundation:** Annual grantmaking of **$4–8M**. Key recipients: MIRI ($1.6M+), Mercatus Center ($250K), Ayn Rand Institute ($400K+), SENS Foundation (anti-aging). The Foundation directly funded Yarvin's Tlon — $1.1M via Founders Fund and a16z (2013), plus $100K to co-founder John Burnham (2011). The Foundation's grant portfolio is a map of the NRx intellectual infrastructure: AI risk institutes, libertarian economics, objectivist philosophy, and life extension. [34][35]
+
+**Thiel Fellowship:** **290+ fellows** since 2011. $200K over 2 years to drop out of college. Notable alumni: **Vitalik Buterin** (Ethereum), **Austin Russell** (Luminar), **Dylan Field** (Figma). The Fellowship is not ideologically NRx *per se* — but it embodies the anti-Cathedral thesis in practice, funding the creation of an elite outside traditional institutions. It is also a recruitment pipeline: fellows enter the Thiel network at 18–20 years old and remain connected for life. [53]
+
+---
+
+## 11. The Cultural-Informational Infrastructure
+
+Ideas do not propagate themselves. Between the philosophers (Part I) and the political operators (Sections 6–9) sits a **cultural-informational infrastructure** — the media outlets, platforms, think tanks, conferences, and meme pipelines that translate NRx theory into mainstream discourse. This section documents that infrastructure.
+
+### 11A. Media Infrastructure
+
+**Palladium Magazine** — Founded September 2018 by **Jonah Bennett** and **Wolf Tivy**. Editor-in-Chief: **Samo Burja** (governance theorist, founder of Bismarck Analysis).
+
+The key to understanding Palladium is its founders' backgrounds: Wolf Tivy posted online as **"Nyan Sandwich"** and **"Warg Franklin"** — a founding member of the **Hestia Society**, an explicitly NRx organizing group active in the 2013–2016 period. Samo Burja co-founded **"More Right"** in 2013 with **Michael Anissimov** (then at MIRI) — an explicitly neoreactionary publication.
+
+Palladium is the **"respectable" translation layer**: it repackages NRx-adjacent ideas — civilizational decline, institutional failure, post-liberal governance, the case for elite rule — in the format of an academic magazine. It does not call itself NRx; it does not need to. Its function is to normalize the premises so that the conclusions arrive later, through other channels. [54]
+
+**Pirate Wires** — Run by **Mike Solana** (Founders Fund). A Silicon Valley culture publication that systematically normalizes anti-regulatory, anti-institutional discourse. Its editorial voice treats government regulation as inherently incompetent, tech founders as civilizational heroes, and critics of tech power as "decels" or "NPCs." It is the informal media organ of the Thiel-Founders Fund network. [51]
+
+**The Claremont Institute** — Founded 1979. Key publications: *Claremont Review of Books* and *The American Mind* (online). Not NRx *per se*, but provides the **"respectable" intellectual framework** that the NRx political project requires. Its core thesis: American democracy has been captured by a hostile elite (the "administrative state"), the institutions are illegitimate, and extraordinary action is justified to reclaim them.
+
+The foundational text: **Michael Anton's "The Flight 93 Election"** (September 5, 2016, published in the *Claremont Review*) — which argued that the 2016 election was so consequential that conservatives must "charge the cockpit or die." This essay was the intellectual catalyst for Trumpism and remains the single most important text connecting NRx-adjacent ideas to Republican politics.
+
+**Funding:** Chairman and largest donor: **Tom Klingenstein**. Additional funders: **Bradley Foundation**, **Sarah Scaife Foundation**, **DeVos Family Foundation** ($800K, 2019–2022), **Donors Trust**. Annual revenue ~$7.5M. [55][56]
+
+**Gray Mirror** (Yarvin's Substack) — By June 2025, the **3rd most popular "history" publication on Substack**. This matters because Substack's recommendation algorithm exposes Yarvin's ideas to audiences far beyond the NRx core — readers who subscribe for historical analysis and gradually absorb anti-democratic premises.
+
+**The broader ecosystem:** Srinivasan's Substack (Network State theory), various e/acc accounts, the "post-liberal" Substack cluster (Compact, The Upheaval, American Affairs). Together these publications form a media ecosystem that is functionally independent of mainstream editorial gatekeepers and algorithmically self-reinforcing.
+
+### 11B. Platform Operations — X/Twitter as Infrastructure
+
+**The Nature Study (February 2026):** A field experiment published in *Nature* with **4,965 users** over **7 weeks** found that X/Twitter's algorithmic feed shifted political opinions toward conservative positions by **4.7 percentage points**. Conservative and activist posts were amplified while traditional news sources were demoted. Critically, the effects **persisted after users switched back to chronological feeds** — a one-way ratchet caused by restructuring of the follow graph (users followed conservative accounts recommended by the algorithm, and those follows persisted). [57]
+
+**Cybernews (July 2024):** Analysis found conservative posts were approximately **20% more likely** to appear in algorithmic feeds after Musk endorsed Trump. [58]
+
+**Musk's Platform as NRx Infrastructure:** The X algorithm is not specifically NRx-targeted — but the environment it creates (reinstated NRx-aligned accounts, amplified anti-institutional content, suppressed mainstream news) is one where NRx, e/acc, and anti-democratic rhetoric all benefit disproportionately. The platform does not need to promote NRx specifically; it only needs to erode trust in institutions and amplify heterodox right-leaning content. The NRx memeplex thrives in that environment.
+
+### 11C. The Pipeline — From 4chan to the Boardroom
+
+**"Red Pill" as NRx Entry Point:** Yarvin deployed the term "red pill" politically in 2007 in his essay **"The Case Against Democracy: Ten Red Pills"** — ten arguments against democratic governance, each framed as a revelation hidden by the Cathedral. The term spread: 4chan /pol/ → Reddit's "The Red Pill" subreddit (2012, initially a "men's rights" community) → the broader manosphere → mainstream conservative discourse. By 2020, "red-pilled" was used by sitting members of Congress. The origin is Yarvin's NRx blog. [59]
+
+**E/acc Propagation:** Effective accelerationism originated in **May–June 2022** from 4 pseudonymous Twitter users. It spread via Twitter Spaces discussions, then manifestos on Substack. By late 2023, **Andreessen**, **Garry Tan** (Y Combinator CEO), and other prominent VCs had added "e/acc" to their bios. Verdon was unmasked by Forbes in December 2023. The progression: anonymous shitposters → Substack manifestos → VC bios → the Techno-Optimist Manifesto → federal AI policy. [6]
+
+**"Decel" as Political Weapon:** The term "decel" emerged in 2023 and crystallized during the **OpenAI board crisis** (November 2023), when the firing and reinstatement of Sam Altman was framed across tech media as "accelerationists vs. decelerationists." The term collapses all forms of caution — safety research, regulation, democratic oversight, ethical review — into a single pejorative. If you question the pace of AI development, you are a "decel" — and decels, per the Manifesto, are murderers. [2]
+
+**Dark MAGA Aesthetics:** The first #DarkMAGA tweet appeared **March 12, 2022**, catalyzed by Madison Cawthorn's "vengeance" framing after electoral defeat. The aesthetic: red-and-black imagery, laser eyes, vaporwave/fashwave neon — borrowing from both internet irony culture and historical fascist visual design. Dark MAGA is crowdsourced and diffuse, not centrally coordinated — which makes it more resilient and harder to counter than top-down propaganda. [60]
+
+**Bellingcat's "From Memes to Infowars" (2018):** Documented the radicalization pathway from memes → organized extremism for **75 individuals**. The pipeline is not theoretical — it has been empirically traced. Internet culture produces real-world radicalization at measurable rates. [61]
+
+**The Rationalist Pipeline:** The **LessWrong** community (founded by Eliezer Yudkowsky, 2009) served as a bridge from academic philosophy to Silicon Valley. Yarvin was active in early LessWrong discussions. **Michael Anissimov** departed MIRI in 2013 over NRx views — he had been MIRI's media director while simultaneously co-founding "More Right," the NRx publication. **Scott Alexander** (Slate Star Codex, now Astral Codex Ten): publicly criticized NRx but a leaked 2014 email showed private sympathy toward "Human Biodiversity" proponents and neoreactionary thinkers. MIRI donors include Thiel and **Jaan Tallinn** (Skype co-founder). Yudkowsky is explicitly hostile to NRx — but the rationalist community, with its emphasis on IQ differences, AI risk, and institutional critique, served as an incubation space where NRx-adjacent ideas could develop and find their initial audience in the tech elite. [62][63]
+
+### 11D. Think Tank and Academic Capture
+
+**Mercatus Center / Emergent Ventures (George Mason University):** The Koch family has contributed **$30M+** to GMU. Thiel contributed **$250K** in 2021 and **$1M to Emergent Ventures** (Tyler Cowen's grant program for heterodox thinkers). Cowen's blog **Marginal Revolution** — one of the most-read economics blogs — functions as an audience pipeline for ideas that are skeptical of regulatory institutions. Mercatus is not NRx, but it funds the intellectual ecosystem in which NRx ideas circulate as "reasonable." [35]
+
+**Stanford Connections:** Thiel co-founded **The Stanford Review** in 1987 (a conservative campus newspaper). He is a **Hoover Institution** participant and fellow. He funded **Cardinal Conversations** with historian Niall Ferguson — a speaker series that brought controversial thinkers to Stanford's campus. The Stanford pipeline runs: Stanford Review → PayPal Mafia → Founders Fund → the current network. [64]
+
+**The Thiel Fellowship as Educational Counter-Institution:** 290+ fellows paid $200K to drop out of college. The Fellowship embodies the thesis that universities are overvalued — or, in NRx terms, that "the Cathedral" produces conformist thinking. By funding an alternative path to elite status that bypasses university credentialing, Thiel is building a parallel elite formation system. [53]
+
+### 11E. Conference Circuits and Private Coordination
+
+**National Conservatism Conference (NatCon):** Organized by the **Edmund Burke Foundation** (Yoram Hazony, David Brog, Christopher DeMuth). NatCon I (July 2019): **Thiel delivered the keynote**, attacking Google for alleged treason. NatCon II: **Viktor Orban** spoke. Subsequent conferences in Brussels, London, and Rome. NatCon is the networking hub where Silicon Valley's New Right meets European national conservatives, Catholic integralists, and post-liberal intellectuals. It is the conference circuit where the coalition is built. [65]
+
+**The Network State Conference:** Organized by Srinivasan. First event: October 30, 2023, Amsterdam. **1,000+ attendees, 40+ speakers** — charter city operators, crypto founders, sovereign zone developers. The conference marked the transition from theory to operational coordination. [45]
+
+**Dialog:** A **secretive, invite-only membership organization** co-founded by **Thiel and Auren Hoffman** approximately 20 years ago. No public website. No press coverage. Hand-picked attendees spanning Silicon Valley and Washington. Currently negotiating a permanent hub in **Northern Virginia**, near DC — positioning itself as a permanent coordination node between tech capital and political power. [66]
+
+**Thiel's Private Events:** January 2025 inauguration gathering at a **Beaux-Arts mansion** — attendees included Miriam Adelson, Mark Zuckerberg, and senior administration figures. September 2025 **"Antichrist lectures"** — 4 sold-out private lectures at the Commonwealth Club on Girardian theory. These events function as coordination mechanisms for an elite that communicates face-to-face, outside public scrutiny. [36][37]
+
+### 11F. Key Media Moments — When NRx Went Mainstream
+
+The NRx-to-mainstream pipeline has identifiable inflection points:
+
+| Date | Event | Significance |
+|------|-------|-------------|
+| **Sept 8, 2021** | **Tucker Carlson platforms Yarvin** on Fox Nation | Largest mainstream NRx exposure to date. Carlson's audience: millions. |
+| **April 20, 2022** | **Vanity Fair: "Inside the New Right"** | First major profile connecting Yarvin-Thiel-Vance-Masters as a coherent network. Vance described as *"a student at a guru's feet."* Noted Thiel's $10M+ to Vance and Masters super PACs. [67] |
+| **Oct 16, 2023** | **Andreessen's Techno-Optimist Manifesto** | 5,200 words explicitly citing Nick Land. a16z manages ~$35B. The most important mainstreaming event: NRx-adjacent philosophy endorsed by the most powerful VC firm in Silicon Valley. [2] |
+| **July 2024** | **Vance selected as VP** | Direct Yarvin-Thiel connection now one heartbeat from the presidency. |
+| **2024 cycle** | **a16z political mobilization** | Andreessen/Horowitz: ~$39M personal. a16z total: $89M. Fairshake super PAC: $200M raised, $47M from a16z. [41][42] |
+| **Jan 2025** | **NYT long-form Yarvin interview** | The *New Yorker* subsequently called him *"one of America's most influential illiberal thinkers"* and *"an engineer of the intellectual source code for the second Trump administration."* [68] |
+| **Ongoing** | **Bannon's documented intellectual debt** | Yarvin communicated with the White House through an intermediary during Trump's first term. The philosopher-to-policy pipeline was operational from 2017. [67] |
+
+---
+
+## 12. International Operations and the Military-Tech Nexus
+
+The network's ambitions are not limited to the United States. This section documents the international operations — surveillance, weapons systems, space infrastructure, defense contracting, and sovereign zone projects — that extend the network's power globally.
+
+### 12A. Palantir's Global Surveillance Footprint
+
+Palantir operates in **20+ countries** through three core platforms: **Gotham** (intelligence/law enforcement), **Foundry** (commercial data integration), and **AIP** (military AI decision-making). The company's global expansion follows a consistent pattern: enter through intelligence/defense contracts, expand into civilian government, establish dependency.
+
+**United Kingdom:**
+- ~**$1B MoD contract** (September 2025, five years) — awarded without competitive tender. Palantir hired **4 ex-MoD officials** before winning the contract. [69]
+- **GBP 330M NHS Federated Data Platform** (November 2023) — Palantir now manages the health data infrastructure for the UK's national health service. [70]
+- London established as Palantir's **European defence headquarters**.
+
+**France:**
+- **DGSI contract** (Direction Générale de la Sécurité Intérieure — France's domestic intelligence agency) renewed December 2025 for three years. Partnership since 2016. Palantir supported security operations for the **2024 Paris Olympics**. [71]
+
+**NATO:**
+- **Maven Smart System contract** (April 2025) — deploying AI battlefield operations across the entire NATO alliance. Project Maven originated as a Pentagon AI pilot; it is now the standard for NATO military AI. [72]
+
+**Israel:**
+- **Strategic partnership** with the Israeli Defense Ministry signed January 2024. Thiel and CEO Alex Karp visited Tel Aviv for the signing. Palantir provides logistics and manpower management; the company denies involvement with the **"Lavender" targeting database** (an AI system reportedly used to generate bombing targets in Gaza). [73][74]
+
+**European Police:**
+- **Europol**: Gotham platform, since 2012.
+- **Denmark**: POL-INTEL predictive policing system, since 2017.
+- **Netherlands**: Operations since 2011, confirmed publicly only in 2025 — 99% of responsive documents were redacted.
+- **Germany**: 3 state police forces.
+- **UK police**: Real-time surveillance network reported by Liberty Investigates. [75]
+
+**Five Eyes Alliance:**
+- Australian operations began in 2011, specifically for **Five Eyes** intelligence sharing. **AUD $100M+** in Australian surveillance contracts. Palantir maintains subsidiaries in all 5 Five Eyes nations (US, UK, Canada, Australia, New Zealand). Total Five Eyes contracts: **940 contracts totaling $1.5B** from 2007–2021. [76]
+
+### 12B. Anduril's Weapons Systems
+
+Anduril is building the autonomous weapons arsenal for the next generation of warfare. Current systems:
+
+| System | Type | Status | Customers |
+|--------|------|--------|-----------|
+| **Altius-600/700** | Loitering munitions (kamikaze drones) | Deployed | US, Ukraine, Taiwan (131 units, 2025) |
+| **Ghost Shark** | Autonomous submarine | AUD $1.7B contract, first delivery Jan 2026 | Royal Australian Navy (AUKUS) |
+| **Roadrunner-M** | Autonomous air defense interceptor | Operational Jan 2025 | US military |
+| **YFQ-44 "Fury"** | Autonomous combat aircraft (CCA) | First flight Oct 31, 2025 (~1,000 planned) | US Air Force |
+| **Lattice OS** | AI command-and-control backbone | Operational | All Anduril systems |
+| **IVAS headset** | Mixed-reality combat headset | Up to $22B takeover from Microsoft (120K units) | US Army |
+| **Ghost X** | Small tactical UAS (drone) | Deployed | US military |
+
+**Customer countries:** US, Australia (AUKUS Pillar II), UK, Ukraine, Taiwan, South Korea.
+
+**AUKUS centrality:** Ghost Shark is designed for Virginia-class submarine operations. Anduril is central to **AUKUS Pillar II** — the autonomy, AI, and undersea systems component of the trilateral alliance. The company is becoming the autonomous weapons provider for the anglophone military alliance. [77][78][79]
+
+### 12C. SpaceX/Starlink as Geopolitical Infrastructure
+
+SpaceX's Starlink constellation and Starshield program have made Musk's company a critical node in global communications and intelligence infrastructure — one controlled by a single individual with no democratic accountability.
+
+**Starlink in Ukraine:**
+- Operational on *"all front lines"* of the Ukraine-Russia war.
+- Musk **refused activation within 100km of Crimea**, blocking a planned drone boat attack on the Russian fleet at Sevastopol (September 2022).
+- Musk **restricted Ukraine from offensive use** of Starlink (February 2023).
+- **3 US senators** demanded a Pentagon investigation into Musk's unilateral decisions affecting wartime operations.
+- A private citizen's communications infrastructure became a veto point for military operations in a war involving US interests. [38][39]
+
+**Starshield (Military/Intelligence):**
+- **NRO $1.8B spy satellite contract** (2021) — building a classified constellation for the National Reconnaissance Office.
+- **Space Force $70M contract** (September 2023), with a **$13B ceiling over 10 years**.
+- Starshield is the military-classified version of Starlink — a global surveillance and communications network operated by a private company with a single controlling shareholder. [80]
+
+**Taiwan Strait:**
+- Chinese defense researchers calculated **935–2,000 jamming platforms** needed to counter Starlink over Taiwan in a conflict scenario.
+- WSJ reported Putin allegedly asked Musk not to activate Starlink over Taiwan as a favor to Xi Jinping (disputed by Musk). [81]
+- Starlink's availability or denial over Taiwan could determine the outcome of a cross-strait conflict — and that decision rests with one person.
+
+**Musk's Personal Foreign Policy:** Beyond Starlink decisions, Musk joined Trump's calls with both **Zelenskyy** and **Erdogan** — a private citizen participating in head-of-state diplomacy. He maintains documented personal relationships with Putin, Xi, Modi, Meloni, Milei, and MBS. No American private citizen has ever exercised this level of unaccountable foreign policy influence. [40]
+
+### 12D. The Defense Contracting Ecosystem
+
+The network's companies are not merely government contractors — they are becoming **the private defense establishment** for US military AI.
+
+**Project Maven — The Template:**
+- Pentagon launched Project Maven in 2017 (AI for drone footage analysis).
+- **Google withdrew** in 2018 after employee protests.
+- **Palantir became prime contractor** in 2021.
+- Initial contract: **$480M** (May 2024). Expanded to **$1.3B ceiling** (May 2025).
+- Extended to **NATO** (April 2025) via Maven Smart System.
+- The arc: public company refused on ethical grounds → private, NRx-aligned company took over → program expanded from Pentagon to entire alliance. [72][82]
+
+**JADC2 (Joint All-Domain Command and Control) Contracts:**
+- Palantir: TITAN ($8.5M), Army AI/ML R&D (up to $250M), Army software ($10B ceiling), Air Force data-as-a-service ($100M+).
+- Anduril: NGC2 ($99.6M).
+- These contracts give the network's companies control over the **AI decision-making layer** of US military operations. [83]
+
+**Pentagon Replicator Program:**
+- Launched August 2023 to field thousands of autonomous systems quickly. Fell short of targets.
+- Renamed **DAWG (Delivering Autonomous Warfighting at Guerrilla speed)** under Trump, refocused on larger attack drones.
+- Primary beneficiaries: Anduril, Shield AI, and other network-adjacent defense tech companies. [84]
+
+**The Consortium:**
+- **Palantir + Anduril + SpaceX + OpenAI + Scale AI** jointly bidding Pentagon contracts.
+- These 5 companies are becoming the **private defense establishment** for US military AI — the 21st-century equivalent of the military-industrial complex, but concentrated in fewer hands and ideologically aligned. [21]
+
+**Autonomous Warfare Systems — Summary Table:**
+
+| System | Company | Function | Status |
+|--------|---------|----------|--------|
+| CCA "Fury" (YFQ-44) | Anduril | Autonomous combat aircraft | First flight Oct 2025 |
+| Roadrunner-M | Anduril | Autonomous air defense | Operational Jan 2025 |
+| Ghost Shark | Anduril | Autonomous submarine | First delivery Jan 2026 |
+| Altius-600/700 | Anduril | Loitering munitions | Deployed (Ukraine, Taiwan) |
+| Maven Smart System | Palantir | AI battlefield intelligence | NATO-wide deployment |
+| TITAN | Palantir | Tactical intelligence targeting | US Army |
+| IVAS | Anduril (from Microsoft) | Mixed-reality combat headset | 120K units planned |
+| Starshield | SpaceX | Military satellite constellation | Operational |
+
+### 12E. Network State International Operations
+
+The "Exit" strategy is not theoretical — it is being implemented across the developing world.
+
+**Prospera vs. Honduras:**
+- After Honduras repealed its ZEDE law, Prospera filed an **ISDS (Investor-State Dispute Settlement)** claim initially valued at **$10.775 billion** — approximately **60% of Honduras's GDP**. The claim was later revised to **$1.6 billion**.
+- February 2025: the arbitration tribunal **rejected Honduras's motion to dismiss**.
+- Prospera is now exploring expansion into **Guatemala, Dominican Republic, Haiti, and African nations**.
+- The message to developing countries: if you grant a charter zone and then try to reclaim it, you will be sued for a generation's worth of GDP. Democratic reversal has a price. [85]
+
+**Praxis:**
+- Claims **151,000 "citizens"** (likely email subscribers or app registrants).
+- **$525M** in committed funding.
+- Explored sites in the Mediterranean and **Greenland** (November 2024 — met with Greenlandic politicians, coinciding with Trump's Greenland push).
+- Selected a California site called **"Atlas"** (June 2025) — the first US-based Network State city.
+- Governed by corporate charter, not constitution. [26][27]
+
+**El Salvador Bitcoin City:**
+- Announced 2021 by President Bukele. No construction has begun.
+- $1.6B port investment from Yilport Holdings.
+- February 2025: **Abandoned Bitcoin as legal tender** under IMF pressure ($1.4B loan conditionality).
+- The first Network State-adjacent project to fail under sovereign fiscal pressure. [86]
+
+**NEOM (Saudi Arabia):**
+- Advisory board originally included Altman, Andreessen, Kalanick, and Masayoshi Son.
+- Pivoting from megacity to **data center hub**: 500MW facility with Musk's xAI. Web3 accelerator launched January 2025.
+- Not ideologically NRx, but the overlapping investors and advisors demonstrate the network's global reach. Saudi sovereign capital and Silicon Valley tech capital are converging on the same projects. [87]
+
+**Africa:**
+- **Itana** (Nigeria) — Pronomos Capital-backed charter city.
+- **Nkwashi** (Zambia) — private planned city in development.
+- **Silicon Zanzibar** — tech hub initiative.
+- Prospera reportedly in talks with **"dozens" of African governments** about charter zone frameworks.
+- Africa's weak institutional environments and need for foreign investment make it the primary target for Network State expansion. [48]
+
+**Southeast Asia:** A **360 sq km city development** has been reported (country unconfirmed). Details sparse — but the scale (larger than most Network State projects) suggests a major initiative.
+
+---
+
 # PART III: THE EXIT STRATEGY — BUILDING PRIVATE NATIONS
 
-## 11. The Network State Theory
+## 13. The Network State Theory
 
 ### Srinivasan's Framework
 
@@ -438,7 +748,7 @@ The vision is a world of competing micro-states — Srinivasan frequently invoke
 
 ---
 
-## 12. Active Projects
+## 14. Active Projects
 
 ### Praxis ($525M)
 
@@ -478,7 +788,7 @@ The vision is a world of competing micro-states — Srinivasan frequently invoke
 
 ---
 
-## 13. How They Build Outside the US
+## 15. How They Build Outside the US
 
 The pattern is consistent across projects:
 
@@ -498,7 +808,7 @@ The pattern is consistent across projects:
 
 # PART IV: CIRCUMVENTING THE CONSTITUTION
 
-## 14. From Outside: Building Parallel Systems
+## 16. From Outside: Building Parallel Systems
 
 The Constitution's power depends on jurisdiction — it governs what happens within the US legal system. The "outside" strategy creates structures that operate *beyond* constitutional jurisdiction:
 
@@ -515,7 +825,7 @@ The Constitution's power depends on jurisdiction — it governs what happens wit
 
 ---
 
-## 15. From Inside: Capturing the State to Gut It
+## 17. From Inside: Capturing the State to Gut It
 
 The "inside" strategy uses the machinery of the state to dismantle the state from within:
 
@@ -540,7 +850,7 @@ The "inside" strategy uses the machinery of the state to dismantle the state fro
 
 ---
 
-## 16. The Constitutional Weak Points They Exploit
+## 18. The Constitutional Weak Points They Exploit
 
 The Constitution was not designed for an executive branch intent on dismantling itself. The specific vulnerabilities:
 
@@ -556,7 +866,7 @@ The Constitution was not designed for an executive branch intent on dismantling 
 
 ---
 
-## 17. The Endgame: What "Exit" Looks Like If They Win
+## 19. The Endgame: What "Exit" Looks Like If They Win
 
 If the accelerationist project succeeds — if the state is hollowed out, the Network States proliferate, and the constitutional order is rendered irrelevant — the result is not a new form of government. It is **fragmentation into corporate fiefdoms alongside a degraded rump state.**
 
@@ -571,7 +881,7 @@ If the accelerationist project succeeds — if the state is hollowed out, the Ne
 
 # PART V: THE EVIDENCE — WHAT'S HAPPENING RIGHT NOW
 
-## 18. The 2025-2026 Acceleration
+## 20. The 2025-2026 Acceleration
 
 Every prediction made in our source documents has been tested against reality. The results:
 
@@ -596,9 +906,9 @@ Every prediction made in our source documents has been tested against reality. T
 
 ---
 
-## 19. The Timeline of Convergence
+## 21. The Timeline of Convergence
 
-From inauguration to Iran strikes — 14 months of acceleration:
+From inauguration to Iran strikes — 14 months of acceleration (see also §12D for defense contracting detail):
 
 | Date | Event | Significance |
 |------|-------|-------------|
@@ -618,7 +928,7 @@ From inauguration to Iran strikes — 14 months of acceleration:
 
 ---
 
-## 20. What Comes Next — Scenarios
+## 22. What Comes Next — Scenarios
 
 | Scenario | Probability | Key Indicators |
 |----------|------------|---------------|
@@ -641,13 +951,19 @@ From inauguration to Iran strikes — 14 months of acceleration:
 
 # CONCLUSION
 
-## 21. The Core Argument
+## 23. The Core Argument
 
 This document has traced a single phenomenon across multiple dimensions:
 
 **The ideology** (Part I) provides the justification: democracy is a failed experiment, humans are a bottleneck, the future belongs to sovereign corporate intelligence.
 
-**The network** (Part II) provides the execution: a tightly connected group of billionaires, their political operatives, and their companies, appearing across every domain of American power.
+**The network** (Part II, Sections 6–10) provides the execution: a tightly connected group of billionaires, their political operatives, and their companies, appearing across every domain of American power.
+
+**The extended network** (Part II, Section 10.5) maps the funding infrastructure: Rockbridge Network dark money, Founders Fund portfolio alignment, Pronomos Capital charter city investments, Thiel Foundation grantmaking.
+
+**The cultural-informational infrastructure** (Part II, Section 11) documents how the ideas propagate: from Palladium Magazine and Pirate Wires through X's algorithmic amplification, from 4chan red pills to VC bios, from LessWrong forums to Claremont Institute publications, through NatCon conferences and Thiel's private gatherings.
+
+**The international operations** (Part II, Section 12) shows the global reach: Palantir in 20+ countries, Anduril's autonomous weapons across allied militaries, Starlink as geopolitical veto point, the consortium as private defense establishment, Network State projects across 4 continents.
 
 **The exit strategy** (Part III) provides the destination: private sovereign zones outside democratic accountability, funded by crypto, governed by corporate charter, populated by shareholders instead of citizens.
 
@@ -672,30 +988,34 @@ The Human Standard accepts the accelerationist *premise* — technology is trans
 
 ---
 
-## 22. Cross-Reference Index
+## 24. Cross-Reference Index
 
 | Topic | This Document Section | Related Documents |
 |-------|----------------------|-------------------|
 | NRx definitions and concepts | Part I, Sections 1–5 | `strategy/intelligence/ACCELERATIONISM_AND_NRX.md` (quick reference) |
 | Key figure profiles | Part II, Sections 6–9 | `strategy/intelligence/THE_POST_HUMAN_CABAL.md` (compact dossier) |
+| Extended network and funding | Part II, Section 10.5 | `strategy/intelligence/STATE_OF_NRX_2026.md` (faction analysis) |
+| Cultural-informational infrastructure | Part II, Section 11 | — |
+| International operations & military-tech | Part II, Section 12 | `strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md` |
 | Current state of the ideology | Part I §5, Part II | `strategy/intelligence/STATE_OF_NRX_2026.md` (faction analysis) |
-| Iran strikes evidence | Part V §18–19 | `proof/IRAN_STRIKES_2026.md` (Case Study #1) |
-| DOGE/Schedule F evidence | Part IV §15, Part V | `proof/DOGE_AND_NRX_CAPTURE_2025.md` (Case Study #2) |
-| Alliance erosion evidence | Part V §18–19 | `proof/ALLIANCE_EROSION_2025.md` (Case Study #3) |
+| Iran strikes evidence | Part V §20–21 | `proof/IRAN_STRIKES_2026.md` (Case Study #1) |
+| DOGE/Schedule F evidence | Part IV §17, Part V | `proof/DOGE_AND_NRX_CAPTURE_2025.md` (Case Study #2) |
+| Alliance erosion evidence | Part V §20–21 | `proof/ALLIANCE_EROSION_2025.md` (Case Study #3) |
 | Tech oligarchy evidence | Part II §10, Part V | `proof/TECH_OLIGARCHY_2025.md` (Case Study #4) |
-| Network State projects | Part III, Sections 11–13 | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction A) |
-| Constitutional mechanisms | Part IV, Sections 14–17 | `proof/DOGE_AND_NRX_CAPTURE_2025.md` (Schedule F, EOs) |
-| Geopolitical analysis | Part V §18–20 | `strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md` |
-| Prediction tracker | Part V §18 | `proof/OVERVIEW.md` (master table) |
-| Counter-strategy | §21 | `strategy/THE_COUNTER_COUP.md` |
+| Network State projects | Part III, Sections 13–15 | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction A) |
+| Constitutional mechanisms | Part IV, Sections 16–19 | `proof/DOGE_AND_NRX_CAPTURE_2025.md` (Schedule F, EOs) |
+| Geopolitical analysis | Part V §20–22 | `strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md` |
+| Prediction tracker | Part V §20 | `proof/OVERVIEW.md` (master table) |
+| Counter-strategy | §23 | `strategy/THE_COUNTER_COUP.md` |
 | Public messaging | — | `action/messaging/WARNING_TO_EVERYONE.md`, `action/messaging/THE_RECEIPTS.md` |
 
 ### Recommended Reading Order
 
 1. **If you have 10 minutes**: Read Part I §1 (the five streams) and Part II §10 (the network map).
-2. **If you have 30 minutes**: Add Part III (the exit strategy) and Part IV (constitutional circumvention).
-3. **If you have an hour**: Read end-to-end.
-4. **For the evidence base**: Start with `proof/OVERVIEW.md`, then follow links to individual case studies.
+2. **If you have 30 minutes**: Add §11F (key media moments) and Part III (the exit strategy).
+3. **If you have an hour**: Add §11 (cultural infrastructure), §12 (international operations), and Part IV (constitutional circumvention).
+4. **If you have two hours**: Read end-to-end.
+5. **For the evidence base**: Start with `proof/OVERVIEW.md`, then follow links to individual case studies.
 
 ---
 
@@ -770,6 +1090,116 @@ The Human Standard accepts the accelerationist *premise* — technology is trans
 [32] Oxford Academic, "Governing by Decree — Trump's executive orders," 2025. https://academic.oup.com/psq/advance-article/doi/10.1093/psquar/qqaf091/8326651
 
 [33] Protect Democracy, "Trump administration conflict with the courts." https://protectdemocracy.org/work/the-trump-administrations-conflict-with-the-courts-explained/
+
+### Extended Network, Cultural Infrastructure, and International Operations
+
+[34] ProPublica, "Thiel Foundation grants and recipients," IRS Form 990 filings analysis. See also InfluenceWatch, "Thiel Foundation."
+
+[35] InfluenceWatch, "Thiel Foundation — grantmaking, recipients, and financial data." https://www.influencewatch.org/non-profit/thiel-foundation/
+
+[36] San Francisco Chronicle, "Peter Thiel's 'Antichrist' lectures at Commonwealth Club sell out," September 2025.
+
+[37] The Guardian, "Peter Thiel's Girardian worldview and political influence," 2024.
+
+[38] Washington Post, "Elon Musk's Starlink refusal near Crimea," reporting on Walter Isaacson biography, September 2023.
+
+[39] CNN, "Senators demand Pentagon investigation into Musk Starlink decisions in Ukraine," 2023.
+
+[40] NBC News, "Elon Musk joined Trump calls with foreign leaders including Zelenskyy and Erdogan," 2025.
+
+[41] OpenSecrets, "Andreessen Horowitz 2024 election cycle political spending," 2024. https://www.opensecrets.org/
+
+[42] OpenSecrets, "Fairshake super PAC — receipts and expenditures," 2024. https://www.opensecrets.org/political-action-committees-pacs/fairshake/C00835447/summary/2024
+
+[43] Reuters, "Scott Kupor, a16z managing partner, named OPM director," 2025.
+
+[44] Quincy Institute for Responsible Statecraft. See also reporting on Sacks's China chip export position, July 2025.
+
+[45] The Network State Conference, Amsterdam, October 30, 2023. https://thenetworkstate.com/conference
+
+[46] National Conservatism Conference (NatCon 4), Vivek Ramaswamy speech on "national libertarianism," 2024.
+
+[47] Bloomberg, "Larry Ellison and the Stargate AI venture," 2025. See also reporting on Lanai operations and 2020 election call participation.
+
+[48] Pronomos Capital portfolio companies. https://pronomos.vc/ — See also: Charter Cities Institute, Itana, Vitalia documentation.
+
+[49] Wikipedia, "Rockbridge Network." See also Reuters, "The political network behind J.D. Vance," 2024.
+
+[50] Reuters, "Rockbridge Network dark-money organizations and donors," 2024.
+
+[51] Pirate Wires. https://www.piratewires.com/ — Publication run by Mike Solana, Founders Fund.
+
+[52] a16z, "American Dynamism fund," 2023. https://a16z.com/american-dynamism/
+
+[53] Thiel Fellowship. https://thielfellowship.org/ — See also Forbes, "Thiel Fellowship alumni outcomes."
+
+[54] Palladium Magazine. https://www.palladiummag.com/ — See also reporting on Wolf Tivy/Hestia Society connections and Samo Burja/"More Right" co-founding.
+
+[55] Rolling Stone, "Inside the Claremont Institute," 2022. See also Conservative Transparency database for funding data.
+
+[56] Conservative Transparency, "Claremont Institute funding sources — Bradley Foundation, Sarah Scaife Foundation, DeVos Family Foundation." https://www.conservativetransparency.org/
+
+[57] Guess, A., et al., "Reshaping the information environment on a social media platform," *Nature*, February 2026. Field experiment with 4,965 users demonstrating 4.7pp political opinion shift.
+
+[58] Cybernews, "Conservative content amplification on X/Twitter after Musk Trump endorsement," July 2024.
+
+[59] Curtis Yarvin, "The Case Against Democracy: Ten Red Pills," *Unqualified Reservations*, 2007.
+
+[60] First #DarkMAGA tweet, March 12, 2022. See also academic analysis of fashwave/vaporwave political aesthetics.
+
+[61] Bellingcat, "From Memes to Infowars: How 75 Fascist Activists Were 'Red-Pilled,'" 2018.
+
+[62] Scott Alexander leaked email, 2014. See also New York Times, "Silicon Valley's Safe Space," February 2021 (Slate Star Codex profile).
+
+[63] MIRI donor records. See also reporting on Michael Anissimov departure and "More Right" founding.
+
+[64] Stanford Review founding (1987) — Peter Thiel co-founder. See also Hoover Institution fellows list, Cardinal Conversations with Niall Ferguson.
+
+[65] Edmund Burke Foundation, National Conservatism Conference series. https://nationalconservatism.org/ — NatCon I (2019, Thiel keynote), NatCon II (Orban speech), subsequent European conferences.
+
+[66] Reporting on "Dialog" — Thiel/Auren Hoffman secretive membership organization. See also Fox News / tech press coverage of Northern Virginia hub negotiations.
+
+[67] James Pogue, "Inside the New Right, Where Peter Thiel Is Placing His Biggest Bets," *Vanity Fair*, April 20, 2022.
+
+[68] The New Yorker, profile of Curtis Yarvin as "one of America's most influential illiberal thinkers," 2025. See also New York Times long-form Yarvin interview, January 2025.
+
+[69] OpenDemocracy, "Palantir's £1B MoD contract awarded without competitive tender — 4 ex-MoD officials hired," September 2025.
+
+[70] NHS England, "Federated Data Platform — Palantir contract award," November 2023. GBP 330M.
+
+[71] BusinessWire, "Palantir DGSI contract renewal," December 2025. Three-year renewal, partnership since 2016.
+
+[72] DefenseScoop, "Project Maven contract expansion to $1.3B ceiling," May 2025. See also NATO Maven Smart System deployment, April 2025.
+
+[73] Globes (Israel), "Palantir strategic partnership with Israeli Defense Ministry," January 2024.
+
+[74] Responsible Statecraft, "Palantir's Israel operations and the Lavender targeting system," 2024.
+
+[75] Liberty Investigates, "UK police real-time surveillance network using Palantir," 2025. See also reporting on Europol, Denmark, Netherlands, and German police deployments.
+
+[76] Five Eyes Palantir contracts analysis — 940 contracts, $1.5B total, 2007–2021. See also Australian operations documentation from 2011.
+
+[77] Breaking Defense, "Anduril Ghost Shark autonomous submarine — AUD $1.7B contract," 2025.
+
+[78] Fortune, "Anduril YFQ-44 Fury autonomous combat aircraft first flight," October 31, 2025.
+
+[79] Wikipedia, "Anduril Industries — weapons systems, contracts, and customer countries." See also AUKUS Pillar II autonomous systems documentation.
+
+[80] Reuters, "SpaceX Starshield — NRO $1.8B spy satellite contract," 2021. See also Space Force $70M/$13B ceiling contract, September 2023.
+
+[81] Wall Street Journal, "Putin asked Musk not to activate Starlink over Taiwan," 2023. See also Chinese defense researchers' Starlink jamming calculations.
+
+[82] Google employee protests and withdrawal from Project Maven, 2018. See also Palantir assumption of prime contractor role, 2021.
+
+[83] JADC2 contract awards — Palantir TITAN ($8.5M), Army software ($10B ceiling), Air Force ($100M+). Anduril NGC2 ($99.6M).
+
+[84] Pentagon Replicator program (August 2023) → renamed DAWG under Trump administration. Refocused on larger autonomous attack systems.
+
+[85] CounterPunch, "Prospera vs. Honduras ISDS claim — $10.775B initial, revised to $1.6B," 2025. See also arbitration tribunal ruling, February 2025.
+
+[86] El Salvador Bitcoin City. See also IMF conditionality requiring abandonment of Bitcoin legal tender status, February 2025.
+
+[87] NEOM documentation — advisory board composition, xAI 500MW data center, Web3 accelerator (January 2025).
 
 ### Intellectual History — Further Reading
 

@@ -10,6 +10,38 @@
 
 ## March 2026
 
+### Mar 4, 2026 — THE ACCELERATIONIST PLAYBOOK: Major Expansion — Deep Operational Detail
+
+- **Expanded** `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md` — from ~803 lines to **~1,234 lines** (~430 new lines of sourced content). Three new major sections added within Part II, plus deepened existing profiles. Sections renumbered (Part III: 13–15, Part IV: 16–19, Part V: 20–22, Conclusion: 23–24):
+
+  **New Section 10.5 — Extended Network: Organizations, Funding, and Secondary Figures** (~150 lines):
+  - Deep profiles: Patri Friedman (Seasteading → Pronomos Capital), The Rockbridge Network (Vance/Buskirk, $100M+ dark money), Founders Fund ($17B AUM, Pirate Wires media), a16z American Dynamism ($600M defense fund), Pronomos Capital ($9M seed, charter city portfolio), Thiel Foundation ($4-8M annual grants, MIRI/Mercatus/ARI/SENS/Tlon recipients), Thiel Fellowship (290+ fellows).
+
+  **New Section 11 — Cultural-Informational Infrastructure** (~250 lines):
+  - **11A: Media Infrastructure** — Palladium Magazine (NRx translation layer, Hestia Society/More Right connections), Pirate Wires, Claremont Institute (funding: $7.5M, "Flight 93 Election"), Gray Mirror on Substack, post-liberal media ecosystem.
+  - **11B: Platform Operations** — Nature study (Feb 2026): X algorithm shifted political opinions 4.7pp conservative in 7-week field experiment with 4,965 users. One-way ratchet effect.
+  - **11C: The Pipeline** — Red pill origins (Yarvin 2007 → 4chan → Reddit → mainstream), e/acc propagation (2022 pseudonymous tweets → VC bios → federal policy), "decel" as political weapon, Dark MAGA aesthetics, Bellingcat meme-to-extremism study, Rationalist/LessWrong pipeline.
+  - **11D: Think Tank and Academic Capture** — Mercatus Center/Emergent Ventures (Koch $30M+, Thiel $1.25M), Stanford connections (Stanford Review 1987, Hoover, Cardinal Conversations).
+  - **11E: Conference Circuits** — NatCon (Thiel keynote 2019, Orban), Network State Conference (Amsterdam 2023, 1,000+), Dialog (Thiel/Hoffman, secretive, Northern Virginia hub), Thiel private events.
+  - **11F: Key Media Moments** — Tucker/Yarvin (2021), Vanity Fair "Inside the New Right" (2022), Techno-Optimist Manifesto (2023), Vance VP selection, a16z $89M political spending, NYT/New Yorker Yarvin profiles (2025), Bannon intellectual debt.
+
+  **New Section 12 — International Operations and the Military-Tech Nexus** (~200 lines):
+  - **12A: Palantir Global** — 20+ countries. UK (~$1B MoD, NHS £330M), France (DGSI), NATO (Maven Smart System), Israel (Defense Ministry partnership), European police (Europol, Denmark, Netherlands, Germany, UK), Five Eyes (940 contracts, $1.5B).
+  - **12B: Anduril Weapons** — Full systems table: Altius, Ghost Shark (AUD $1.7B), Roadrunner-M, YFQ-44 Fury (~1,000 planned), Lattice OS, IVAS ($22B), Ghost X. Customer countries: US, Australia, UK, Ukraine, Taiwan, South Korea. AUKUS Pillar II centrality.
+  - **12C: SpaceX/Starlink** — Ukraine Crimea decision, Starshield (NRO $1.8B, Space Force $13B ceiling), Taiwan Strait implications, Musk personal foreign policy (Putin, Xi, Meloni, Modi, Milei, MBS).
+  - **12D: Defense Contracting** — Project Maven arc ($480M → $1.3B → NATO), JADC2 contracts, Pentagon Replicator/DAWG, the consortium (5 companies as private defense establishment), autonomous warfare systems table.
+  - **12E: Network State International** — Prospera vs. Honduras ($10.775B → $1.6B ISDS claim), Praxis (151K citizens, $525M, Atlas CA site), El Salvador Bitcoin City (abandoned legal tender), NEOM (data center pivot), Africa (Itana, Nkwashi, Silicon Zanzibar), Southeast Asia (360 sq km).
+
+  **Expanded Existing Profiles:**
+  - **Thiel (§6)**: Capital structure (Founders Fund/Thiel Capital/Mithril/Valar/Clarium), Thiel Foundation grantmaking detail, Israel/Girardian politics, Cambridge Union quote, Antichrist lectures.
+  - **Musk (§7)**: Foreign leader relationships table (Putin, Xi, Meloni, Modi, Milei, MBS), Crimea decision detail, joined Trump calls with Zelenskyy/Erdogan.
+  - **Andreessen (§7)**: $39M personal + Horowitz 2024 donations, a16z $89M total, Fairshake $200M/$47M, Scott Kupor → OPM director.
+  - **Sacks (§8)**: Quincy Institute donation, China chip export reversal, "bridge between Silicon Valley and Washington."
+  - **Srinivasan (§8)**: Network State Conference detail (Amsterdam, Oct 2023, 1,000+).
+  - **Secondary Network (§9)**: Vivek Ramaswamy (national libertarianism, NatCon 4, DOGE), Larry Ellison (Stargate, Lanai, Trump inner circle).
+
+  **Sources expanded from 33 to 87 numbered citations** plus extended bibliography. Cross-reference index and table of contents updated.
+
 ### Mar 4, 2026 — THE ACCELERATIONIST PLAYBOOK: Comprehensive Intelligence Dossier
 
 - **Created** `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md` — **The definitive reference document** (~1,100 lines). Comprehensive treatment covering:
