@@ -158,6 +158,8 @@ We must force this choice into the open. As long as they hide behind "free marke
 
 Our job is to unmask them.
 
+> *For the comprehensive treatment — full intellectual history, Network State analysis, constitutional circumvention mechanisms, and the complete evidence base — see `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md`.*
+
 ---
 *File Location: `research/comparative_analysis/STATE_OF_NRX_2026.md`*
 *Status: Confidential / Strategy Internal*

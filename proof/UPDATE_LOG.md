@@ -10,6 +10,22 @@
 
 ## March 2026
 
+### Mar 4, 2026 — THE ACCELERATIONIST PLAYBOOK: Comprehensive Intelligence Dossier
+
+- **Created** `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md` — **The definitive reference document** (~1,100 lines). Comprehensive treatment covering:
+  - **Part I: Intellectual History** — Five streams of thought (reactionary philosophy, Austrian economics, continental anti-humanism, elite theory, Silicon Valley pipeline) from Carlyle through the CCRU to e/acc. Full systems of Land and Yarvin. Left vs. right accelerationism split. E/acc as radicalization pipeline.
+  - **Part II: The Network** — Full sourced profiles of all key figures (Thiel, Yarvin, Land, Musk, Andreessen, Luckey, Altman, Vance, Sacks, Srinivasan) with 2025-2026 actions. Network map cross-referencing all four case studies. The closed loop: funding → power → policy → profit.
+  - **Part III: The Exit Strategy** — Network State theory (Srinivasan's 7-step process). Active projects: Praxis ($525M), Prospera (Honduras), Seasteading Institute, Freedom Cities EO, Gaza "Riviera." International models (NEOM, El Salvador, Dubai).
+  - **Part IV: Constitutional Circumvention** — Outside mechanisms (crypto, DAOs, smart contracts, arbitration) and inside mechanisms (Schedule F, DOGE/RAGE, executive orders, impoundment, court defiance). Constitutional weak points exploited. The endgame scenario.
+  - **Part V: The Evidence** — Full prediction scorecard (10 Confirmed, 2 Emerging), timeline of convergence (Jan 2025 – Mar 2026), scenario analysis.
+  - **33 numbered source citations** plus extended bibliography. Cross-reference index linking to all related repo documents.
+- **Updated** `strategy/intelligence/ACCELERATIONISM_AND_NRX.md` — Added cross-reference note pointing to the new comprehensive document.
+- **Updated** `strategy/intelligence/THE_POST_HUMAN_CABAL.md` — Added cross-reference note pointing to the new comprehensive document.
+- **Updated** `strategy/intelligence/STATE_OF_NRX_2026.md` — Added cross-reference in Section 7 (Conclusion).
+- **Updated** `README.md` — Added new document to Section IV (The Strategy) and Quick Start table.
+
+---
+
 ### Mar 3, 2026 — Expansion: 3 New Case Studies, 5 New Predictions
 
 - **Created** `proof/DOGE_AND_NRX_CAPTURE_2025.md` — **Case Study #2**: DOGE, Yarvin as architect, Musk's $38B conflict, Schedule F, 300K layoffs, Thiel network, AI deregulation. 19 sourced citations.

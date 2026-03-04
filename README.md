@@ -47,6 +47,7 @@
 *How we win.*
 - `strategy/`: Political roadmaps and power analysis.
 - `strategy/intelligence/`: Deep dives on the opposition (NRx/Accelerationism).
+- `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md`: **The definitive reference** — complete intellectual history, network analysis, Network State projects, constitutional circumvention, and sourced evidence.
 
 ### V. The Action
 *Tools for the movement.*
@@ -80,6 +81,7 @@
 | See the data | research/RESEARCH_NOTES.md |
 | Apply the ideas | GUIDANCE.md |
 | See our predictions validated | proof/OVERVIEW.md |
+| Understand the opposition in full | strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md |
 
 ---
 

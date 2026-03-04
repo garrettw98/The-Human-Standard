@@ -2,6 +2,8 @@
 ## Dossier: The Technocratic Elite Pushing for a Post-Human Future
 ### Confidential Research Brief for The Human Standard
 
+> *For full profiles with 2025-2026 actions, sourced evidence, and network analysis, see `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md`. This document serves as a compact dossier.*
+
 ---
 
 ## 1. EXECUTIVE SUMMARY

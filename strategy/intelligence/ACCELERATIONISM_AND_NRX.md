@@ -2,6 +2,8 @@
 ## Analysis of the "Post-Humanist" Right
 ### Research Brief for The Human Standard
 
+> *For the comprehensive treatment — full intellectual genealogy, sourced evidence, network maps, Network State analysis, and constitutional circumvention mechanisms — see `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md`. This document serves as a quick-reference summary.*
+
 ---
 
 ## Executive Summary
