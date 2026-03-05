@@ -27,7 +27,8 @@ This is the "Red Caesar" model in its constitutional dimension: not the abolitio
 | **Apr 2025** | GAO begins finding **Impoundment Control Act violations** — at least **6 confirmed violations** by September 2025, with **39 investigations pending**. At least **$425–430 billion** in congressionally appropriated funds withheld. | [7][8] |
 | **Apr 2, 2025** | **363 law professors** sign amicus brief warning that executive orders targeting law firms "threaten the rule of law" and that "the Executive branch has no constitutional authority to use executive orders as a cudgel to beat the American legal system into submission." | [9] |
 | **Apr 2025** | **Elon University Poll**: Two-thirds of Americans fear a constitutional crisis between the administration and the courts. | [10] |
-| **Jun 16, 2025** | **American Bar Association files lawsuit** declaring unconstitutional the administration's "ongoing unlawful policy of intimidation against lawyers and law firms." | [11] |
+| **Jun 2025** | Supreme Court rules DOGE **can access Social Security data** — reversing district court block. Separately rules DOGE **exempt from FOIA** regarding its recommendations to the President. Lower courts overridden. | [28][29] |
+| **Jun 16, 2025** | **American Bar Association files lawsuit** declaring unconstitutional the administration's "ongoing unlawful policy of intimidation against lawyers and law firms." NYC Bar, Boston Bar, American College of Trial Lawyers issue parallel warnings. | [11] |
 | **Jun 27, 2025** | Supreme Court ends **universal injunctions** (*Trump v. CASA, Inc.*) — limiting lower courts to plaintiff-specific relief only. Drastically reduces judicial power to check executive action. | [12] |
 | **Jul 2025** | Washington Post analysis: administration has **defied judges in 57 of 165 cases** — approximately **one-third** of all adverse rulings. Described by legal experts as unprecedented. | [13] |
 | **Jul 2025** | DOJ **sues all 15 judges of the District of Maryland** and the court itself — an unprecedented action against a co-equal branch. Files **misconduct complaint against Chief Judge Boasberg** for warning that the administration would "disregard rulings of federal courts." Complaint dismissed. | [14][15] |
@@ -35,6 +36,7 @@ This is the "Red Caesar" model in its constitutional dimension: not the abolitio
 | **Oct 2025** | Supreme Court has **granted 83% of administration's emergency applications** (19 of ~24 decided). Won **20 of 24** emergency docket rulings in 2025. | [17] |
 | **Nov 2025** | **Judge Mark Wolf** (Reagan appointee) **resigns from the bench** and publishes op-ed accusing Trump of "using the law for partisan purposes" and conducting an "assault on the rule of law." | [18] |
 | **Dec 2025–Feb 2026** | ICE violates federal court orders **56 times in New Jersey alone** in a two-month period. DOJ admits the violations in a court filing. | [19] |
+| **Feb 2026** | Minnesota federal judge holds a Trump administration attorney in **civil contempt** for "flagrant disobedience of court orders" in an immigration case — described as the first contempt finding of the second term. | [30] |
 | **Feb 20, 2026** | Supreme Court rules 6-3 in *Learning Resources v. Trump* that **IEEPA does not authorize tariffs**. Strikes down tariffs that had collected **$160 billion** from importers. **Same day**: Trump issues proclamation under Section 122 reimposing tariffs under different authority. Calls justices "very unpatriotic and disloyal." | [20][21] |
 | **Feb 28, 2026** | US launches **Operation Epic Fury** — strikes on Iran including assassination of Supreme Leader — without Congressional authorization, without AUMF, relying solely on Article II authority. War powers vote fails Senate 47-53 on March 4. | [22][23] |
 | **Mar 2026** | As of latest count: **243 executive orders**, 57 memoranda, 129 proclamations signed. **530–583 lawsuits** filed against the administration. **128 cases** decided: administration won **5**, plaintiffs won **49**. | [1][24][25] |
@@ -227,6 +229,9 @@ The Constitution's checks and balances assume that **at least two of three branc
 25. [The Fulcrum: Record 530 lawsuits against Trump administration](https://thefulcrum.us/rule-of-law/supreme-court-rulings-2025)
 26. [IBA: Statement on erosion of rule of law in the United States](https://www.ibanet.org/A-message-from-the-IBA)
 27. [Washington Post: Trump administration defiance of court orders analysis](https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/)
+28. [Ogletree Deakins: Supreme Court rules DOGE can access Social Security data](https://ogletree.com/insights-resources/blog-posts/supreme-court-rules-doge-can-access-social-security-data-and-avoid-foia-for-now/)
+29. [FedScoop: Appeals court lifts DOGE data access block — Treasury, OPM, Education](https://fedscoop.com/court-oks-doge-data-treasury-opm-education/)
+30. [CNN: Minnesota federal judge holds Trump administration attorney in civil contempt](https://www.cnn.com/2026/02/19/politics/trump-attorney-contempt-minnesota-immigration)
 
 ---
 
