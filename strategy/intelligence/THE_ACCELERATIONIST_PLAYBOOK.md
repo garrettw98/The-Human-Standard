@@ -885,7 +885,7 @@ If the accelerationist project succeeds — if the state is hollowed out, the Ne
 
 Every prediction made in our source documents has been tested against reality. The results:
 
-**Scorecard: 12 predictions. 10 Confirmed. 2 Emerging. 0 Contradicted.**
+**Scorecard: 12 predictions. 12 Confirmed. 0 Emerging. 0 Contradicted.**
 
 | # | Prediction | Status | Primary Case Study |
 |---|-----------|--------|-------------------|
@@ -894,8 +894,8 @@ Every prediction made in our source documents has been tested against reality. T
 | 3 | Faustian Bargain pays out | **Confirmed** | Iran Strikes, Tech Oligarchy |
 | 4 | Alliance fragmentation | **Confirmed** | Iran Strikes, Alliance Erosion |
 | 5 | Energy weaponization | **Confirmed** | Iran Strikes |
-| 6 | De-dollarization acceleration | **Emerging** | Iran Strikes |
-| 7 | China window | **Emerging** | Iran Strikes, Alliance Erosion |
+| 6 | De-dollarization acceleration | **Confirmed** | Iran Strikes |
+| 7 | China window | **Confirmed** | Iran Strikes, Alliance Erosion |
 | 8 | NRx institutional capture | **Confirmed** | DOGE/NRx |
 | 9 | Tech billionaire political consolidation | **Confirmed** | Tech Oligarchy |
 | 10 | AI safety deregulation | **Confirmed** | DOGE/NRx, Tech Oligarchy |
@@ -969,7 +969,7 @@ This document has traced a single phenomenon across multiple dimensions:
 
 **The constitutional circumvention** (Part IV) provides the method: capture the state from inside (Schedule F, DOGE, executive orders) while building parallel systems from outside (crypto, DAOs, Network States).
 
-**The evidence** (Part V) provides the proof: 12 predictions, 10 confirmed, sourced to public reporting.
+**The evidence** (Part V) provides the proof: 12 predictions, 12 confirmed, sourced to public reporting.
 
 **This is not twelve separate stories. It is one integrated phenomenon.** The same people fund the ideology, capture the government, profit from the policies, and build the exits. The money flows in a closed loop: funding → power → policy → profit → funding.
 

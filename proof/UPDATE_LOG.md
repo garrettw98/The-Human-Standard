@@ -10,6 +10,76 @@
 
 ## March 2026
 
+### Mar 5, 2026 — Geopolitical Evidence Update: All 12 Predictions Now Confirmed
+
+- **Upgraded** Prediction #6 (De-dollarization acceleration): **Emerging → Confirmed** — Russia-China bilateral trade at 99.1% ruble/yuan. BRICS Pay infrastructure active. Yuan-based oil trade accelerating. Iran sanctions driving alternative payment systems.
+- **Upgraded** Prediction #7 (China window): **Emerging → Confirmed** — 2026 NDS omits explicit Taiwan commitment. China "Justice Mission 2025" largest-ever Taiwan exercise (2,000 fishing vessels rehearsed blockade). Foreign Affairs: "A Perfect Storm for Taiwan in 2026?" US assets diverted to Iran theater.
+- **Upgraded** DOGE Case Study Prediction #6 (Exit strategy): **Emerging → Confirmed** — Praxis selected "Atlas" site near Vandenberg, CA. Greenland framework deal advancing.
+- **Updated** `proof/IRAN_STRIKES_2026.md` — Added Day 6 (Mar 5) DEVELOPING table:
+  - 1,230+ Iranian dead, 20+ naval vessels sunk (first torpedo sinking since WWII)
+  - Senate war powers vote FAILED 47-53
+  - Strait of Hormuz near-zero traffic, insurance withdrawn
+  - Pre-war diplomatic sabotage: Witkoff undermined Oman breakthrough
+  - DOGE-to-war connection: civilian casualty assessment team slashed 30-40→7, DISA "extreme risk" warning
+  - Global recession warnings: KOSPI -12%, Pakistan KSE -9.57%
+  - De-dollarization and China window upgrade rationale
+- **Updated** `proof/DOGE_AND_NRX_CAPTURE_2025.md` — Added DEVELOPING table (Mar 5):
+  - OPM confirms 322,000 total separations (up from 300K)
+  - Schedule F effective March 8 (50K positions)
+  - VA lost 14,400 healthcare positions (600+ doctors, 2,000+ nurses), 94% of facilities in severe shortage
+  - SSA: 6M pending cases, 50% fewer field office visits
+  - DOGE staffers matched SSA data against voter rolls (Hatch Act referrals)
+  - DOGE deleted NLRB access logs after data extraction
+  - IRS reduced to 76K staff (lowest since 1970s)
+  - Trump banned Anthropic from government (Feb 27) for refusing weapons/surveillance; OpenAI took Pentagon deal same day
+  - 8 new sourced citations [20]-[27]
+- **Updated** `proof/TECH_OLIGARCHY_2025.md` — Added DEVELOPING table (Mar 5):
+  - Defense budget exceeds $1T for first time; $14.2B for AI/autonomous systems
+  - Golden Dome: $24.4B to SpaceX-led consortium
+  - Anduril $642M USMC contract
+  - OpenAI replaces Anthropic on Pentagon deal (loyalty test for AI companies)
+  - Palantir $1.8B from ICE in 2025, $2.7B+ total since inauguration
+  - a16z $50M to Leading the Future PAC ($250M+ network political infrastructure)
+  - 44 billionaires in government roles
+  - 8 new sourced citations [21]-[28]
+- **Updated** `proof/ALLIANCE_EROSION_2025.md` — Added DEVELOPING table (Mar 5):
+  - Supreme Court strikes down IEEPA tariff authority (Feb 20)
+  - EU freezes trade negotiations with US
+  - Trump demands NATO 5% GDP (up from 2%)
+  - EU €800B "ReArm Europe" program — largest since Cold War
+  - 3,000 US troops withdrawn from Romania (on Ukrainian border)
+  - Greenland framework deal advances
+  - Canada opens trade talks with China (closest ally pivots to competitor)
+  - Panama Canal CK Hutchison concession annulled
+  - 8 new sourced citations [13]-[20]
+- **Updated** `proof/OVERVIEW.md`:
+  - Scorecard: **12 Confirmed. 0 Emerging. 0 Contradicted.**
+  - Predictions #6 and #7: Emerging → Confirmed (last assessed Mar 5)
+  - Case study table: Iran 7/7, DOGE 6/6, Alliance 4/4, Tech 5/5
+  - Case study summaries updated with latest figures
+- **Updated** `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md`:
+  - Prediction table: rows 6 and 7 changed from Emerging to Confirmed
+  - Scorecard updated: "12 Confirmed. 0 Emerging."
+
+**Prediction Status Snapshot (Mar 5, 2026):**
+
+| # | Prediction | Status | Change |
+|---|-----------|--------|--------|
+| 1 | Red Caesar overreach | Confirmed | — |
+| 2 | Accelerationist escalation | Confirmed | — |
+| 3 | Faustian Bargain | Confirmed | — |
+| 4 | Alliance fragmentation | Confirmed | — |
+| 5 | Energy weaponization | Confirmed | — |
+| 6 | De-dollarization | **Confirmed** | **Upgraded from Emerging** |
+| 7 | China window | **Confirmed** | **Upgraded from Emerging** |
+| 8 | NRx institutional capture | Confirmed | — |
+| 9 | Tech billionaire consolidation | Confirmed | — |
+| 10 | AI safety deregulation | Confirmed | — |
+| 11 | Network State exit | Confirmed | — |
+| 12 | Surveillance / Blue Cage | Confirmed | — |
+
+---
+
 ### Mar 4, 2026 — THE ACCELERATIONIST PLAYBOOK: Major Expansion — Deep Operational Detail
 
 - **Expanded** `strategy/intelligence/THE_ACCELERATIONIST_PLAYBOOK.md` — from ~803 lines to **~1,234 lines** (~430 new lines of sourced content). Three new major sections added within Part II, plus deepened existing profiles. Sections renumbered (Part III: 13–15, Part IV: 16–19, Part V: 20–22, Conclusion: 23–24):

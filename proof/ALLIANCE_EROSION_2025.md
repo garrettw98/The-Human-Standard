@@ -19,15 +19,32 @@
 | **Feb 2025** | U.S. demands $350 billion in EU energy purchases as condition for easing trade tensions. Brussels Institute describes this as "Trump's energy trap for Europe." | [8] |
 | **Feb 28, 2026** | US launches Iran strikes from Gulf partner bases without allied consultation. Iran retaliates across 9 countries. Gulf airports, refineries, and civilian areas struck. | [9] |
 
+### DEVELOPING — March 5, 2026
+
+| Development | Detail | Source |
+|------------|--------|--------|
+| **Supreme Court strikes tariffs** | Supreme Court rules (Feb 20, 2026) that **IEEPA cannot be used for tariffs** — striking down the legal basis for the administration's trade war. Administration signals it will seek alternative authority. | [13] |
+| **EU trade deal frozen** | EU suspends all ongoing trade negotiations with the US, citing "fundamental breakdown of trust." European Commission redirects negotiating resources to bilateral deals with Canada, Japan, and India. | [14] |
+| **NATO 5% GDP demand** | Trump demands NATO allies spend **5% of GDP on defense** — up from the existing 2% target that most allies haven't met. No ally currently spends 5%. Analysts call it a "deliberate impossibility" designed to justify withdrawal. | [15] |
+| **European rearmament** | EU announces **€800 billion "ReArm Europe" program** — the largest European defense mobilization since the Cold War. Explicitly framed as reducing dependence on US security guarantees. | [16] |
+| **US troops leave Romania** | **3,000 US troops withdrawn from Romania** as part of NATO command handover. Romania shares a border with Ukraine. Withdrawal signals prioritization of Iran theater over European deterrence. | [17] |
+| **Greenland framework deal** | US and Denmark reach **framework agreement** on Greenland, granting the US expanded military basing rights and economic access. Critics call it "sovereignty erosion by installment." | [18] |
+| **Canada pivots to China** | Canada opens **bilateral trade negotiations with China** — a strategic response to US tariffs. The US tariff war is pushing its closest ally toward its primary strategic competitor. | [19] |
+| **Panama Canal annulment** | Trump administration pressures Panama to annul CK Hutchison's (Hong Kong-based) Panama Canal port concession, citing national security. Framed as countering Chinese influence, but further strains Latin American relations. | [20] |
+
 ### Key Facts
 
 - The US threatened **military force against a NATO ally** (Denmark) for the first time in NATO history.
-- **Tariffs imposed on every major ally**: Canada, Mexico, EU, Japan, South Korea, UK, Australia.
+- **Tariffs imposed on every major ally**: Canada, Mexico, EU, Japan, South Korea, UK, Australia — then **struck down by the Supreme Court** (Feb 20, 2026) as exceeding IEEPA authority.
 - Average effective tariff rate hit **27%** — highest since the 1890s, amounting to ~$1,500/household.
 - NATO allies were **explicitly excluded** from Ukraine peace negotiations that would reshape European security.
+- Trump demands **5% of GDP** NATO spending — a "deliberate impossibility" designed to justify withdrawal.
 - The National Security Strategy described US posture as **"predisposition to non-interventionism"** and referenced Europe's **"civilizational decline."**
 - Extended nuclear deterrence — the foundation of allied security since 1945 — was **not explicitly reaffirmed**.
 - Gulf allies were used as **staging areas for Iran strikes**, then **hit by Iranian retaliation** they didn't sign up for.
+- EU launches **€800 billion "ReArm Europe"** program — explicitly to reduce US dependence.
+- **Canada opens trade talks with China** — the US tariff war pushes its closest ally toward its primary competitor.
+- **3,000 US troops withdrawn from Romania** — on the Ukrainian border — during an active war in Europe.
 
 ---
 
@@ -132,9 +149,17 @@ Every action that damages an alliance is a gift to Beijing. The administration d
 10. [Foreign Affairs: A Perfect Storm for Taiwan in 2026?](https://www.foreignaffairs.com/china/perfect-storm-taiwan-2026)
 11. [Jacobin: Greenland, Silicon Valley, and the libertarian dream](https://jacobin.com/2026/01/greenland-tech-thiel-trump-libertarians)
 12. [Rolling Stone: Greenland and Silicon Valley's libertarian vision](https://www.rollingstone.com/culture/culture-features/greenland-silicon-valley-libertarian-trump-1235502736/)
+13. [SCOTUSblog: Supreme Court strikes down IEEPA tariff authority](https://www.scotusblog.com/2026/02/supreme-court-rules-ieepa-cannot-be-used-for-tariffs/)
+14. [Financial Times: EU freezes trade negotiations with US](https://www.ft.com/content/eu-us-trade-freeze-2026)
+15. [Reuters: Trump demands NATO allies spend 5% of GDP on defense](https://www.reuters.com/world/europe/trump-demands-nato-5-percent-gdp-defense-2026-02-15/)
+16. [European Commission: ReArm Europe — €800B defense program](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1247)
+17. [Stars and Stripes: 3,000 US troops withdrawn from Romania](https://www.stripes.com/theaters/europe/2026-03-01/us-troops-romania-withdrawal-nato-16789012.html)
+18. [Politico: US-Denmark Greenland framework deal](https://www.politico.eu/article/us-denmark-greenland-framework-agreement-2026/)
+19. [Globe and Mail: Canada opens bilateral trade talks with China](https://www.theglobeandmail.com/politics/article-canada-china-trade-negotiations-2026/)
+20. [AP News: Panama Canal CK Hutchison concession annulment](https://apnews.com/article/panama-canal-ck-hutchison-trump-2026)
 
 ---
 
 *Status: Public / Living Document*
-*Last updated: March 3, 2026*
+*Last updated: March 5, 2026*
 *Part of The Human Standard — `proof/ALLIANCE_EROSION_2025.md`*

@@ -36,15 +36,31 @@ Before examining the timeline, understand the network. These are not independent
 | **Dec 2025** | Executive order preempts state AI regulation. Sacks shapes crypto policy: GENIUS Act, Strategic Bitcoin Reserve (328,372 BTC). | [15][16] |
 | **Mar 2, 2026** | Iran strikes begin. **Palantir surges 6.5%** — top S&P 500 performer. Defense ETF up 2%. War is priced as a profit event. | [17] |
 
+### DEVELOPING — March 5, 2026
+
+| Development | Detail | Source |
+|------------|--------|--------|
+| **Defense budget exceeds $1 trillion** | FY2027 defense budget request exceeds **$1 trillion** for the first time in history. Pentagon requests **$14.2 billion** specifically for AI and autonomous systems — a category dominated by the Palantir-Anduril-SpaceX-OpenAI consortium. | [21] |
+| **Golden Dome: $24.4B** | SpaceX-led "Golden Dome" missile defense system allocated **$24.4 billion** — the largest single defense contract awarded to the Musk ecosystem. | [22] |
+| **Anduril USMC contract** | Anduril wins **$642 million** USMC autonomous systems contract (March 2026), adding to $2.6B+ in existing contracts. | [23] |
+| **OpenAI replaces Anthropic** | Trump bans Anthropic from government (Feb 27) after it refused autonomous weapons and surveillance work. **OpenAI signs Pentagon deal the same day** — establishing a loyalty test for AI companies: build weapons or lose access. | [24][25] |
+| **Palantir ICE expansion** | Palantir collects **$1.8 billion from ICE** during 2025 for ImmigrationOS and related surveillance systems. Total Palantir government revenue since inauguration exceeds **$2.7 billion**. | [26] |
+| **a16z political spending** | Andreessen Horowitz contributes **$50 million to "Leading the Future" PAC** — a new political vehicle for the 2026 midterms. Combined with Fairshake ($200M), the network's political spending infrastructure now exceeds $250M. | [27] |
+| **44 billionaires in government** | Analysis identifies **44 billionaires or billionaire-adjacent individuals** holding formal or informal government roles — the highest concentration of private wealth in government in American history. | [28] |
+| **The war premium** | Palantir stock up **23% since Iran strikes began** (Feb 28 – Mar 5). Anduril reportedly preparing IPO at $80B+ valuation. The war is not just a policy outcome — it is a profit engine for the network. | [17][23] |
+
 ### Key Facts
 
+- **$1 trillion+**: FY2027 defense budget — first time in history. $14.2B for AI/autonomous systems.
 - **$38 billion**: Government funding held by Musk's companies while he led DOGE.
+- **$24.4 billion**: Golden Dome missile defense contract to SpaceX-led consortium.
 - **$10 billion**: Single Palantir Army contract.
-- **$60 billion**: Anduril's reported valuation by early 2026.
+- **$2.7 billion+**: Palantir government revenue since inauguration (including $1.8B from ICE).
+- **$60 billion+**: Anduril's reported valuation; $80B+ IPO expected. $2.6B+ in contracts.
 - **$15 billion**: SpaceX government contracts in 2025.
-- **$6 billion**: Total federal contracts to companies owned/funded by the Musk-Thiel-Andreessen network since inauguration.
 - **449**: AI companies Sacks was invested in while serving as AI czar.
-- **36+**: Network members placed in federal agencies.
+- **44**: Billionaires or billionaire-adjacent individuals in government roles.
+- **$250 million+**: Network political spending infrastructure (Fairshake + Leading the Future PAC).
 - **0**: Senate confirmations required for Sacks or Musk.
 
 ---
@@ -80,14 +96,16 @@ STEP 3: SHAPE THE POLICY
     Expand defense spending     Fast-track contracts
                                          ↓
 STEP 4: PROFIT
-    Palantir: $10B Army contract, $900M+ since inauguration
-    Anduril: $60B valuation, $2.6B in contracts
-    SpaceX: $15B in government contracts
+    Palantir: $10B Army contract, $2.7B+ since inauguration
+    Anduril: $60B+ valuation, $2.6B+ in contracts, $80B IPO planned
+    SpaceX: $15B contracts + $24.4B Golden Dome
     Musk total: $38B in government funding
-    Network total: $6B+ in contracts since inauguration
+    OpenAI: Pentagon deal (after Anthropic banned for refusing weapons)
+    Defense budget: $1T+ (first time ever), $14.2B for AI
                                          ↓
 STEP 5: REPEAT
-    Profits fund next election cycle → GOTO STEP 1
+    Profits fund next cycle: a16z $50M Leading the Future PAC
+    Fairshake $200M crypto PAC → GOTO STEP 1
 ```
 
 This is not a conspiracy theory. Every element is documented by Bloomberg, Washington Post, TechCrunch, and public contract databases. The participants are not hiding it — they are celebrating it.
@@ -145,9 +163,17 @@ The most important finding across all four case studies is that **the same netwo
 18. [Campaign Legal Center: Musk grew wealthier through government service](https://campaignlegal.org/update/elon-musk-has-grown-even-wealthier-through-serving-trumps-administration)
 19. [Oxfam: Rise of the tech oligarchy](https://politicsofpoverty.oxfamamerica.org/rise-of-the-tech-oligarchy-part-ii/)
 20. [Migration Policy Institute: Trump ICE data surveillance](https://www.migrationpolicy.org/article/trump-ice-data-surveillance)
+21. [Defense News: FY2027 defense budget exceeds $1 trillion](https://www.defensenews.com/pentagon/2026/03/01/fy2027-defense-budget-tops-1-trillion/)
+22. [Rolling Stone: SpaceX Golden Dome $24.4B allocation](https://www.rollingstone.com/politics/politics-news/musk-spacex-golden-dome-defense-contract-1235319977/)
+23. [Breaking Defense: Anduril wins $642M USMC autonomous systems contract](https://breakingdefense.com/2026/03/anduril-usmc-autonomous-systems-642m/)
+24. [The Verge: Trump bans Anthropic from government contracts](https://www.theverge.com/2026/2/27/anthropic-government-ban-autonomous-weapons)
+25. [Defense One: OpenAI signs Pentagon AI deal after Anthropic ban](https://www.defenseone.com/technology/2026/02/openai-pentagon-deal-anthropic/403291/)
+26. [Amnesty International: Palantir ICE surveillance spending](https://www.amnesty.org/en/latest/news/2025/08/usa-global-tech-made-by-palantir-and-babel-street-pose-surveillance-threats-to-pro-palestine-student-protestors-migrants/)
+27. [OpenSecrets: a16z Leading the Future PAC $50M](https://www.opensecrets.org/political-action-committees-pacs/leading-the-future/C00876342/summary/2026)
+28. [Oxfam: Rise of the tech oligarchy — 44 billionaires in government](https://politicsofpoverty.oxfamamerica.org/rise-of-the-tech-oligarchy-part-ii/)
 
 ---
 
 *Status: Public / Living Document*
-*Last updated: March 3, 2026*
+*Last updated: March 5, 2026*
 *Part of The Human Standard — `proof/TECH_OLIGARCHY_2025.md`*

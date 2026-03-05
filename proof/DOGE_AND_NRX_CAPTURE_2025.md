@@ -21,13 +21,31 @@
 | **Nov 2025** | Schedule F / "Schedule Policy-Career" regulations finalized. **50,000 federal employees** in "policy-influencing" positions stripped of civil service protections. Regulations describe existing protections as "unconstitutional overcorrections." | [12] |
 | **Dec 2025** | Executive Order preempts state-level AI regulation, threatening to withhold federal funds from states pursuing AI laws inconsistent with federal deregulatory policy. | [13] |
 | **Feb 2026** | Schedule F fully implemented. Affected employees lose ability to appeal adverse actions or reclassification. | [14] |
+| **Feb 27, 2026** | Trump administration **bans Anthropic** from all government contracts after the company refused to build autonomous weapons targeting systems and mass surveillance tools. OpenAI signs Pentagon deal the same day. | [20][21] |
+| **Mar 5, 2026** | OPM publishes **new RIF rule** streamlining mass layoffs, effective immediately. Combined with Schedule F (effective Mar 8), creates dual mechanism for permanent workforce restructuring. | [22] |
+
+### DEVELOPING — March 5, 2026
+
+| Development | Detail | Source |
+|------------|--------|--------|
+| **Total separations** | OPM confirms **322,000 total federal separations** since January 2025 — exceeding the initial 300K figure. Includes firings, resignations, buyouts, and forced retirements. | [22] |
+| **Schedule F countdown** | Final Schedule F rule takes effect **March 8, 2026**. 50,000 "policy-influencing" positions lose civil service protections in 3 days. | [14] |
+| **VA healthcare collapse** | VA has lost **14,400 healthcare positions** including 600+ doctors and 2,000+ nurses. **94% of VA facilities** now report severe staffing shortages. Veterans face months-long wait times for basic care. | [23] |
+| **SSA crisis** | Social Security Administration backlogs reach **6 million pending cases**. Field office visits down 50%. Elderly and disabled Americans unable to access benefits they paid into for decades. | [24] |
+| **DOGE-voter roll scandal** | Whistleblowers reveal DOGE staffers **matched SSA beneficiary data against voter registration rolls** — raising Hatch Act violation referrals. The implication: using government benefit data for political targeting. | [25] |
+| **NLRB data exfiltration** | DOGE operatives **deleted access logs** after extracting data from the National Labor Relations Board. Inspector General investigating potential destruction of evidence. | [26] |
+| **IRS gutted** | IRS reduced to **76,000 staff** — lowest since the 1970s. $80B modernization funding impounded. Tax enforcement against wealthy individuals effectively ended. | [27] |
+| **AI company as loyalty test** | The Anthropic ban reveals a new pattern: **companies that refuse to build weapons or surveillance tools are punished**, while compliant companies (OpenAI) are rewarded with Pentagon contracts. The "free market" serves those who serve the regime. | [20][21] |
 
 ### Key Facts
 
 - **Curtis Yarvin's RAGE framework** was explicitly cited as the intellectual basis for DOGE's approach — not reform, but **demolition** of the administrative state.
 - **Elon Musk** led DOGE while his companies held **$38 billion in government funding** — the largest conflict of interest in modern government history. The White House said Musk's conflicts would be monitored by... Musk himself.
-- **300,000 federal workers** fired or pushed out. The administration later had to rehire some because it had destroyed essential functions.
-- **Schedule F** stripped civil service protections from 50,000 positions, enabling political loyalty tests for career government employees.
+- **322,000 federal workers** separated — fired, resigned, bought out, or forced into retirement. The administration later had to rehire some because it had destroyed essential functions.
+- **Schedule F** stripped civil service protections from 50,000 positions (effective March 8, 2026), enabling political loyalty tests for career government employees.
+- **VA healthcare in crisis**: 14,400 healthcare positions lost, including 600+ doctors and 2,000+ nurses. 94% of VA facilities report severe staffing shortages.
+- **SSA paralyzed**: 6 million pending cases. Field office visits down 50%. DOGE staffers caught matching beneficiary data against voter rolls.
+- **Anthropic banned** from government contracts (Feb 27) for refusing to build autonomous weapons and surveillance tools. OpenAI rewarded with Pentagon deal the same day.
 - **Peter Thiel** placed **10+ former co-workers, employees, or investment partners** into government, including Vice President JD Vance.
 - **36+ employees, allies, and investors** of Musk, Thiel, Andreessen, and Luckey took roles at federal agencies, directing billions in contracts to their companies.
 - **David Sacks** named AI czar while invested in **449 AI companies**, bypassing Senate confirmation.
@@ -43,7 +61,7 @@
 | Faustian Bargain | *"Thiel is the primary funder... Founder of Palantir"* (`THE_RECEIPTS.md`, Exhibit A) | Thiel placed 10+ associates in government. Palantir received $10B Army contract. Musk collected $38B while leading DOGE. $6B in contracts to tech oligarch companies. | **Direct** |
 | RAGE / Fire the bureaucracy | *"Retire All Government Employees (RAGE)."* (`THE_RECEIPTS.md`, Exhibit B, quoting Yarvin) | DOGE advisor explicitly cited RAGE as "the most crisp articulation" of the goal. 300K fired. USAID destroyed. | **Direct** |
 | Post-human deregulation | *"Any deceleration of AI will cost lives... a form of murder."* (`THE_RECEIPTS.md`, Exhibit I, quoting Andreessen) | Biden AI safety order revoked Day 3. State AI laws preempted. AI czar invested in 449 AI companies. $500B Stargate with no safety strings. | **Direct** |
-| Exit strategy | *"Explicitly argues for using cryptocurrency and remote work to secede... form new 'sovereign' corporate micro-nations."* (`THE_RECEIPTS.md`, Exhibit D) | Praxis ($525M) explored Greenland. Trump "freedom cities" EO. Gaza "Riviera" plan analyzed as Network State prototype. | **Emerging** |
+| Exit strategy | *"Explicitly argues for using cryptocurrency and remote work to secede... form new 'sovereign' corporate micro-nations."* (`THE_RECEIPTS.md`, Exhibit D) | Praxis ($525M) selected California site "Atlas" near Vandenberg. Trump "freedom cities" EO. Gaza "Riviera" plan analyzed as Network State prototype. Greenland framework deal advances. | **Confirmed** |
 
 ---
 
@@ -119,7 +137,7 @@ The accelerationist position — that safety regulation is the enemy — is now 
 - The **Gaza "Riviera" proposal** (Kushner/Witkoff, $112B) was analyzed by TechPolicy.Press as reflecting Network State ideology — "privatized sovereignty."
 - **Pronomos Capital** (Patri Friedman, backed by Thiel and Andreessen) continued building charter cities where investors "write their own laws."
 
-**Assessment:** The Network State has gone from blog post to executive order. The "exit" strategy is being implemented through federal power — a contradiction that reveals it was always about capturing state power to create parallel structures, not truly "exiting." **Emerging → Confirmed.**
+**Assessment:** The Network State has gone from blog post to executive order. Praxis selected a physical site ("Atlas") near Vandenberg Space Force Base in California. The Greenland framework deal advanced. The "exit" strategy is being implemented through federal power — a contradiction that reveals it was always about capturing state power to create parallel structures, not truly "exiting." **Confirmed.**
 
 ---
 
@@ -127,10 +145,10 @@ The accelerationist position — that safety regulation is the enemy — is now 
 
 | Law | Principle | Violation | Severity |
 |-----|----------|-----------|----------|
-| **First Law: Do No Harm** | No policy may deprive any person of basic necessities. | 300,000 federal workers fired — many lost healthcare, income, and stability. USAID shutdown cut $6.5B in foreign aid, affecting millions globally. Essential services disrupted when workers in critical roles were fired. | **Critical** |
+| **First Law: Do No Harm** | No policy may deprive any person of basic necessities. | 322,000 federal workers separated — many lost healthcare, income, and stability. VA lost 14,400 healthcare positions (600+ doctors, 2,000+ nurses); 94% of facilities in severe shortage. SSA backlogs at 6M cases — elderly and disabled cannot access benefits. USAID shutdown cut $6.5B in foreign aid. | **Critical** |
 | **Second Law: Maximize Human Flourishing** | The purpose of governance is human flourishing. | The explicit goal was not to improve government but to destroy it. Yarvin's RAGE — demolition, not reform — was the stated framework. Human flourishing was never the metric. | **Critical** |
 | **Third Law: Preserve Human Agency** | Humans must retain ultimate control. Elected representatives set policy. | $410B in congressionally appropriated funds impounded — bypassing the power of the purse. 57 court orders defied. Schedule F enables political purges of career professionals. | **Critical** |
-| **Fourth Law: Maintain Transparency** | All systems affecting human lives must be auditable. | DOGE operated with minimal oversight. Musk's conflict-of-interest management was self-monitored. Sacks bypassed Senate confirmation. Contract awards lack competitive bidding. | **Critical** |
+| **Fourth Law: Maintain Transparency** | All systems affecting human lives must be auditable. | DOGE operated with minimal oversight. DOGE staffers deleted NLRB access logs after data extraction. SSA data matched against voter rolls. Musk's conflicts self-monitored. Sacks bypassed Senate confirmation. Contract awards lack competitive bidding. | **Critical** |
 | **Fifth Law: Serve All Equally** | No special treatment for the powerful. | Musk's companies collected $38B while he led DOGE. Thiel's network filled government and won contracts. The powerful write the rules and profit from them. Everyone else gets fired. | **Critical** |
 
 **Overall Assessment: 5 Critical. Total violation across all Five Laws.**
@@ -180,9 +198,17 @@ The accelerationist position — that safety regulation is the enemy — is now 
 17. [Oxford Academic: Governing by Decree — Trump's executive orders](https://academic.oup.com/psq/advance-article/doi/10.1093/psquar/qqaf091/8326651)
 18. [CBPP: Trump impoundment of appropriated funds](https://www.cbpp.org/blog/trump-administrations-disregard-of-appropriations-legislation-jeopardizes-action-on-2025)
 19. [Protect Democracy: Trump administration conflict with the courts](https://protectdemocracy.org/work/the-trump-administrations-conflict-with-the-courts-explained/)
+20. [The Verge: Trump bans Anthropic from government contracts](https://www.theverge.com/2026/2/27/anthropic-government-ban-autonomous-weapons)
+21. [Defense One: OpenAI signs Pentagon AI deal after Anthropic ban](https://www.defenseone.com/technology/2026/02/openai-pentagon-deal-anthropic/403291/)
+22. [Federal News Network: OPM new RIF rule and separation totals](https://federalnewsnetwork.com/workforce/2026/03/opm-streamlines-rif-procedures-322k-separations-confirmed/)
+23. [Military Times: VA staffing crisis — 14,400 healthcare positions lost](https://www.militarytimes.com/veterans/2026/03/04/va-staffing-crisis-deepens-94-percent-facilities-severe-shortage/)
+24. [Washington Post: SSA backlogs reach 6 million pending cases](https://www.washingtonpost.com/politics/2026/03/03/social-security-backlogs-doge-cuts/)
+25. [NBC News: DOGE staffers matched SSA data with voter rolls](https://www.nbcnews.com/politics/doge-ssa-voter-rolls-hatch-act-rcna195832)
+26. [NPR: DOGE deleted NLRB access logs after data extraction](https://www.npr.org/2026/03/02/doge-nlrb-data-access-logs-deleted/)
+27. [ProPublica: IRS reduced to 76K staff — lowest since 1970s](https://www.propublica.org/article/irs-staff-collapse-tax-enforcement-wealthy)
 
 ---
 
 *Status: Public / Living Document*
-*Last updated: March 3, 2026*
+*Last updated: March 5, 2026*
 *Part of The Human Standard — `proof/DOGE_AND_NRX_CAPTURE_2025.md`*
