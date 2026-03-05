@@ -16,17 +16,17 @@ This section is our accountability ledger. Every prediction we made is logged he
 
 | # | Prediction | Source Document | Status | Last Assessed | Case Study |
 |---|-----------|----------------|--------|---------------|------------|
-| 1 | **"Red Caesar" executive overreach**: A captured executive will bypass Congress to wage war by decree, treating constitutional constraints as obstacles. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction B), `action/messaging/WARNING_TO_EVERYONE.md` | **Confirmed** | Mar 3, 2026 | [Iran Strikes](#case-study-1), [DOGE/NRx](#case-study-2) |
-| 2 | **Accelerationist escalation**: The "only way out is through" logic will produce kinetic action designed to break existing systems, not preserve them. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Section 3), `strategy/THE_COUNTER_COUP.md` | **Confirmed** | Mar 3, 2026 | [Iran Strikes](#case-study-1), [DOGE/NRx](#case-study-2) |
-| 3 | **The Faustian Bargain pays out**: Defense-tech companies (Palantir, Anduril, SpaceX) will profit directly from conflicts enabled by the political figures they funded and advised. | `action/messaging/THE_RECEIPTS.md` (Exhibit A), `strategy/THE_COUNTER_COUP.md` (Section 4) | **Confirmed** | Mar 3, 2026 | [Iran Strikes](#case-study-1), [Tech Oligarchy](#case-study-4) |
+| 1 | **"Red Caesar" executive overreach**: A captured executive will bypass Congress to wage war by decree, treating constitutional constraints as obstacles. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction B), `action/messaging/WARNING_TO_EVERYONE.md` | **Confirmed** | Mar 5, 2026 | [Iran Strikes](#case-study-1), [DOGE/NRx](#case-study-2), [Constitutional Crisis](#case-study-8) |
+| 2 | **Accelerationist escalation**: The "only way out is through" logic will produce kinetic action designed to break existing systems, not preserve them. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Section 3), `strategy/THE_COUNTER_COUP.md` | **Confirmed** | Mar 5, 2026 | [Iran Strikes](#case-study-1), [DOGE/NRx](#case-study-2), [Constitutional Crisis](#case-study-8) |
+| 3 | **The Faustian Bargain pays out**: Defense-tech companies (Palantir, Anduril, SpaceX) will profit directly from conflicts enabled by the political figures they funded and advised. | `action/messaging/THE_RECEIPTS.md` (Exhibit A), `strategy/THE_COUNTER_COUP.md` (Section 4) | **Confirmed** | Mar 5, 2026 | [Iran Strikes](#case-study-1), [Tech Oligarchy](#case-study-4), [Crypto Capture](#case-study-7) |
 | 4 | **Alliance fragmentation**: Actions taken by the captured executive will damage or destroy alliances the US needs for great power competition. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part VII, Part XI), `strategy/THE_COUNTER_COUP.md` | **Confirmed** | Mar 3, 2026 | [Iran Strikes](#case-study-1), [Alliance Erosion](#case-study-3) |
 | 5 | **Energy weaponization**: Conflict in the Middle East will be leveraged to manipulate energy markets, with cascading effects on the global economy. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part XI), `policy/CLIMATE_ENERGY_POLICY.md` | **Confirmed** | Mar 3, 2026 | [Iran Strikes](#case-study-1), [Alliance Erosion](#case-study-3) |
 | 6 | **De-dollarization acceleration**: Unilateral US military action and sanctions overreach will push nations toward alternative reserve currencies and payment systems. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part XII) | **Confirmed** | Mar 5, 2026 | [Iran Strikes](#case-study-1) |
 | 7 | **China window**: Resources and attention diverted to Middle East conflicts will widen the strategic window for Chinese action in the Indo-Pacific. | `policy/DEFENSE_FOREIGN_POLICY.md` (Part VI) | **Confirmed** | Mar 5, 2026 | [Iran Strikes](#case-study-1), [Alliance Erosion](#case-study-3) |
-| 8 | **NRx institutional capture**: Neoreactionary figures (Yarvin, Thiel network) will gain direct policy influence, dismantling the civil service and replacing it with political loyalists. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction B), `action/messaging/THE_RECEIPTS.md` (Exhibits B, C) | **Confirmed** | Mar 3, 2026 | [DOGE/NRx](#case-study-2) |
-| 9 | **Tech billionaire political consolidation**: Musk, Thiel, Andreessen, and aligned figures will move from funding politics to directly holding government power, directing contracts to their own companies. | `action/messaging/WARNING_TO_EVERYONE.md`, `action/messaging/THE_RECEIPTS.md` (Exhibits A–D) | **Confirmed** | Mar 3, 2026 | [Tech Oligarchy](#case-study-4) |
+| 8 | **NRx institutional capture**: Neoreactionary figures (Yarvin, Thiel network) will gain direct policy influence, dismantling the civil service and replacing it with political loyalists. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction B), `action/messaging/THE_RECEIPTS.md` (Exhibits B, C) | **Confirmed** | Mar 5, 2026 | [DOGE/NRx](#case-study-2), [Crypto Capture](#case-study-7), [Constitutional Crisis](#case-study-8) |
+| 9 | **Tech billionaire political consolidation**: Musk, Thiel, Andreessen, and aligned figures will move from funding politics to directly holding government power, directing contracts to their own companies. | `action/messaging/WARNING_TO_EVERYONE.md`, `action/messaging/THE_RECEIPTS.md` (Exhibits A–D) | **Confirmed** | Mar 5, 2026 | [Tech Oligarchy](#case-study-4), [Crypto Capture](#case-study-7) |
 | 10 | **AI safety deregulation**: Safety guardrails will be removed to accelerate AI development, framing regulation as the enemy. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction C), `action/messaging/THE_RECEIPTS.md` (Exhibit I) | **Confirmed** | Mar 3, 2026 | [DOGE/NRx](#case-study-2), [Tech Oligarchy](#case-study-4) |
-| 11 | **Network State "Exit" strategy**: Tech elites will build parallel sovereign structures (charter cities, freedom cities, special economic zones) outside democratic governance. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction A), `action/messaging/THE_RECEIPTS.md` (Exhibit D) | **Confirmed** | Mar 3, 2026 | [DOGE/NRx](#case-study-2) |
+| 11 | **Network State "Exit" strategy**: Tech elites will build parallel sovereign structures (charter cities, freedom cities, special economic zones) outside democratic governance. | `strategy/intelligence/STATE_OF_NRX_2026.md` (Faction A), `action/messaging/THE_RECEIPTS.md` (Exhibit D) | **Confirmed** | Mar 5, 2026 | [DOGE/NRx](#case-study-2), [Crypto Capture](#case-study-7) |
 | 12 | **Surveillance / "Blue Cage"**: Digital surveillance tools—whether government or privatized—will be deployed for mass monitoring and control of populations. | `action/messaging/WARNING_TO_EVERYONE.md`, `action/messaging/THE_RECEIPTS.md` (Exhibits E–G) | **Confirmed** | Mar 3, 2026 | [Tech Oligarchy](#case-study-4) |
 
 ---
@@ -114,6 +114,26 @@ Each prediction receives one of three statuses:
 
 ---
 
+### Case Study #7: The Crypto Capture {#case-study-7}
+
+**Date:** September 2024 – Ongoing
+**Event:** The President's family profited $1B+ from crypto while shaping crypto policy. $238M industry election spending (48% of all corporate donations). WLFI launches presidential stablecoin; GENIUS Act explicitly exempts President from conflict provisions. $TRUMP memecoin: 764,000 small holders lose $2B. SEC drops 12+ cases against donors (60% enforcement decline). Strategic Bitcoin Reserve commits $17B+ public assets. Abu Dhabi intelligence chief invests $500M in WLFI, receives chip export approval. MGX $2B Binance deal settled in presidential stablecoin.
+**Predictions Tested:** 5 | **Confirmed:** 5
+
+**Full Analysis:** `proof/CRYPTO_CAPTURE_2025.md`
+
+---
+
+### Case Study #8: The Constitutional Crisis {#case-study-8}
+
+**Date:** January 2025 – Ongoing
+**Event:** 243 executive orders (most since FDR). 530–583 lawsuits filed. One-third of adverse court rulings defied. $425B+ impounded. Supreme Court grants 83% of emergency applications. Universal injunctions eliminated. DOJ sues 15 judges. Judge resigns over "assault on rule of law." ABA files suit. 363 law professors sign warning. IEEPA tariffs ($160B collected) struck down 6-3 — reimposed same day under different authority. War launched without AUMF. In 128 decided cases, administration won 5.
+**Predictions Tested:** 4 | **Confirmed:** 4
+
+**Full Analysis:** `proof/CONSTITUTIONAL_CRISIS_2025.md`
+
+---
+
 | # | Case Study | Date | Predictions Tested | Confirmed |
 |---|-----------|------|-------------------|-----------|
 | 1 | [The 2026 Iran Strikes](IRAN_STRIKES_2026.md) | Feb 2026 – | 7 | 7 |
@@ -122,6 +142,8 @@ Each prediction receives one of three statuses:
 | 4 | [The Tech Oligarchy](TECH_OLIGARCHY_2025.md) | Jan 2025 – | 5 | 5 |
 | 5 | [The AI Loyalty Test](AI_LOYALTY_TEST_2026.md) | Feb 2026 – | 5 | 5 |
 | 6 | [The Surveillance State](SURVEILLANCE_STATE_2025.md) | Jan 2025 – | 4 | 4 |
+| 7 | [The Crypto Capture](CRYPTO_CAPTURE_2025.md) | Sept 2024 – | 5 | 5 |
+| 8 | [The Constitutional Crisis](CONSTITUTIONAL_CRISIS_2025.md) | Jan 2025 – | 4 | 4 |
 
 ---
 
@@ -142,10 +164,12 @@ The same network of individuals — Musk, Thiel, Yarvin, Vance, Sacks, Andreesse
 5. **Case Study #4** (`proof/TECH_OLIGARCHY_2025.md`) — The closed loop: donations → power → contracts → profits → donations.
 6. **Case Study #5** (`proof/AI_LOYALTY_TEST_2026.md`) — Anthropic blacklisted for refusing weapons. OpenAI rewarded. The Darwinian elimination of ethical AI.
 7. **Case Study #6** (`proof/SURVEILLANCE_STATE_2025.md`) — Palantir, Clearview, Azure: 50B+ images, 238 AI use cases, voter roll matching. The infrastructure that outlasts any election.
-8. **The Receipts** (`action/messaging/THE_RECEIPTS.md`) — Their own words proving the intent.
-9. **The Intelligence Brief** (`strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md`) — Strategic implications.
-10. **Update Log** (`proof/UPDATE_LOG.md`) — What changed since your last visit.
-11. **Template** (`proof/TEMPLATE_CASE_STUDY.md`) — Create a new case study when the next event hits.
+8. **Case Study #7** (`proof/CRYPTO_CAPTURE_2025.md`) — The President's stablecoin. $238M in crypto donations buys $1B+ in presidential profits. SEC captured. GENIUS Act exempts the President. The government balance sheet captured.
+9. **Case Study #8** (`proof/CONSTITUTIONAL_CRISIS_2025.md`) — 243 executive orders. 1/3 of court orders defied. $425B impounded. Judges sued. The Constitution made irrelevant through operational tempo.
+10. **The Receipts** (`action/messaging/THE_RECEIPTS.md`) — Their own words proving the intent.
+11. **The Intelligence Brief** (`strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md`) — Strategic implications.
+12. **Update Log** (`proof/UPDATE_LOG.md`) — What changed since your last visit.
+13. **Template** (`proof/TEMPLATE_CASE_STUDY.md`) — Create a new case study when the next event hits.
 
 ---
 

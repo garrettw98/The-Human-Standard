@@ -10,6 +10,14 @@
 
 ## March 2026
 
+### Mar 5, 2026 — 2 More Case Studies: Crypto Capture and Constitutional Crisis
+
+- **Created** `proof/CRYPTO_CAPTURE_2025.md` — **Case Study #7: The Crypto Capture**. The President's personal financial infrastructure. $238M crypto industry election spending (48% of all corporate donations). Trump family $1B+ profits from WLFI while shaping crypto policy. GENIUS Act explicitly exempts President from conflict provisions. $TRUMP memecoin: 764,000 small holders lose $2B. SEC drops 12+ cases against donors (60% enforcement decline, monetary penalties <3% of prior year). Strategic Bitcoin Reserve commits $17B+ public assets. Abu Dhabi intelligence chief invests $500M in WLFI, receives chip export approval. MGX $2B Binance deal settled in presidential stablecoin USD1. 5 predictions tested, 5 confirmed. 23 sourced citations.
+- **Created** `proof/CONSTITUTIONAL_CRISIS_2025.md` — **Case Study #8: The Constitutional Crisis**. The irrelevance of law. 243 executive orders (most since FDR). 530–583 lawsuits filed (unprecedented). Court orders defied in 1/3 of adverse rulings. $425B+ impounded ($8B NIH, $4.9B foreign aid, FEMA). Supreme Court grants 83% of emergency applications. Universal injunctions eliminated. DOJ sues 15 Maryland judges and files misconduct complaint against Chief Judge Boasberg. Reagan-appointed Judge Wolf resigns. ABA files suit. 363 law professors sign warning. IBA issues formal statement. IEEPA tariffs ($160B collected) struck down 6-3 — reimposed same day. War without AUMF. In 128 decided cases: administration won 5, plaintiffs won 49. 4 predictions tested, 4 confirmed. 27 sourced citations.
+- **Updated** `proof/OVERVIEW.md` — Case study index expanded from 6 to 8 entries. Master prediction table cross-references updated for predictions #1, #2, #3, #8, #9, #11. Reading guide expanded to include Case Studies #7 and #8.
+
+---
+
 ### Mar 5, 2026 — 2 New Case Studies, Deep Evidence Pass, All 12 Predictions Confirmed
 
 - **Created** `proof/AI_LOYALTY_TEST_2026.md` — **Case Study #5: The AI Loyalty Test**. Anthropic blacklisted as "Supply-Chain Risk to National Security" for refusing weapons/surveillance work. OpenAI signs Pentagon deal hours later with loophole permitting autonomous lethal force. The Darwinian selection mechanism eliminating ethical AI from government. 5 predictions tested, 5 confirmed. 11 sourced citations.
