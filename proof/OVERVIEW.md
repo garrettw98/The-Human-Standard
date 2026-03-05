@@ -94,12 +94,34 @@ Each prediction receives one of three statuses:
 
 ---
 
+### Case Study #5: The AI Loyalty Test {#case-study-5}
+
+**Date:** February 27, 2026 – Ongoing
+**Event:** Anthropic blacklisted as "Supply-Chain Risk to National Security" for refusing to build mass surveillance and autonomous weapons tools. OpenAI signs Pentagon deal hours later. Safety-conscious AI companies punished; compliant ones rewarded. A Darwinian selection mechanism eliminating ethical AI from government.
+**Predictions Tested:** 5 | **Confirmed:** 5
+
+**Full Analysis:** `proof/AI_LOYALTY_TEST_2026.md`
+
+---
+
+### Case Study #6: The Surveillance State {#case-study-6}
+
+**Date:** January 2025 – Ongoing
+**Event:** Permanent surveillance infrastructure built under immigration enforcement justification. Palantir ImmigrationOS ($1.8B from ICE). Clearview AI 50B+ facial images. Azure AI 1,400TB with emotion detection. 238 DHS AI use cases. DOGE matched SSA data against voter rolls. DOGE deleted NLRB access logs. 8 wrongful arrests from false matches.
+**Predictions Tested:** 4 | **Confirmed:** 4
+
+**Full Analysis:** `proof/SURVEILLANCE_STATE_2025.md`
+
+---
+
 | # | Case Study | Date | Predictions Tested | Confirmed |
 |---|-----------|------|-------------------|-----------|
 | 1 | [The 2026 Iran Strikes](IRAN_STRIKES_2026.md) | Feb 2026 – | 7 | 7 |
 | 2 | [The DOGE Revolution](DOGE_AND_NRX_CAPTURE_2025.md) | Jan 2025 – | 6 | 6 |
 | 3 | [The Alliance Erosion](ALLIANCE_EROSION_2025.md) | Jan 2025 – | 4 | 4 |
 | 4 | [The Tech Oligarchy](TECH_OLIGARCHY_2025.md) | Jan 2025 – | 5 | 5 |
+| 5 | [The AI Loyalty Test](AI_LOYALTY_TEST_2026.md) | Feb 2026 – | 5 | 5 |
+| 6 | [The Surveillance State](SURVEILLANCE_STATE_2025.md) | Jan 2025 – | 4 | 4 |
 
 ---
 
@@ -118,10 +140,12 @@ The same network of individuals — Musk, Thiel, Yarvin, Vance, Sacks, Andreesse
 3. **Case Study #2** (`proof/DOGE_AND_NRX_CAPTURE_2025.md`) — Yarvin's philosophy becomes policy. DOGE, Schedule F, mass layoffs.
 4. **Case Study #3** (`proof/ALLIANCE_EROSION_2025.md`) — Greenland threats, tariffs on allies, NATO drawdown, Gulf partners struck.
 5. **Case Study #4** (`proof/TECH_OLIGARCHY_2025.md`) — The closed loop: donations → power → contracts → profits → donations.
-6. **The Receipts** (`action/messaging/THE_RECEIPTS.md`) — Their own words proving the intent.
-7. **The Intelligence Brief** (`strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md`) — Strategic implications.
-8. **Update Log** (`proof/UPDATE_LOG.md`) — What changed since your last visit.
-9. **Template** (`proof/TEMPLATE_CASE_STUDY.md`) — Create a new case study when the next event hits.
+6. **Case Study #5** (`proof/AI_LOYALTY_TEST_2026.md`) — Anthropic blacklisted for refusing weapons. OpenAI rewarded. The Darwinian elimination of ethical AI.
+7. **Case Study #6** (`proof/SURVEILLANCE_STATE_2025.md`) — Palantir, Clearview, Azure: 50B+ images, 238 AI use cases, voter roll matching. The infrastructure that outlasts any election.
+8. **The Receipts** (`action/messaging/THE_RECEIPTS.md`) — Their own words proving the intent.
+9. **The Intelligence Brief** (`strategy/intelligence/GEOPOLITICAL_ACCELERATION_2026.md`) — Strategic implications.
+10. **Update Log** (`proof/UPDATE_LOG.md`) — What changed since your last visit.
+11. **Template** (`proof/TEMPLATE_CASE_STUDY.md`) — Create a new case study when the next event hits.
 
 ---
 

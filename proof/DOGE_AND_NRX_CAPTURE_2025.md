@@ -161,11 +161,12 @@ The accelerationist position — that safety regulation is the enemy — is now 
 
 | Scenario | Probability | Indicators to Watch |
 |----------|------------|-------------------|
-| **Permanent institutional capture**: Schedule F + loyalist hiring creates a government that serves the network regardless of future elections. | High | Federal hiring patterns, political test cases, career employee retention rates |
-| **Regulatory capture complete**: AI, crypto, defense, and immigration policy permanently shaped by industry insiders with conflicts of interest. | High | Sacks policy decisions vs. portfolio, Palantir/Anduril contract growth, AI safety incidents |
-| **Backlash and reversal**: 2026 midterms produce Congressional pushback; courts continue striking down executive overreach. | Moderate | Midterm results, court ruling compliance, public opinion on DOGE |
-| **Network State proliferation**: Freedom cities, charter cities, and special economic zones multiply as federal land and policy are used to create parallel structures. | Moderate | Praxis construction, freedom cities EO implementation, new charter city announcements |
-| **Civil service collapse**: Brain drain from federal government becomes permanent; institutional knowledge lost. | Moderate-High | Federal recruitment numbers, agency capability assessments, service delivery metrics |
+| **Permanent institutional capture**: Schedule F + loyalist hiring creates a government that serves the network regardless of future elections. | High → **MATERIALIZING** | Schedule F effective March 8. 50K positions stripped of protections. OPM director is a16z's Scott Kupor. Rule received 40K+ comments, 94% opposed — finalized anyway. |
+| **Regulatory capture complete**: AI, crypto, defense, and immigration policy permanently shaped by industry insiders with conflicts of interest. | High → **MATERIALIZING** | Anthropic banned for refusing weapons. OpenAI rewarded. a16z is "first outside call" from White House on tech policy. GENIUS Act passed. Strategic Bitcoin Reserve established. |
+| **AI loyalty test**: Companies that refuse government weapons/surveillance demands are punished; compliant companies rewarded. A new mechanism for controlling the private sector. | **NEW — High** | Anthropic ban (Feb 27). Which company is next? Does the pattern extend to other sectors? |
+| **Civil service collapse**: Brain drain becomes permanent; institutional knowledge lost. Essential services fail. | High → **MATERIALIZING** | 322K separated. VA: 14,400 healthcare positions lost, 94% facilities in severe shortage. SSA: 6M backlog. IRS: 76K staff (lowest since 1970s). |
+| **Backlash and reversal**: 2026 midterms produce Congressional pushback; courts strike down overreach. | Moderate | Supreme Court struck IEEPA tariffs 6-3 — but admin reimposed under different authority within days. Senate failed to stop Iran war 47-53. Pattern: courts push back, executive circumvents. |
+| **Network State proliferation**: Freedom cities, charter cities multiply using federal power. | Moderate | Praxis selected "Atlas" site at Vandenberg. Freedom Cities EO stalled but AEI "Homesteading 2.0" blueprint published. Draft Freedom Cities Act exists. |
 
 ### What to Watch
 

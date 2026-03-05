@@ -10,6 +10,29 @@
 
 ## March 2026
 
+### Mar 5, 2026 — 2 New Case Studies, Deep Evidence Pass, All 12 Predictions Confirmed
+
+- **Created** `proof/AI_LOYALTY_TEST_2026.md` — **Case Study #5: The AI Loyalty Test**. Anthropic blacklisted as "Supply-Chain Risk to National Security" for refusing weapons/surveillance work. OpenAI signs Pentagon deal hours later with loophole permitting autonomous lethal force. The Darwinian selection mechanism eliminating ethical AI from government. 5 predictions tested, 5 confirmed. 11 sourced citations.
+- **Created** `proof/SURVEILLANCE_STATE_2025.md` — **Case Study #6: The Surveillance State**. Permanent surveillance infrastructure built under immigration enforcement justification: Palantir ImmigrationOS ($1.8B from ICE), Clearview AI (50B+ facial images, $9.2M), Microsoft Azure (1,400TB, emotion detection), Mobile Fortify (200M+ images), 238 DHS AI use cases, DOGE voter roll matching, DOGE NLRB log deletion. 4 predictions tested, 4 confirmed. 11 sourced citations.
+- **Updated** `proof/OVERVIEW.md` — Case study index expanded to 6 entries. New case study summaries and reading guide updated.
+- **Deepened** `proof/IRAN_STRIKES_2026.md`:
+  - Predictions #6 (De-dollarization) and #7 (China window) upgraded from Emerging → Confirmed in main analysis text (not just DEVELOPING log)
+  - Key Facts expanded: war powers vote failure 47-53, total casualties 1,230+/2,400+, 500+ ballistic missiles + 2,000+ drones, first torpedo sinking since WWII, pre-war diplomacy sabotaged, DOGE-to-war connection, global economic shock
+  - Five Laws updated with current casualty figures
+- **Deepened** `proof/TECH_OLIGARCHY_2025.md`:
+  - DEVELOPING table expanded: Anduril testing failures (failures don't stop contracts), OpenAI safety collapse (Mission Alignment disbanded), SpaceX $1.5T IPO, a16z as "first outside call" from White House, SHIELD $151B competition, Palantir market cap exceeds Boeing
+  - Five Laws updated with current figures
+  - 6 new sourced citations [29]-[34]
+- **Deepened** `proof/ALLIANCE_EROSION_2025.md`:
+  - DEVELOPING entries refined: *Learning Resources v. Trump* case details (6-3), 2,000+ lawsuits, Turnberry Deal specifics (15%/0%), Anti-Coercion Instrument, Germany Schuldenbremse amendment (€377B procurement), France €64B, UK 2.5%, SAFE €150B, Canada trade diversification (Ecuador, Indonesia, UAE, India), Panama Supreme Court ruling details
+  - Five Laws upgraded (First Law: Severe → Critical)
+- **Deepened** `proof/DOGE_AND_NRX_CAPTURE_2025.md`:
+  - Scenario analysis updated: multiple scenarios now marked as "MATERIALIZING"
+  - New scenario added: "AI loyalty test" as extension of institutional capture
+  - Exit strategy prediction upgraded: Emerging → Confirmed
+
+---
+
 ### Mar 5, 2026 — Geopolitical Evidence Update: All 12 Predictions Now Confirmed
 
 - **Upgraded** Prediction #6 (De-dollarization acceleration): **Emerging → Confirmed** — Russia-China bilateral trade at 99.1% ruble/yuan. BRICS Pay infrastructure active. Yuan-based oil trade accelerating. Iran sanctions driving alternative payment systems.

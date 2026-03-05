@@ -47,7 +47,12 @@ Before examining the timeline, understand the network. These are not independent
 | **Palantir ICE expansion** | Palantir collects **$1.8 billion from ICE** during 2025 for ImmigrationOS and related surveillance systems. Total Palantir government revenue since inauguration exceeds **$2.7 billion**. | [26] |
 | **a16z political spending** | Andreessen Horowitz contributes **$50 million to "Leading the Future" PAC** — a new political vehicle for the 2026 midterms. Combined with Fairshake ($200M), the network's political spending infrastructure now exceeds $250M. | [27] |
 | **44 billionaires in government** | Analysis identifies **44 billionaires or billionaire-adjacent individuals** holding formal or informal government roles — the highest concentration of private wealth in government in American history. | [28] |
-| **The war premium** | Palantir stock up **23% since Iran strikes began** (Feb 28 – Mar 5). Anduril reportedly preparing IPO at $80B+ valuation. The war is not just a policy outcome — it is a profit engine for the network. | [17][23] |
+| **The war premium** | Palantir stock up **23% since Iran strikes began** (Feb 28 – Mar 5). Palantir market cap (~$320B) **now exceeds Boeing's**. Anduril reportedly preparing IPO at $80B+ valuation. VC investment in defense-tech startups exceeded **$28B in 2025**. The war is not just a policy outcome — it is a profit engine for the network. | [17][23][29] |
+| **Anduril: failures don't matter** | WSJ (Nov 2025) reported Anduril testing failures: drone boats failed Navy exercise, Fury engine damage during ground test, counter-drone test caused 22-acre fire in Oregon. **Ukrainian forces stopped using Altius loitering drones after failures.** Yet contracts keep flowing: $642M USMC, $60B valuation, $4B raise led by a16z. Quality is irrelevant when your investors are in government. | [30] |
+| **OpenAI safety collapse** | OpenAI **disbanded its Mission Alignment team** (Feb 2026) after just 16 months. Safety executive Ryan Beiermeister fired (Jan 2026) for opposing "adult mode." Researcher Zoe Hitzig resigned (Feb 2026) over advertising and data manipulation concerns. Then it signed the Pentagon deal. The company that dismantled its own safety infrastructure is now the government's preferred AI weapons partner. | [31] |
+| **SpaceX IPO** | SpaceX confirmed mid-2026 IPO at **~$1.5 trillion valuation** — would be the largest IPO in history. Current valuation ~$800B. Musk's personal wealth, government contracts, and political influence will compound further. | [32] |
+| **a16z as shadow cabinet** | Bloomberg (Feb 2026): a16z is now "**regularly the first outside call** that top White House officials and senior Republican congressional aides make" when considering tech policy. Federal lobbying spending: $3.53M in 2025 (doubled from 2024). Former deputy national security advisor Anne Neuberger joined a16z as senior advisor. | [27][33] |
+| **SHIELD competition** | Golden Dome's SHIELD contract approved **2,440 vendors** to compete for up to **$151 billion** in awards. Anduril, Palantir, SpaceX, Lockheed, Northrop all approved. CBO estimates total Golden Dome cost: **$161B–$542B over 20 years**. The pipeline is effectively infinite. | [34] |
 
 ### Key Facts
 
@@ -116,11 +121,11 @@ This is not a conspiracy theory. Every element is documented by Bloomberg, Washi
 
 | Law | Principle | Violation | Severity |
 |-----|----------|-----------|----------|
-| **First Law: Do No Harm** | No policy may cause harm or deprive necessities. | 300K workers fired. ImmigrationOS enables mass surveillance and deportation. Iran strikes run on Palantir targeting — 555+ civilians killed. | **Critical** |
+| **First Law: Do No Harm** | No policy may cause harm or deprive necessities. | 322K workers separated. ImmigrationOS enables mass surveillance and deportation ($1.8B from ICE). Clearview AI facial recognition ($9.2M ICE contract) — 8 wrongful arrests from false positives. Iran strikes run on Palantir targeting — 1,230+ killed including 310+ civilians. | **Critical** |
 | **Second Law: Maximize Human Flourishing** | Governance serves flourishing. | Government restructured to serve corporate profit, not human welfare. AI deregulation prioritizes speed over safety. | **Critical** |
 | **Third Law: Preserve Human Agency** | Humans retain control; representatives set policy. | Key positions filled without Senate confirmation. $410B impounded. Policy shaped by unelected billionaires with financial conflicts. | **Critical** |
 | **Fourth Law: Maintain Transparency** | Systems must be auditable. | Conflict-of-interest management self-policed. Contract awards lack competitive bidding. DOGE operated with minimal oversight. Sacks' portfolio decisions undisclosed. | **Critical** |
-| **Fifth Law: Serve All Equally** | No special treatment. | The network writes the rules and profits from them. $6B in contracts to insiders. 300K workers fired to "cut costs" while insiders collect billions. The system serves a handful of people at the expense of everyone else. | **Critical** |
+| **Fifth Law: Serve All Equally** | No special treatment. | The network writes the rules and profits from them. Palantir's market cap ($320B) now exceeds Boeing's. 322K workers fired to "cut costs" while insiders collect billions. Anthropic banned for refusing weapons; OpenAI rewarded for compliance. The system serves a handful of people at the expense of everyone else. | **Critical** |
 
 **Overall Assessment: 5 Critical. The most comprehensive violation of the Five Laws in any case study.**
 
@@ -171,6 +176,12 @@ The most important finding across all four case studies is that **the same netwo
 26. [Amnesty International: Palantir ICE surveillance spending](https://www.amnesty.org/en/latest/news/2025/08/usa-global-tech-made-by-palantir-and-babel-street-pose-surveillance-threats-to-pro-palestine-student-protestors-migrants/)
 27. [OpenSecrets: a16z Leading the Future PAC $50M](https://www.opensecrets.org/political-action-committees-pacs/leading-the-future/C00876342/summary/2026)
 28. [Oxfam: Rise of the tech oligarchy — 44 billionaires in government](https://politicsofpoverty.oxfamamerica.org/rise-of-the-tech-oligarchy-part-ii/)
+29. [Aviation Week: Legacy Large Defense Primes Are Cracking](https://aviationweek.com/defense/supply-chain/legacy-large-defense-primes-are-cracking-new-order)
+30. [TechCrunch: Anduril's autonomous weapons stumble in tests and combat](https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/)
+31. [WinBuzzer: OpenAI disbanded Mission Alignment team after 16 months](https://winbuzzer.com/2026/02/12/openai-disbanded-mission-alignment-team-16-months-xcxwbn/)
+32. [HeyGoTrade: Musk confirms SpaceX IPO 2026, targets $1.5T valuation](https://www.heygotrade.com/en/news/musk-confirms-spacex-ipo-2026-targets-1-trillion-valuation)
+33. [Bloomberg: Trump's AI policy shaped by a16z](https://www.bloomberg.com/news/features/2026-02-10/trump-s-ai-policy-shaped-by-vc-tech-giant-andreessen-horowitz)
+34. [Defense One: 2,440 companies chosen for $151B Golden Dome competition](https://www.defenseone.com/business/2025/12/another-1000-more-defense-companies-chosen-151-billion-golden-dome-competition/410326/)
 
 ---
 

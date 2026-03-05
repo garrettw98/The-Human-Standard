@@ -23,15 +23,19 @@
 
 ### Key Facts
 
-- **No Congressional vote** authorized the strikes. Top lawmakers were notified shortly before the operation launched, but no authorization was sought.
-- **Regime change is the stated objective.** Trump publicly urged Iranians to "take over your government." The assassination of the Supreme Leader is regime change by definition—directly contradicting the stated US policy of "deterrence, not regime change."
-- **165–180 children and staff killed** at an elementary school in Minab. UNESCO condemned it as a grave violation of humanitarian law.
-- **Six US servicemembers killed** in a war Congress did not authorize.
-- **Iran retaliated across nine countries**, striking US bases and civilian targets including airports, hotels, and residential neighborhoods.
-- **Gulf allies struck by Iranian retaliation** they did not agree to—their airspace closed, their airports hit, their citizens killed.
-- **Strait of Hormuz effectively closed.** Shipping halted. Oil prices spiked. Saudi Arabia and Qatar shut major energy infrastructure.
-- **Defense contractors profiting.** Palantir (founded by Thiel) was the top S&P 500 performer the first trading day after strikes began.
-- **4–5 week projected campaign.** This is not over.
+- **No Congressional vote** authorized the strikes. The **Senate war powers vote failed 47-53** (Mar 4). Only Sen. Rand Paul (R) voted yes. Congress has abdicated its war power.
+- **Regime change is the stated objective.** Trump publicly urged Iranians to "take over your government." He told Axios he "must have a role in choosing" Iran's next leader and called successor Mojtaba Khamenei "unacceptable."
+- **1,230+ killed in Iran** (Al Jazeera) / **2,400+** (Hengaw). **310+ civilians** including **176 children**. The Minab elementary school strike killed 165–180. UNESCO condemned it as a grave violation.
+- **Six US servicemembers killed** in a war Congress did not authorize and voted not to stop.
+- **Iran retaliated with 500+ ballistic missiles and 2,000+ drones** across nine countries. Gulf airports, hotels, residential areas struck.
+- **20+ Iranian naval vessels sunk** — including the **first torpedo sinking since World War II** (IRIS Dena, off Sri Lanka, Mar 4).
+- **Gulf allies struck by Iranian retaliation** they did not agree to. Their airspace closed, airports hit, citizens killed, energy infrastructure damaged.
+- **Strait of Hormuz effectively closed.** Insurance withdrawn. 150+ ships anchored. Near-zero tanker traffic. Oil analysts forecast $100+/barrel.
+- **Defense contractors profiting.** Palantir up 23% since strikes began (market cap: ~$320B, exceeding Boeing). Defense-tech ETF rallied.
+- **Pre-war diplomacy sabotaged.** Oman announced breakthrough nuclear deal on Feb 27. Iran agreed to never stockpile enriched uranium + full IAEA verification. Strikes launched one day later.
+- **DOGE weakened war oversight.** Pentagon civilian casualty team slashed from 30-40 to 7 staff before strikes. DISA warned DOGE cuts created "extreme risk" for military systems.
+- **Global economic shock.** KOSPI worst crash since 2008 (-12%). Pakistan KSE largest single-day decline ever (-9.57%). Recession warnings from Oxford Economics and Morgan Stanley.
+- **Hegseth (March 5): "just getting started."** This is not over.
 
 ---
 
@@ -44,8 +48,8 @@
 | Faustian Bargain | *"Thiel is the primary funder... Founder of Palantir"* (`THE_RECEIPTS.md`, Exhibit A); *"Ban 'Private Armies.' Companies like Anduril must remain strictly subservient to civilian, democratic oversight."* (`THE_COUNTER_COUP.md`, Section 4.1) | Defense-tech companies with direct ties to the political architects of the strikes (Palantir for targeting intelligence, Anduril for autonomous systems, SpaceX for communications) stand to profit massively. | **Direct** |
 | Alliance fragmentation | *"America is stronger with partners... Alliances multiply strength"* (`DEFENSE_FOREIGN_POLICY.md`, Core Principles) | Iran retaliated against 9 countries. Gulf airports struck, Saudi refinery shut, Qatar halted LNG, at least 5 killed in Gulf states. Allies physically attacked as consequence of a war launched without consulting them. | **Confirmed** |
 | Energy weaponization | *"Energy security (less critical but still relevant)"* (`DEFENSE_FOREIGN_POLICY.md`, Part XI) | Hormuz shipping halted. Brent crude surged 13% to $82.37. Saudi shut largest refinery. Qatar halted LNG production. Force majeure declared. | **Confirmed** |
-| De-dollarization | *"May accelerate de-dollarization efforts"* (`DEFENSE_FOREIGN_POLICY.md`, Part XII) | Unilateral military action without allied consultation reinforces the case for nations seeking alternatives to dollar-denominated trade and US-controlled financial infrastructure. | **Emerging** |
-| China window | *"China timeline: Prepared for war by 2027"* (`DEFENSE_FOREIGN_POLICY.md`, Part VI) | US military assets, intelligence capacity, and political attention diverted to Iran theater. Every carrier group in the Persian Gulf is one not in the Taiwan Strait. | **Emerging** |
+| De-dollarization | *"May accelerate de-dollarization efforts"* (`DEFENSE_FOREIGN_POLICY.md`, Part XII) | Russia-China 99.1% ruble/yuan bilateral trade. BRICS Pay across 119 countries. Yuan-based oil trade accelerating as Gulf states hedge against US unpredictability. | **Confirmed** |
+| China window | *"China timeline: Prepared for war by 2027"* (`DEFENSE_FOREIGN_POLICY.md`, Part VI) | 2026 NDS omits Taiwan. China's largest-ever Taiwan exercise (Dec 2025). French arrested PRC nationals intercepting Starlink military comms. US assets diverted to Iran. | **Confirmed** |
 
 ---
 
@@ -134,7 +138,9 @@ The people who funded the political movement that captured the executive are pro
 
 **What happened:** Every intelligence analyst, carrier group, and diplomatic channel focused on Iran is one *not* focused on the Taiwan Strait. The strikes have gifted Beijing exactly what it needed: a distracted America, strained alliances, and a global narrative about US aggression that reinforces China's *"both sides"* diplomacy.
 
-**Assessment:** The strategic window is widening. Whether China exploits it depends on Beijing's risk calculus, but the *opportunity* we warned about is now real. **Emerging.**
+**March 5 update:** The window is no longer theoretical. The 2026 National Defense Strategy **conspicuously omits Taiwan** — unlike the 2022 NDS. China conducted its largest-ever Taiwan military exercise ("Justice Mission 2025," December 29-30, 2025), rehearsing a blockade with 2,000 fishing vessels. French authorities arrested two PRC nationals (February 5, 2026) for intercepting Starlink satellite communications, including sensitive military data. US military assets and attention are now locked in the Iran theater. Foreign Affairs ran the headline: *"A Perfect Storm for Taiwan in 2026?"*
+
+**Assessment:** **Confirmed.** The US has diverted its military, intelligence, and diplomatic bandwidth to the Middle East while China has intensified preparations and the NDS has weakened commitments. The window is open.
 
 ---
 
@@ -144,7 +150,9 @@ The people who funded the political movement that captured the executive are pro
 
 **What happened:** Unilateral US military action—taken without allied consultation or UN authorization—reinforces the narrative that dollar-denominated systems are tools of American coercion. Nations watching this calculate: *"If we hold dollars and the US decides we are next, our reserves can be frozen."* Every such calculation moves the world further from dollar primacy.
 
-**Assessment:** De-dollarization is a slow-moving structural shift, not an overnight event. But the strikes accelerate the timeline. **Emerging.**
+**March 5 update:** The structural shift is no longer slow-moving. Russia and China now settle **99.1% of bilateral trade in rubles and yuan** (per Russian Finance Minister Siluanov). BRICS Pay connects Russia's SPFS, China's CIPS, and India's UPI payment systems across 119 countries, linking 4,800 banks in 185 countries. Brazil-China signed a yuan-real settlement agreement. India purchases Russian oil in rupees. The Iran war is accelerating yuan-based oil trade as Gulf states hedge against US policy unpredictability. The dollar's share of global reserves is declining — and the strikes accelerate the timeline.
+
+**Assessment:** **Confirmed.** The infrastructure for de-dollarization now exists at scale and is expanding in direct response to US unilateral action.
 
 ---
 
@@ -152,7 +160,7 @@ The people who funded the political movement that captured the executive are pro
 
 | Law | Principle | Violation | Severity |
 |-----|----------|-----------|----------|
-| **First Law: Do No Harm** | No policy may directly cause physical harm to any person or deprive any person of basic necessities. | 555+ civilians killed in Iran, including 165–180 children and staff at the Minab elementary school. Six US servicemembers killed. At least 10 killed in Israel, 5 in Gulf states from Iranian retaliation. | **Critical** |
+| **First Law: Do No Harm** | No policy may directly cause physical harm to any person or deprive any person of basic necessities. | 1,230+ killed in Iran (Al Jazeera) / 2,400+ (Hengaw, including 310+ civilians and 176 children). 165–180 children killed at Minab elementary school. Six US servicemembers killed. 77 killed and 527 injured in Lebanon. At least 10 killed in Israel, 5+ in Gulf states. 20,000 seafarers and 15,000 cruise passengers stranded. | **Critical** |
 | **Second Law: Maximize Human Flourishing** | The purpose of governance is human flourishing—health, security, freedom, connection, purpose, environment. | Strikes produce death, regional destabilization, economic disruption, and fear—the opposite of flourishing—for millions. | **Critical** |
 | **Third Law: Preserve Human Agency** | Humans must retain ultimate control over systems affecting their lives. Elected representatives must set policy. | Congress was not consulted. The American people had no say in a war launched in their name. Iranian civilians had no agency over the destruction of their country. | **Critical** |
 | **Fourth Law: Maintain Transparency** | All systems affecting human lives must be publicly auditable. | The decision-making process leading to the strikes remains opaque. No public legal justification. No disclosure of civilian impact assessments. | **Severe** |

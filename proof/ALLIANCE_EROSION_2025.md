@@ -23,14 +23,14 @@
 
 | Development | Detail | Source |
 |------------|--------|--------|
-| **Supreme Court strikes tariffs** | Supreme Court rules (Feb 20, 2026) that **IEEPA cannot be used for tariffs** — striking down the legal basis for the administration's trade war. Administration signals it will seek alternative authority. | [13] |
-| **EU trade deal frozen** | EU suspends all ongoing trade negotiations with the US, citing "fundamental breakdown of trust." European Commission redirects negotiating resources to bilateral deals with Canada, Japan, and India. | [14] |
+| **Supreme Court strikes tariffs** | Supreme Court rules **6-3** in *Learning Resources, Inc. v. Trump* (Feb 20, 2026) that **IEEPA cannot be used for tariffs**. Majority: Roberts, Sotomayor, Kagan, Gorsuch, Barrett, Jackson. Over **2,000 lawsuits filed** to recover collected tariffs. Trump immediately reimposed 10% universal tariff under Section 122, effective Feb 24 — circumventing the ruling within days. | [13] |
+| **EU Turnberry Deal frozen** | The EU-US "Turnberry Deal" (15% US tariffs on EU / EU cuts industrial tariffs to 0%) **frozen by European Parliament** after Trump's post-Supreme Court tariff reimposition. German Chancellor Merz: EU "won't accept a US trade deal on worse tariff terms." France pushing activation of the **Anti-Coercion Instrument** — a "nuclear option" restricting US suppliers' access to EU markets. | [14] |
 | **NATO 5% GDP demand** | Trump demands NATO allies spend **5% of GDP on defense** — up from the existing 2% target that most allies haven't met. No ally currently spends 5%. Analysts call it a "deliberate impossibility" designed to justify withdrawal. | [15] |
-| **European rearmament** | EU announces **€800 billion "ReArm Europe" program** — the largest European defense mobilization since the Cold War. Explicitly framed as reducing dependence on US security guarantees. | [16] |
+| **European rearmament** | EU announces **€800 billion "ReArm Europe/Readiness 2030" program**. Germany amends constitution (Schuldenbremse) to exempt defense spending, plans **€377B military procurement** targeting 3.5% GDP by 2029. France doubling defense budget to **€64B by 2027**. UK targeting **2.5% GDP**. EU SAFE program: **€150B in defense loans**, first tranche €38B approved Feb 2026. The largest European defense mobilization since the Cold War — explicitly to reduce US dependence. | [16] |
 | **US troops leave Romania** | **3,000 US troops withdrawn from Romania** as part of NATO command handover. Romania shares a border with Ukraine. Withdrawal signals prioritization of Iran theater over European deterrence. | [17] |
 | **Greenland framework deal** | US and Denmark reach **framework agreement** on Greenland, granting the US expanded military basing rights and economic access. Critics call it "sovereignty erosion by installment." | [18] |
-| **Canada pivots to China** | Canada opens **bilateral trade negotiations with China** — a strategic response to US tariffs. The US tariff war is pushing its closest ally toward its primary strategic competitor. | [19] |
-| **Panama Canal annulment** | Trump administration pressures Panama to annul CK Hutchison's (Hong Kong-based) Panama Canal port concession, citing national security. Framed as countering Chinese influence, but further strains Latin American relations. | [20] |
+| **Canada pivots away from US** | PM Carney visited Beijing (Jan 2026), signed strategic partnership with China including tariff cuts on Canadian canola. Canada also concluded trade deals with **Ecuador, Indonesia, UAE**, restarted India talks, targeting Philippines, Thailand, Mercosur, Saudi Arabia. Trump threatened **100% tariff** on Canada in response. Despite diversification, US still absorbs 70% of Canadian exports — making the pivot existential. | [19] |
+| **Panama Canal annulment** | Panama's **Supreme Court ruled CK Hutchison's concessions unconstitutional**. Maersk and MSC now operating ports as interim managers. BlackRock's $23B global ports deal proceeding but **excluding Panama**. US-Panama security agreement signed allowing US troops to conduct combat exercises for 3 years. Framed as countering Chinese influence, but further strains Latin American sovereignty. | [20] |
 
 ### Key Facts
 
@@ -125,13 +125,13 @@ Every action that damages an alliance is a gift to Beijing. The administration d
 
 | Law | Principle | Violation | Severity |
 |-----|----------|-----------|----------|
-| **First Law: Do No Harm** | No policy may directly cause physical harm. | Gulf allies struck by Iranian retaliation due to US strikes launched from their soil without consultation. Canadian economy contracted 1.6%. | **Severe** |
+| **First Law: Do No Harm** | No policy may directly cause physical harm. | Gulf allies struck by 400+ ballistic missiles and ~1,000 drones from Iranian retaliation. Canadian economy contracted 1.6%. Iran launched 500+ ballistic missiles and 2,000+ drones across 9 countries — all because of US strikes launched from allied soil without consultation. | **Critical** |
 | **Second Law: Maximize Human Flourishing** | Governance serves human flourishing. | Tariffs amount to ~$1,500/household tax increase. Alliance destruction reduces collective security for billions. | **Severe** |
 | **Third Law: Preserve Human Agency** | Elected representatives set policy. | Ukraine peace deal excluded the nations affected. Gulf allies presented with fait accompli. Allied populations had no voice. | **Severe** |
 | **Fourth Law: Maintain Transparency** | All systems must be auditable. | Greenland motivations unclear (national security? Network state? Resource extraction?). Alliance commitments deliberately ambiguous. | **Moderate** |
 | **Fifth Law: Serve All Equally** | No discrimination. | Allies treated as subordinates, not partners. Tariffs punish allied economies while US defense contractors profit. | **Severe** |
 
-**Overall Assessment: 4 Severe, 1 Moderate.**
+**Overall Assessment: 1 Critical, 3 Severe, 1 Moderate. Upgraded from previous assessment due to scale of Gulf state damage.**
 
 ---
 
